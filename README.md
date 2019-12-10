@@ -1,36 +1,44 @@
 # UHH2-datasets
 
 Repository for dataset XML files to be used in [UHH2](UHH2/UHH2).
-Split from main UHH2 code, since we now have datasets that can be used across mutliple branches, and we only want one centralised repository to handle these.
+This has been separated from the main UHH2 code, since we now have datasets that can be used across mutliple branches, and we only want one centralised repository to handle these datasets.
 
 Currently, this repository is only designed to be used for `RunII_102X_v*`, and `RunII_106X_v*` datasets.
+Please only make Pull Requests for those ntuples.
 
 ## Installation
 
-First, fork the UHH2-datasets repository to your github.
+This has to be done once in your existing UHH2 repository.
 
-Then, starting in `UHH2`:
+First, fork the UHH2-datasets repository to your github (see https://help.github.com/en/github/getting-started-with-github/fork-a-repo if unsure what to do).
+
+Then, starting in your `UHH2` directory:
 
 ```
 cd common/datasets
 git init
 gname=$(git config --get user.github)  # or manually set it to your github name
-git remote add origin "https://github.com/$gname/UHH2-datasets"
-git remote add UHH https://github.com/UHH2/UHH2-datasets
-git fetch origin
-git reset --hard origin/master
+git remote add origin "https://github.com/$gname/UHH2-datasets"  # add your fork to use for PRs
+git remote add UHH https://github.com/UHH2/UHH2-datasets  # add the main repo to get upstream changes
+git fetch UHH
+git reset --hard UHH/master  # reset to the HEAD state of UHH2-dataset
+git branch -u UHH/master  # setup to track from the main repo, i.e. default if you do git pull
 ```
 
+You can then easily pull from the main repo with `git pull`.
+
 Note that the `git reset` here just resets all the tracked files (i.e. all those in UHH2-datasets) to their state in the UHH2-datasets repository.
-Note that any uncommitted changes may be lost!
+Note that any uncommitted changes to tracked files may be lost, but any new files you have created will still remain.
 
 At this point, if you do `git status`, you should see under "Untracked files" any files/changes that have not been committed to the UHH2-dataset repository.
 You should commit them, and if applicable, make a Pull Request against the UHH2 repository centrally.
 
-## Committing
+## Committing & Pull Requests
 
 Datasets should be commit to the subdirectory corresponding to the branch name used to create them.
 
+To push changes to the main repository, you should push to a branch on your fork (i.e. `git push origin mybranch`),
+and then make a Pull Request against the main UHH2 repository.
 
 ## Porting commits/XML from UHH2
 

@@ -3,17 +3,29 @@
 Repository for dataset XML files to be used in [UHH2](UHH2/UHH2).
 Split from main UHH2 code, since we now have datasets that can be used across mutliple branches, and we only want one centralised repository to handle these.
 
+Currently, this repository is only designed to be used for `RunII_102X_v*`, and `RunII_106X_v*` datasets.
 
 ## Installation
 
-Starting in `UHH2`:
+First, fork the UHH2-datasets repository to your github.
+
+Then, starting in `UHH2`:
 
 ```
-cd common
-# if necessary, rename the existing datasets directory:
-# mv datasets datasets-old
-git clone https://github.com/UHH2/UHH2-datasets datasets
+cd common/datasets
+git init
+gname=$(git config --get user.github)  # or manually set it to your github name
+git remote add origin "https://github.com/$gname/UHH2-datasets"
+git remote add UHH https://github.com/UHH2/UHH2-datasets
+git fetch origin
+git reset --hard origin/master
 ```
+
+Note that the `git reset` here just resets all the tracked files (i.e. all those in UHH2-datasets) to their state in the UHH2-datasets repository.
+Note that any uncommitted changes may be lost!
+
+At this point, if you do `git status`, you should see under "Untracked files" any files/changes that have not been committed to the UHH2-dataset repository.
+You should commit them, and if applicable, make a Pull Request against the UHH2 repository centrally.
 
 ## Committing
 
@@ -38,8 +50,10 @@ git clone -b RunII_102X_v2 https://github.com/UHH2/UHH2.git UHH2-2
 - Get commits that apply to directories, and rename the directory structure (since we don't want `common/datasets` here):
 
 ```
-git filter-repo --path common/datasets/RunII_102X_v2/ --path-rename 'common/datasets/RunII_102X_v2':'RunII_102X_v2'
+git filter-repo --path common/datasets/RunII_102X_v2/2016v3/ --path common/datasets/RunII_102X_v2/2017/ --path-rename 'common/datasets/RunII_102X_v2':'RunII_102X_v2'
 ```
+
+note that we do all the individual subdirs, otherwise we also end up with common/datasets/RunII_102X_v1 for some reason
 
 - Note that you may have to tidy up if commits modified other dirs, e.g.
 

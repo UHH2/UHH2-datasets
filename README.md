@@ -25,7 +25,7 @@ git branch -u UHH2/master
 
 Note that the last commands adds and tracks `master` branch of the central UHH2 copy of the repository. This means you can easily pull from it with `git pull`.
 
-: exclamation: **Important** you should update your XML files to use the new `common/UHH2-datasets` directory, instead of the old `common/datasets`.
+:exclamation: **Important** you should update your XML files to use the new `common/UHH2-datasets` directory, instead of the old `common/datasets`.
 
 ## Committing & Pull Requests
 

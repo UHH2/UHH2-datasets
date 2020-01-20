@@ -33,3 +33,22 @@ Datasets should be commit to the subdirectory of UHH2-datasets corresponding to 
 
 To push changes to the main repository, you should push to a branch on your fork (i.e. `git push origin mybranch`), and then make a Pull Request against the main UHH2 repository.
 
+
+--------------------------------------------------------------------------------
+
+## Copying commits/pull requests from UHH2
+
+Sometime you may need to copy a commit from the main UHH2 repo. 
+Ideally this is done retaining the original committer/timetstamp/commit message.
+
+The easiest way is to generate a git patch, and then use `git am`.
+
+e.g. from Pull Request #1476:
+
+```
+wget https://patch-diff.githubusercontent.com/raw/UHH2/UHH2/pull/1476.patch
+sed -i 's|common/datasets/||g' 1476.patch
+git am 1476.patch
+```
+
+Note that the `sed` command is necessary to update the paths (since in UHH2 it will be in `common/datasets/RunII_...`, whilst for this repository is is just `RunII_...`)

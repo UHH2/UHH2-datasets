@@ -406,3 +406,4 @@
 <In FileName="/pnfs/desy.de/cms/tier2//store/group/uhh/uhh2ntuples/RunII_102X_v2/2017v2//WJetsToQQ_HT400to600_qc19_3j_TuneCP5_13TeV-madgraphMLM-pythia8/crab_WJetsToQQ_HT400to600_qc19_3j_CP5_Fall17_v1/200110_093434/0000/Ntuple_98.root" Lumi="0.0"/>
 <In FileName="/pnfs/desy.de/cms/tier2//store/group/uhh/uhh2ntuples/RunII_102X_v2/2017v2//WJetsToQQ_HT400to600_qc19_3j_TuneCP5_13TeV-madgraphMLM-pythia8/crab_WJetsToQQ_HT400to600_qc19_3j_CP5_Fall17_v1/200110_093434/0000/Ntuple_99.root" Lumi="0.0"/>
 <!-- < NumberEntries="9738307" Method=fast /> -->
+<!-- < NumberEntries="9708539.0" Method=weights /> -->

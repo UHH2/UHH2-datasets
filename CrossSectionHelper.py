@@ -27,6 +27,7 @@ class MCSampleValuesHelper():
         helper.get_xs("TTbarTo2L2Nu","13TeV","2018")
         helper.get_nevt("TTbarTo2L2Nu","13TeV","2018")
         helper.get_br("TTbarTo2L2Nu","13TeV","2018")
+        helper.get_xml("TTbar","13TeV","2016")
     """
 
     __years = ["2016","2017","2018"]
@@ -65,7 +66,7 @@ class MCSampleValuesHelper():
             "CrossSection" :   XSValues(XSec_13TeV=831.8, XSec_2016=831.8, XSecSource_13TeV="PDG XS - http://pdg.lbl.gov/2019/reviews/rpp2018-rev-top-quark.pdf"),
             "BranchingRatio" : BRValues(BRat_13TeV=1., BRatSource_13TeV="PDG BR (t=tbar) - http://pdg.lbl.gov/2019/reviews/rpp2018-rev-top-quark.pdf"),
             "NEvents" :   NEventsValues(NEVT_2016=-1),
-            "XMLname" :   XMLValues(Xml_2016="test"),
+            "XMLname" :   XMLValues(Xml_2016="UHH2-datasets/RunII_106X_v2/SM/UL17/name.xml", XmlSource_2016="/TTbar*to*/RunIISummer20MiniAODv2*/MINIAODSIM"),
         },
         "TTbarTo2L2Nu" : {
             "CrossSection" :   XSValues(XSec_13TeV=831.8, XSec_2017=831.8, XSec_2018=831.8, XSecSource_13TeV="PDG XS - http://pdg.lbl.gov/2019/reviews/rpp2018-rev-top-quark.pdf"),

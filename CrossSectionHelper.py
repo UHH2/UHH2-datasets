@@ -636,7 +636,7 @@ class MCSampleValuesHelper():
 
         "ST_tW_top_5f_NoFullyHadronicDecays" : {
             "CrossSection" : XSValues(XSec_13TeV=35.85, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/SingleTopRefXsec"),
-            "BranchingRatio" : BRValues(BRat_13TeV=0.546, BRatSource_13TeV="https://pdg.lbl.gov/2021/listings/rpp2021-list-w-boson.pdf (page 5, 1-(W->had)**2)"),
+            "BranchingRatio" : BRValues(BRat_13TeV=0.543, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2: dileptonic + semileptonic; tW has the same BRs as ttbar)"),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=-1,
                 NEVT_UL16postVFP=109290196.259,
@@ -653,7 +653,7 @@ class MCSampleValuesHelper():
 
         "ST_tW_antitop_5f_NoFullyHadronicDecays" : {
             "CrossSection" : XSValues(XSec_13TeV=35.85, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/SingleTopRefXsec"),
-            "BranchingRatio" : BRValues(BRat_13TeV=0.546, BRatSource_13TeV="https://pdg.lbl.gov/2021/listings/rpp2021-list-w-boson.pdf (page 5, 1-(W->had)**2)"),
+            "BranchingRatio" : BRValues(BRat_13TeV=0.543, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2: dileptonic + semileptonic; tW has the same BRs as ttbar)"),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=103260113.113,
                 NEVT_UL16postVFP=118799348.667,

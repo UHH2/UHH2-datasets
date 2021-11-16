@@ -707,10 +707,10 @@ class MCSampleValuesHelper():
 			"CrossSection" : XSValues(XSec_13TeV=10.32, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/SingleTopRefXsec"),
 			"BranchingRatio" : BRValues(BRat_13TeV=0.326, BRatSource_13TeV="https://pdg.lbl.gov/2021/listings/rpp2021-list-w-boson.pdf (page 5, W->lnu times 3, rounded)"),
 			"NEvents" : NEventsValues(
-                NEVT_UL16preVFP=18971911.7653,
+                NEVT_UL16preVFP=19592486.3309,
                 NEVT_UL16postVFP=-1,
-                NEVT_UL17=48752858.4912,
-                NEVT_UL18=67857545.6799,
+                NEVT_UL17=49292566.8068,
+                NEVT_UL18=68767081.0067,
             ),
 			"XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/ST_s-channel_4f_leptonDecays_CP5_amcatnlo-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/ST_s-channel_4f_leptonDecays_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",

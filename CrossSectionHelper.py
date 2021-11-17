@@ -1368,7 +1368,7 @@ class MCSampleValuesHelper():
         },
 
         "QCD_Pt-30to50_EMEnriched" : {
-            "CrossSection" : XSValues(XSec_13TeV=6447000.0, XSecSource_13TeV="XSDB"),
+            "CrossSection" : XSValues(XSec_13TeV=6.418e+06, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=-1,
                 NEVT_UL16postVFP=4351014.0,
@@ -1384,7 +1384,7 @@ class MCSampleValuesHelper():
         },
 
         "QCD_Pt-50to80_EMEnriched" : {
-            "CrossSection" : XSValues(XSec_13TeV=1988000.0, XSecSource_13TeV="XSDB"),
+            "CrossSection" : XSValues(XSec_13TeV=1.987e+06, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=-1,
                 NEVT_UL16postVFP=5443934.0,
@@ -1400,7 +1400,7 @@ class MCSampleValuesHelper():
         },
 
         "QCD_Pt-80to120_EMEnriched" : {
-            "CrossSection" : XSValues(XSec_13TeV=367500.0, XSecSource_13TeV="XSDB"),
+            "CrossSection" : XSValues(XSec_13TeV=3.671e+05, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=-1,
                 NEVT_UL16postVFP=4805600.8317,
@@ -1416,7 +1416,7 @@ class MCSampleValuesHelper():
         },
 
         "QCD_Pt-120to170_EMEnriched" : {
-            "CrossSection" : XSValues(XSec_13TeV=66590.0, XSecSource_13TeV="XSDB"),
+            "CrossSection" : XSValues(XSec_13TeV=6.661e+04, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=-1,
                 NEVT_UL16postVFP=5007404.35617,
@@ -1432,7 +1432,7 @@ class MCSampleValuesHelper():
         },
 
         "QCD_Pt-170to300_EMEnriched" : {
-            "CrossSection" : XSValues(XSec_13TeV=16620.0, XSecSource_13TeV="XSDB"),
+            "CrossSection" : XSValues(XSec_13TeV=1.654e+04, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=-1,
                 NEVT_UL16postVFP=1861129.0,
@@ -1448,7 +1448,7 @@ class MCSampleValuesHelper():
         },
 
         "QCD_Pt-300toInf_EMEnriched" : {
-            "CrossSection" : XSValues(XSec_13TeV=1104.0, XSecSource_13TeV="XSDB"),
+            "CrossSection" : XSValues(XSec_13TeV=1.100e+03, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=-1,
                 NEVT_UL16postVFP=1138742.0,

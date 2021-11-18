@@ -230,76 +230,76 @@ class MCSampleValuesHelper():
 
         "SinglePhoton_RunB": {
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-1,
-                NEVT_UL17=-1,
+                NEVT_UL16preVFP=13119462+56878553,
+                NEVT_UL17=15950935,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
-                Xml_UL17="", XmlSource_UL17="",
+                Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/SinglePhoton_Run2016B-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/SinglePhoton/Run2016B-{ver1,ver2}_HIPM_UL2016_MiniAODv2-v2/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data/UL17/SinglePhoton_Run2017B-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/SinglePhoton/Run2017B-UL2017_MiniAODv2-v1/MINIAOD",
             ),
         },
 
         "SinglePhoton_RunC": {
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-1,
-                NEVT_UL17=-1,
+                NEVT_UL16preVFP=23147235,
+                NEVT_UL17=42182948,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
-                Xml_UL17="", XmlSource_UL17="",
+                Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/SinglePhoton_Run2016C-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/SinglePhoton/Run2016C-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data/UL17/SinglePhoton_Run2017C-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/SinglePhoton/Run2017C-UL2017_MiniAODv2-v1/MINIAOD",
             ),
         },
 
         "SinglePhoton_RunD": {
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-1,
-                NEVT_UL17=-1,
+                NEVT_UL16preVFP=29801360,
+                NEVT_UL17=9753462,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
-                Xml_UL17="", XmlSource_UL17="",
+                Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/SinglePhoton_Run2016D-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/SinglePhoton/Run2016D-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data/UL17/SinglePhoton_Run2017D-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/SinglePhoton/Run2017D-UL2017_MiniAODv2-v1/MINIAOD",
             ),
         },
 
         "SinglePhoton_RunE": {
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-1,
-                NEVT_UL17=-1,
+                NEVT_UL16preVFP=22322869,
+                NEVT_UL17=19011446,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
-                Xml_UL17="", XmlSource_UL17="",
+                Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/SinglePhoton_Run2016E-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/SinglePhoton/Run2016E-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data/UL17/SinglePhoton_Run2017E-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/SinglePhoton/Run2017E-UL2017_MiniAODv2-v1/MINIAOD",
             ),
         },
 
         "SinglePhoton_RunF": {
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-1,
-                NEVT_UL16postVFP=-1,
-                NEVT_UL17=-1,
+                NEVT_UL16preVFP=12806145,
+                NEVT_UL16postVFP=1860761,
+                NEVT_UL17=29783015,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
-                Xml_UL16postVFP="", XmlSource_UL16postVFP="",
-                Xml_UL17="", XmlSource_UL17="",
+                Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/SinglePhoton_Run2016F-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/SinglePhoton/Run2016F-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
+                Xml_UL16postVFP="RunII_106X_v2/data/UL16postVFP/SinglePhoton_Run2016F-UL2016_MiniAODv2-v2.xml", XmlSource_UL16postVFP="/SinglePhoton/Run2016F-UL2016_MiniAODv2-v2/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data/UL17/SinglePhoton_Run2017F-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/SinglePhoton/Run2017F-UL2017_MiniAODv2-v1/MINIAOD",
             ),
         },
 
         "SinglePhoton_RunG": {
             "NEvents" : NEventsValues(
-                NEVT_UL16postVFP=-1,
+                NEVT_UL16postVFP=33288854,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16postVFP="", XmlSource_UL16postVFP="",
+                Xml_UL16postVFP="RunII_106X_v2/data/UL16postVFP/SinglePhoton_Run2016G-UL2016_MiniAODv2-v3.xml", XmlSource_UL16postVFP="/SinglePhoton/Run2016G-UL2016_MiniAODv2-v3/MINIAOD",
             ),
         },
 
         "SinglePhoton_RunH": {
             "NEvents" : NEventsValues(
-                NEVT_UL16postVFP=-1,
+                NEVT_UL16postVFP=35035661,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16postVFP="", XmlSource_UL16postVFP="",
+                Xml_UL16postVFP="RunII_106X_v2/data/UL16postVFP/SinglePhoton_Run2016H-UL2016_MiniAODv2-v2.xml", XmlSource_UL16postVFP="/SinglePhoton/Run2016H-UL2016_MiniAODv2-v2/MINIAOD",
             ),
         },
 

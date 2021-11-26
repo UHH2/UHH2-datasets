@@ -1467,7 +1467,7 @@ class MCSampleValuesHelper():
 
         "QCD_HT50to100" : {
             "CrossSection" : XSValues(
-                XSec_13TeV=186171589.270, XSecSource_13TeV="GenXSecAnalyzer"
+                XSec_13TeV=186171589.270, XSecSource_13TeV="GenXSecAnalyzer run on UL16preVFP"
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=36599034.0,
@@ -1485,7 +1485,7 @@ class MCSampleValuesHelper():
 
         "QCD_HT100to200" : {
             "CrossSection" : XSValues(
-                XSec_13TeV=23623277.469, XSecSource_13TeV="GenXSecAnalyzer"
+                XSec_13TeV=23623277.469, XSecSource_13TeV="GenXSecAnalyzer run on UL16preVFP"
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=67431856.0,
@@ -1545,7 +1545,7 @@ class MCSampleValuesHelper():
 
         "QCD_HT500to700" : {
             "CrossSection" : XSValues(
-                XSec_13TeV=30363.051, XSecSource_13TeV="GenXSecAnalyzer"
+                XSec_13TeV=30363.051, XSecSource_13TeV="GenXSecAnalyzer run on UL16preVFP"
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=56868784.0,
@@ -1563,7 +1563,7 @@ class MCSampleValuesHelper():
 
         "QCD_HT700to1000" : {
             "CrossSection" : XSValues(
-                XSec_13TeV=6428.869, XSecSource_13TeV="GenXSecAnalyzer"
+                XSec_13TeV=6428.869, XSecSource_13TeV="GenXSecAnalyzer run on UL16preVFP"
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=15808790.0,
@@ -1581,7 +1581,7 @@ class MCSampleValuesHelper():
 
         "QCD_HT1000to1500" : {
             "CrossSection" : XSValues(
-                XSec_13TeV=1122.659, XSecSource_13TeV="GenXSecAnalyzer"
+                XSec_13TeV=1122.659, XSecSource_13TeV="GenXSecAnalyzer run on UL16preVFP"
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=13823774.0,
@@ -1599,7 +1599,7 @@ class MCSampleValuesHelper():
 
         "QCD_HT1500to2000" : {
             "CrossSection" : XSValues(
-                XSec_13TeV=108.163, XSecSource_13TeV="GenXSecAnalyzer"
+                XSec_13TeV=108.163, XSecSource_13TeV="GenXSecAnalyzer run on UL16preVFP"
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=10031077.0,
@@ -1617,7 +1617,7 @@ class MCSampleValuesHelper():
 
         "QCD_HT2000toInf" : {
             "CrossSection" : XSValues(
-                XSec_13TeV=22.008, XSecSource_13TeV="GenXSecAnalyzer"
+                XSec_13TeV=22.008, XSecSource_13TeV="GenXSecAnalyzer run on UL16preVFP"
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=4996082.0,

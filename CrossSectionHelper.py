@@ -1467,10 +1467,7 @@ class MCSampleValuesHelper():
 
         "QCD_HT50to100" : {
             "CrossSection" : XSValues(
-                XSec_UL16preVFP=27990000, XSecSource_UL16preVFP="XSDB (LO)",
-                XSec_UL16postVFP=27990000, XSecSource_UL16postVFP="XSDB (LO)",
-                XSec_UL17=23610000, XSecSource_UL17="XSDB (LO)",
-                XSec_UL18=25600000, XSecSource_UL18="XSDB (LO)",
+                XSec_13TeV=186171589.270, XSecSource_13TeV="GenXSecAnalyzer"
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=36599034.0,
@@ -1488,10 +1485,7 @@ class MCSampleValuesHelper():
 
         "QCD_HT100to200" : {
             "CrossSection" : XSValues(
-                XSec_UL16preVFP=27990000, XSecSource_UL16preVFP="XSDB (LO)",
-                XSec_UL16postVFP=27990000, XSecSource_UL16postVFP="XSDB (LO)",
-                XSec_UL17=23610000, XSecSource_UL17="XSDB (LO)",
-                XSec_UL18=25600000, XSecSource_UL18="XSDB (LO)",
+                XSec_13TeV=23623277.469, XSecSource_13TeV="GenXSecAnalyzer"
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=67431856.0,
@@ -1551,10 +1545,7 @@ class MCSampleValuesHelper():
 
         "QCD_HT500to700" : {
             "CrossSection" : XSValues(
-                XSec_UL16preVFP=32060, XSecSource_UL16preVFP="XSDB (LO)",
-                XSec_UL16postVFP=32060, XSecSource_UL16postVFP="XSDB (LO)",
-                XSec_UL17=29980, XSecSource_UL17="XSDB (LO)",
-                XSec_UL18=30140, XSecSource_UL18="XSDB (LO)",
+                XSec_13TeV=30363.051, XSecSource_13TeV="GenXSecAnalyzer"
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=56868784.0,
@@ -1572,10 +1563,7 @@ class MCSampleValuesHelper():
 
         "QCD_HT700to1000" : {
             "CrossSection" : XSValues(
-                XSec_UL16preVFP=6829, XSecSource_UL16preVFP="XSDB (LO)",
-                XSec_UL16postVFP=6829, XSecSource_UL16postVFP="XSDB (LO)",
-                XSec_UL17=6334, XSecSource_UL17="XSDB (LO)",
-                XSec_UL18=6310, XSecSource_UL18="XSDB (LO)",
+                XSec_13TeV=6428.869, XSecSource_13TeV="GenXSecAnalyzer"
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=15808790.0,
@@ -1593,10 +1581,7 @@ class MCSampleValuesHelper():
 
         "QCD_HT1000to1500" : {
             "CrossSection" : XSValues(
-                XSec_UL16preVFP=1207, XSecSource_UL16preVFP="XSDB (LO)",
-                XSec_UL16postVFP=1207, XSecSource_UL16postVFP="XSDB (LO)",
-                XSec_UL17=1088, XSecSource_UL17="XSDB (LO)",
-                XSec_UL18=1094, XSecSource_UL18="XSDB (LO)",
+                XSec_13TeV=1122.659, XSecSource_13TeV="GenXSecAnalyzer"
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=13823774.0,
@@ -1614,10 +1599,7 @@ class MCSampleValuesHelper():
 
         "QCD_HT1500to2000" : {
             "CrossSection" : XSValues(
-                XSec_UL16preVFP=120, XSecSource_UL16preVFP="XSDB (LO)",
-                XSec_UL16postVFP=120, XSecSource_UL16postVFP="XSDB (LO)",
-                XSec_UL17=99.11, XSecSource_UL17="XSDB (LO)",
-                XSec_UL18=99.38, XSecSource_UL18="XSDB (LO)",
+                XSec_13TeV=108.163, XSecSource_13TeV="GenXSecAnalyzer"
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=10031077.0,
@@ -1635,10 +1617,7 @@ class MCSampleValuesHelper():
 
         "QCD_HT2000toInf" : {
             "CrossSection" : XSValues(
-                XSec_UL16preVFP=25.25, XSecSource_UL16preVFP="XSDB (LO)",
-                XSec_UL16postVFP=25.25, XSecSource_UL16postVFP="XSDB (LO)",
-                XSec_UL17=20.23, XSecSource_UL17="XSDB (LO)",
-                XSec_UL18=20.20, XSecSource_UL18="XSDB (LO)",
+                XSec_13TeV=22.008, XSecSource_13TeV="GenXSecAnalyzer"
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=4996082.0,

@@ -1377,7 +1377,7 @@ class MCSampleValuesHelper():
 
         "WJetsToQQ_HT400to600" : {
             "CrossSection" : XSValues(
-                XSec_13TeV=276.629780, XSecSource_13TeV="GenXSecAnalyzer"
+                XSec_13TeV=276.629780, XSecSource_13TeV="GenXSecAnalyzer run on UL17"
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=-1,
@@ -1396,7 +1396,7 @@ class MCSampleValuesHelper():
 
         "WJetsToQQ_HT600to800" : {
             "CrossSection" : XSValues(
-                XSec_13TeV=59.078057, XSecSource_13TeV="GenXSecAnalyzer"
+                XSec_13TeV=59.078057, XSecSource_13TeV="GenXSecAnalyzer run on UL17"
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=-1,
@@ -1415,7 +1415,7 @@ class MCSampleValuesHelper():
 
         "WJetsToQQ_HT800toInf" : {
             "CrossSection" : XSValues(
-                XSec_13TeV=28.761363, XSecSource_13TeV="GenXSecAnalyzer"
+                XSec_13TeV=28.761363, XSecSource_13TeV="GenXSecAnalyzer run on UL17"
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=-1,
@@ -1434,7 +1434,7 @@ class MCSampleValuesHelper():
 
         "ZJetsToQQ_HT400to600" : {
             "CrossSection" : XSValues(
-                XSec_13TeV=-1.000000, XSecSource_13TeV="GenXSecAnalyzer"
+                XSec_13TeV=-1.000000, XSecSource_13TeV="GenXSecAnalyzer run on UL17"
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=-1,
@@ -1453,7 +1453,7 @@ class MCSampleValuesHelper():
 
         "ZJetsToQQ_HT600to800" : {
             "CrossSection" : XSValues(
-                XSec_13TeV=25.348623, XSecSource_13TeV="GenXSecAnalyzer"
+                XSec_13TeV=25.348623, XSecSource_13TeV="GenXSecAnalyzer run on UL17"
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=-1,
@@ -1472,7 +1472,7 @@ class MCSampleValuesHelper():
 
         "ZJetsToQQ_HT800toInf" : {
             "CrossSection" : XSValues(
-                XSec_13TeV=12.914550, XSecSource_13TeV="GenXSecAnalyzer"
+                XSec_13TeV=12.914550, XSecSource_13TeV="GenXSecAnalyzer run on UL17"
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=-1,

@@ -2111,3 +2111,46 @@ class MCSampleValuesHelper():
         if kFactor: xsec *= self.get_kfactor(name, energy, year)
         if Corrections: xsec *= self.get_corr(name, energy, year)
         return self.get_nevt(name, energy, year)/xsec
+
+def print_database():
+    helper = MCSampleValuesHelper()
+    samples = list(MCSampleValuesHelper.__dict__["_MCSampleValuesHelper__values_dict"].keys())
+    samples.sort()
+    energies = MCSampleValuesHelper.__dict__["_MCSampleValuesHelper__energies"]
+    years = MCSampleValuesHelper.__dict__["_MCSampleValuesHelper__years"]
+    import re
+    run_pattern = re.compile("(?P<run>(Run)+[ABCDEFGH]{1})")
+
+    max_sample_length = max(len(s) for s in samples)
+
+    def banner(text, decorator = "#", line_width = 30):
+        print("")
+        print(decorator*line_width)
+        print("{text:{deco}^{width}s}".format(text=text,deco=decorator,width=line_width))
+        print(decorator*line_width)
+        print("")
+
+    for energy in energies:
+        banner(energy)
+        for year in years:
+            banner(year)
+            for sample in samples:
+                run_match = run_pattern.search(sample)
+                isData = run_match is not None
+                nevt = helper.get_nevt(sample,energy,year)
+                lumi = "/" if (isData or nevt<0) else "%10.2g"%helper.get_lumi(sample,energy,year)
+                nevt = "%10.2g"%nevt
+                print('{sample: <{width}}-> nevt:{nevt: >5}, lumi:{lumi: >5}'.format(sample=sample, width=max_sample_length+3, nevt=nevt, lumi=lumi))
+    return 0
+
+
+if(__name__ == "__main__"):
+    import argparse
+    parser = argparse.ArgumentParser(description="CrossSectionHelper Database: find and calculate crucial information for your Analysis!")
+
+    parser.add_argument("--print", action="store_true", help="print number of events and calculated luminosity of all samples in database (This is primarily to test the integrety of the database).")
+
+    args = parser.parse_args()
+
+    if(args.print):
+        print_database()

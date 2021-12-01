@@ -1391,8 +1391,7 @@ class MCSampleValuesHelper():
                 Xml_UL17="RunII_106X_v2/SM/UL17/WJetsToQQ_HT-400to600_CP5_madgraphMLM-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/WJetsToQQ_HT-400to600_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
                 Xml_UL18="", XmlSource_UL18="",
             ),
-        }
-
+        },
 
         "WJetsToQQ_HT600to800" : {
             "CrossSection" : XSValues(
@@ -1410,8 +1409,7 @@ class MCSampleValuesHelper():
                 Xml_UL17="RunII_106X_v2/SM/UL17/WJetsToQQ_HT-600to800_CP5_madgraphMLM-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/WJetsToQQ_HT-600to800_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
                 Xml_UL18="", XmlSource_UL18="",
             ),
-        }
-
+        },
 
         "WJetsToQQ_HT800toInf" : {
             "CrossSection" : XSValues(
@@ -1429,8 +1427,7 @@ class MCSampleValuesHelper():
                 Xml_UL17="RunII_106X_v2/SM/UL17/WJetsToQQ_HT-800toInf_CP5_madgraphMLM-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/WJetsToQQ_HT-800toInf_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
                 Xml_UL18="", XmlSource_UL18="",
             ),
-        }
-
+        },
 
         "ZJetsToQQ_HT400to600" : {
             "CrossSection" : XSValues(
@@ -1448,8 +1445,7 @@ class MCSampleValuesHelper():
                 Xml_UL17="RunII_106X_v2/SM/UL17/ZJetsToQQ_HT-400to600_CP5_madgraphMLM-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/ZJetsToQQ_HT-400to600_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
                 Xml_UL18="", XmlSource_UL18="",
             ),
-        }
-
+        },
 
         "ZJetsToQQ_HT600to800" : {
             "CrossSection" : XSValues(
@@ -1467,8 +1463,7 @@ class MCSampleValuesHelper():
                 Xml_UL17="RunII_106X_v2/SM/UL17/ZJetsToQQ_HT-600to800_CP5_madgraphMLM-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/ZJetsToQQ_HT-600to800_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
                 Xml_UL18="", XmlSource_UL18="",
             ),
-        }
-
+        },
 
         "ZJetsToQQ_HT800toInf" : {
             "CrossSection" : XSValues(
@@ -1486,7 +1481,7 @@ class MCSampleValuesHelper():
                 Xml_UL17="RunII_106X_v2/SM/UL17/ZJetsToQQ_HT-800toInf_CP5_madgraphMLM-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/ZJetsToQQ_HT-800toInf_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
                 Xml_UL18="", XmlSource_UL18="",
             ),
-        }
+        },
         
         "QCD_Pt-30to50_EMEnriched" : {
             "CrossSection" : XSValues(XSec_13TeV=6.418e+06, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),

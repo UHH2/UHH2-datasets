@@ -519,7 +519,7 @@ class MCSampleValuesHelper():
             ),
         },
 
-        "TTbarTo2L2Nu" : {
+        "TTTo2L2Nu" : {
             "CrossSection" : XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : BRValues(BRat_13TeV=0.105, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : NEventsValues(
@@ -536,7 +536,7 @@ class MCSampleValuesHelper():
             ),
         },
 
-        "TTbarToSemiLeptonic" : {
+        "TTToSemiLeptonic" : {
             "CrossSection" : XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : BRValues(BRat_13TeV=0.438, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : NEventsValues(
@@ -553,7 +553,7 @@ class MCSampleValuesHelper():
             ),
         },
 
-        "TTbarToHadronic" : {
+        "TTToHadronic" : {
             "CrossSection" : XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : BRValues(BRat_13TeV=0.457, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : NEventsValues(
@@ -1482,7 +1482,7 @@ class MCSampleValuesHelper():
                 Xml_UL18="", XmlSource_UL18="",
             ),
         },
-        
+
         "QCD_Pt-30to50_EMEnriched" : {
             "CrossSection" : XSValues(XSec_13TeV=6.418e+06, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(

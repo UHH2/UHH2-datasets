@@ -74,82 +74,82 @@ class MCSampleValuesHelper():
 
         "SingleMuon_RunB": {
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-1,
-                NEVT_UL17=-1,
-                NEVT_UL18=-1,
+                NEVT_UL16preVFP=2789243+158145722,
+                NEVT_UL17=136300266,
+                NEVT_UL18=119918017,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
-                Xml_UL17="", XmlSource_UL17="",
-                Xml_UL18="", XmlSource_UL18="",
+                Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/SingleMuon_Run2016B-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/SingleMuon/Run2016B-{ver1,ver2}_HIPM_UL2016_MiniAODv2-v2/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data/UL17/SingleMuon_Run2017B-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/SingleMuon/Run2017B-UL2017_MiniAODv2-v1/MINIAOD",
+                Xml_UL18="RunII_106X_v2/data/UL18/SingleMuon_Run2018B-UL2018_MiniAODv2-v2.xml", XmlSource_UL18="/SingleMuon/Run2018B-UL2018_MiniAODv2-v2/MINIAOD",
             ),
         },
 
         "SingleMuon_RunC": {
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-1,
-                NEVT_UL17=-1,
-                NEVT_UL18=-1,
+                NEVT_UL16preVFP=67441308,
+                NEVT_UL17=165652756,
+                NEVT_UL18=109986009,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
-                Xml_UL17="", XmlSource_UL17="",
-                Xml_UL18="", XmlSource_UL18="",
+                Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/SingleMuon_Run2016C-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/SingleMuon/Run2016C-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data/UL17/SingleMuon_Run2017C-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/SingleMuon/Run2017C-UL2017_MiniAODv2-v1/MINIAOD",
+                Xml_UL18="RunII_106X_v2/data/UL18/SingleMuon_Run2018C-UL2018_MiniAODv2-v2.xml", XmlSource_UL18="/SingleMuon/Run2018C-UL2018_MiniAODv2-v2/MINIAOD",
             ),
         },
 
         "SingleMuon_RunD": {
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-1,
-                NEVT_UL17=-1,
-                NEVT_UL18=-1,
+                NEVT_UL16preVFP=98017996,
+                NEVT_UL17=70361660,
+                NEVT_UL18=513909894,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
-                Xml_UL17="", XmlSource_UL17="",
-                Xml_UL18="", XmlSource_UL18="",
+                Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/SingleMuon_Run2016D-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/SingleMuon/Run2016D-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data/UL17/SingleMuon_Run2017D-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/SingleMuon/Run2017D-UL2017_MiniAODv2-v1/MINIAOD",
+                Xml_UL18="RunII_106X_v2/data/UL18/SingleMuon_Run2018D-UL2018_MiniAODv2-v3.xml", XmlSource_UL18="/SingleMuon/Run2018D-UL2018_MiniAODv2-v3/MINIAOD",
             ),
         },
 
         "SingleMuon_RunE": {
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-1,
-                NEVT_UL17=-1,
+                NEVT_UL16preVFP=90984718,
+                NEVT_UL17=154618774,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
-                Xml_UL17="", XmlSource_UL17="",
+                Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/SingleMuon_Run2016E-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/SingleMuon/Run2016E-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data/UL17/SingleMuon_Run2017E-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/SingleMuon/Run2017E-UL2017_MiniAODv2-v1/MINIAOD",
             ),
         },
 
         "SingleMuon_RunF": {
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-1,
-                NEVT_UL16postVFP=-1,
-                NEVT_UL17=-1,
+                NEVT_UL16preVFP=57465359,
+                NEVT_UL16postVFP=8024195,
+                NEVT_UL17=242140980,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
-                Xml_UL16postVFP="", XmlSource_UL16postVFP="",
-                Xml_UL17="", XmlSource_UL17="",
+                Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/SingleMuon_Run2016F-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/SingleMuon/Run2016F-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
+                Xml_UL16postVFP="RunII_106X_v2/data//SingleMuon_Run2016F-UL2016_MiniAODv2-v2.xml", XmlSource_UL16postVFP="/SingleMuon/Run2016F-UL2016_MiniAODv2-v2/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data/UL17/SingleMuon_Run2017F-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/SingleMuon/Run2017F-UL2017_MiniAODv2-v1/MINIAOD",
             ),
         },
 
         "SingleMuon_RunG": {
             "NEvents" : NEventsValues(
-                NEVT_UL16postVFP=-1,
+                NEVT_UL16postVFP=149916849,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16postVFP="", XmlSource_UL16postVFP="",
+                Xml_UL16postVFP="RunII_106X_v2/data/UL16postVFP/SingleMuon_Run2016G-UL2016_MiniAODv2-v2.xml", XmlSource_UL16postVFP="/SingleMuon/Run2016G-UL2016_MiniAODv2-v2/MINIAOD",
             ),
         },
 
         "SingleMuon_RunH": {
             "NEvents" : NEventsValues(
-                NEVT_UL16postVFP=-1,
+                NEVT_UL16postVFP=174035164,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16postVFP="", XmlSource_UL16postVFP="",
+                Xml_UL16postVFP="RunII_106X_v2/data/UL16postVFP/SingleMuon_Run2016H-UL2016_MiniAODv2-v2.xml", XmlSource_UL16postVFP="/SingleMuon/Run2016H-UL2016_MiniAODv2-v2/MINIAOD",
             ),
         },
 
@@ -1005,6 +1005,12 @@ class MCSampleValuesHelper():
                 XSec_UL17=-1, XSecSource_UL17="",
                 XSec_UL18=-1, XSecSource_UL18="",
             ),
+            "kFactor" : kFactorValues(
+                kFac_UL16preVFP=1, kFacSource_UL16preVFP="",
+                kFac_UL16postVFP=1, kFacSource_UL16postVFP="",
+                kFac_UL17=1, kFacSource_UL17="",
+                kFac_UL18=1, kFacSource_UL18="",
+            ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=-1,
                 NEVT_UL16postVFP=-1,
@@ -1021,26 +1027,26 @@ class MCSampleValuesHelper():
 
         "WJetsToLNu_HT-100to200" : {
             "CrossSection" : XSValues(
-                XSec_13TeV=1395, XSecSource_13TeV="XSDB (LO)",
-                XSec_UL16preVFP=1345, XSecSource_UL16preVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                XSec_UL16postVFP=1345, XSecSource_UL16postVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                XSec_UL17=1395, XSecSource_UL17="XSDB (LO)",
-                XSec_UL18=1395, XSecSource_UL18="GenXSecAnalyzer",
+                XSec_13TeV=-1, XSecSource_13TeV="",
+                XSec_UL16preVFP=1253, XSecSource_UL16preVFP="GenXSecAnalyzer",
+                XSec_UL16postVFP=-1, XSecSource_UL16postVFP="",
+                XSec_UL17=-1, XSecSource_UL17="",
+                XSec_UL18=-1, XSecSource_UL18="",
             ),
             "kFactor" : kFactorValues(
-                kFac_UL16preVFP=1.21, kFacSource_UL16preVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                kFac_UL16postVFP=1.21, kFacSource_UL16postVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                kFac_UL17=1.21, kFacSource_UL17="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                kFac_UL18=1.21, kFacSource_UL18="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
+                kFac_UL16preVFP=1, kFacSource_UL16preVFP="",
+                kFac_UL16postVFP=1, kFacSource_UL16postVFP="",
+                kFac_UL17=1, kFacSource_UL17="",
+                kFac_UL18=1, kFacSource_UL18="",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-1,
+                NEVT_UL16preVFP=21734530.0,
                 NEVT_UL16postVFP=-1,
                 NEVT_UL17=-1,
                 NEVT_UL18=-1,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/WJetsToLNu_HT-100To200_CP5_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/WJetsToLNu_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
                 Xml_UL16postVFP="", XmlSource_UL16postVFP="",
                 Xml_UL17="", XmlSource_UL17="",
                 Xml_UL18="", XmlSource_UL18="",
@@ -1049,26 +1055,26 @@ class MCSampleValuesHelper():
 
         "WJetsToLNu_HT-200to400" : {
             "CrossSection" : XSValues(
-                XSec_13TeV=407.9, XSecSource_13TeV="XSDB (LO)",
-                XSec_UL16preVFP=359.7, XSecSource_UL16preVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                XSec_UL16postVFP=359.7, XSecSource_UL16postVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                XSec_UL17=407.9, XSecSource_UL17="XSDB (LO)",
-                XSec_UL18=407.9, XSecSource_UL18="GenXSecAnalyzer",
+                XSec_13TeV=-1, XSecSource_13TeV="",
+                XSec_UL16preVFP=335.9, XSecSource_UL16preVFP="GenXSecAnalyzer",
+                XSec_UL16postVFP=-1, XSecSource_UL16postVFP="",
+                XSec_UL17=-1, XSecSource_UL17="",
+                XSec_UL18=-1, XSecSource_UL18="",
             ),
             "kFactor" : kFactorValues(
-                kFac_UL16preVFP=1.21, kFacSource_UL16preVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                kFac_UL16postVFP=1.21, kFacSource_UL16postVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                kFac_UL17=1.21, kFacSource_UL17="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                kFac_UL18=1.21, kFacSource_UL18="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
+                kFac_UL16preVFP=1, kFacSource_UL16preVFP="",
+                kFac_UL16postVFP=1, kFacSource_UL16postVFP="",
+                kFac_UL17=1, kFacSource_UL17="",
+                kFac_UL18=1, kFacSource_UL18="",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-1,
+                NEVT_UL16preVFP=17870845.0,
                 NEVT_UL16postVFP=-1,
                 NEVT_UL17=-1,
                 NEVT_UL18=-1,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/WJetsToLNu_HT-200To400_CP5_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/WJetsToLNu_HT-200To400_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
                 Xml_UL16postVFP="", XmlSource_UL16postVFP="",
                 Xml_UL17="", XmlSource_UL17="",
                 Xml_UL18="", XmlSource_UL18="",
@@ -1077,26 +1083,26 @@ class MCSampleValuesHelper():
 
         "WJetsToLNu_HT-400to600" : {
             "CrossSection" : XSValues(
-                XSec_13TeV=57.48, XSecSource_13TeV="XSDB (LO)",
-                XSec_UL16preVFP=48.9, XSecSource_UL16preVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                XSec_UL16postVFP=48.9, XSecSource_UL16postVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                XSec_UL17=57.48, XSecSource_UL17="XSDB (LO)",
-                XSec_UL18=57.48, XSecSource_UL18="GenXSecAnalyzer",
+                XSec_13TeV=-1, XSecSource_13TeV="",
+                XSec_UL16preVFP=45.21, XSecSource_UL16preVFP="GenXSecAnalyzer",
+                XSec_UL16postVFP=-1, XSecSource_UL16postVFP="",
+                XSec_UL17=-1, XSecSource_UL17="",
+                XSec_UL18=-1, XSecSource_UL18="",
             ),
             "kFactor" : kFactorValues(
-                kFac_UL16preVFP=1.21, kFacSource_UL16preVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                kFac_UL16postVFP=1.21, kFacSource_UL16postVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                kFac_UL17=1.21, kFacSource_UL17="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                kFac_UL18=1.21, kFacSource_UL18="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
+                kFac_UL16preVFP=1, kFacSource_UL16preVFP="",
+                kFac_UL16postVFP=1, kFacSource_UL16postVFP="",
+                kFac_UL17=1, kFacSource_UL17="",
+                kFac_UL18=1, kFacSource_UL18="",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-1,
+                NEVT_UL16preVFP=2467498.0,
                 NEVT_UL16postVFP=-1,
                 NEVT_UL17=-1,
                 NEVT_UL18=-1,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/WJetsToLNu_HT-400To600_CP5_madgraphMLM-pythia8_Summer20UL16APV_v1.xml ", XmlSource_UL16preVFP="/WJetsToLNu_HT-400To600_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
                 Xml_UL16postVFP="", XmlSource_UL16postVFP="",
                 Xml_UL17="", XmlSource_UL17="",
                 Xml_UL18="", XmlSource_UL18="",
@@ -1105,26 +1111,26 @@ class MCSampleValuesHelper():
 
         "WJetsToLNu_HT-600to800" : {
             "CrossSection" : XSValues(
-                XSec_13TeV=12.87, XSecSource_13TeV="XSDB (LO)",
-                XSec_UL16preVFP=12.05, XSecSource_UL16preVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                XSec_UL16postVFP=12.05, XSecSource_UL16postVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                XSec_UL17=12.87, XSecSource_UL17="XSDB (LO)",
-                XSec_UL18=12.87, XSecSource_UL18="GenXSecAnalyzer",
+                XSec_13TeV=-1, XSecSource_13TeV="",
+                XSec_UL16preVFP=10.99, XSecSource_UL16preVFP="GenXSecAnalyzer",
+                XSec_UL16postVFP=-1, XSecSource_UL16postVFP="",
+                XSec_UL17=-1, XSecSource_UL17="",
+                XSec_UL18=-1, XSecSource_UL18="",
             ),
             "kFactor" : kFactorValues(
-                kFac_UL16preVFP=1.21, kFacSource_UL16preVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                kFac_UL16postVFP=1.21, kFacSource_UL16postVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                kFac_UL17=1.21, kFacSource_UL17="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                kFac_UL18=1.21, kFacSource_UL18="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
+                kFac_UL16preVFP=1, kFacSource_UL16preVFP="",
+                kFac_UL16postVFP=1, kFacSource_UL16postVFP="",
+                kFac_UL17=1, kFacSource_UL17="",
+                kFac_UL18=1, kFacSource_UL18="",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-1,
+                NEVT_UL16preVFP=2344130.0,
                 NEVT_UL16postVFP=-1,
                 NEVT_UL17=-1,
                 NEVT_UL18=-1,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/WJetsToLNu_HT-600To800_CP5_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/WJetsToLNu_HT-600To800_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
                 Xml_UL16postVFP="", XmlSource_UL16postVFP="",
                 Xml_UL17="", XmlSource_UL17="",
                 Xml_UL18="", XmlSource_UL18="",
@@ -1133,26 +1139,26 @@ class MCSampleValuesHelper():
 
         "WJetsToLNu_HT-800to1200" : {
             "CrossSection" : XSValues(
-                XSec_13TeV=5.366, XSecSource_13TeV="XSDB (LO)",
-                XSec_UL16preVFP=5.501, XSecSource_UL16preVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                XSec_UL16postVFP=5.501, XSecSource_UL16postVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                XSec_UL17=5.366, XSecSource_UL17="XSDB (LO)",
-                XSec_UL18=5.366, XSecSource_UL18="GenXSecAnalyzer",
+                XSec_13TeV=-1, XSecSource_13TeV="",
+                XSec_UL16preVFP=4.936, XSecSource_UL16preVFP="GenXSecAnalyzer",
+                XSec_UL16postVFP=-1, XSecSource_UL16postVFP="",
+                XSec_UL17=-1, XSecSource_UL17="",
+                XSec_UL18=-1, XSecSource_UL18="",
             ),
             "kFactor" : kFactorValues(
-                kFac_UL16preVFP=1.21, kFacSource_UL16preVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                kFac_UL16postVFP=1.21, kFacSource_UL16postVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                kFac_UL17=1.21, kFacSource_UL17="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                kFac_UL18=1.21, kFacSource_UL18="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
+                kFac_UL16preVFP=1, kFacSource_UL16preVFP="",
+                kFac_UL16postVFP=1, kFacSource_UL16postVFP="",
+                kFac_UL17=1, kFacSource_UL17="",
+                kFac_UL18=1, kFacSource_UL18="",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-1,
+                NEVT_UL16preVFP=2510487.0,
                 NEVT_UL16postVFP=-1,
                 NEVT_UL17=-1,
                 NEVT_UL18=-1,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/WJetsToLNu_HT-800To1200_CP5_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/WJetsToLNu_HT-800To1200_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
                 Xml_UL16postVFP="", XmlSource_UL16postVFP="",
                 Xml_UL17="", XmlSource_UL17="",
                 Xml_UL18="", XmlSource_UL18="",
@@ -1161,26 +1167,26 @@ class MCSampleValuesHelper():
 
         "WJetsToLNu_HT-1200to2500" : {
             "CrossSection" : XSValues(
-                XSec_13TeV=1.329, XSecSource_13TeV="XSDB (LO)",
-                XSec_UL16preVFP=1.329, XSecSource_UL16preVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                XSec_UL16postVFP=1.329, XSecSource_UL16postVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                XSec_UL17=1.329, XSecSource_UL17="XSDB (LO)",
-                XSec_UL18=1.329, XSecSource_UL18="GenXSecAnalyzer",
+                XSec_13TeV=-1, XSecSource_13TeV="",
+                XSec_UL16preVFP=1.156, XSecSource_UL16preVFP="GenXSecAnalyzer",
+                XSec_UL16postVFP=-1, XSecSource_UL16postVFP="",
+                XSec_UL17=-1, XSecSource_UL17="",
+                XSec_UL18=-1, XSecSource_UL18="",
             ),
             "kFactor" : kFactorValues(
-                kFac_UL16preVFP=1.21, kFacSource_UL16preVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                kFac_UL16postVFP=1.21, kFacSource_UL16postVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                kFac_UL17=1.21, kFacSource_UL17="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                kFac_UL18=1.21, kFacSource_UL18="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
+                kFac_UL16preVFP=1, kFacSource_UL16preVFP="",
+                kFac_UL16postVFP=1, kFacSource_UL16postVFP="",
+                kFac_UL17=1, kFacSource_UL17="",
+                kFac_UL18=1, kFacSource_UL18="",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-1,
+                NEVT_UL16preVFP=2119975.0,
                 NEVT_UL16postVFP=-1,
                 NEVT_UL17=-1,
                 NEVT_UL18=-1,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/WJetsToLNu_HT-1200To2500_CP5_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/WJetsToLNu_HT-1200To2500_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
                 Xml_UL16postVFP="", XmlSource_UL16postVFP="",
                 Xml_UL17="", XmlSource_UL17="",
                 Xml_UL18="", XmlSource_UL18="",
@@ -1189,26 +1195,26 @@ class MCSampleValuesHelper():
 
         "WJetsToLNu_HT-2500toInf" : {
             "CrossSection" : XSValues(
-                XSec_13TeV=0.03216, XSecSource_13TeV="XSDB (LO)",
-                XSec_UL16preVFP=0.03216, XSecSource_UL16preVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                XSec_UL16postVFP=0.03216, XSecSource_UL16postVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                XSec_UL17=0.03216, XSecSource_UL17="XSDB (LO)",
-                XSec_UL18=0.03216, XSecSource_UL18="GenXSecAnalyzer",
+                XSec_13TeV=-1, XSecSource_13TeV="",
+                XSec_UL16preVFP=0.02623, XSecSource_UL16preVFP="GenXSecAnalyzer",
+                XSec_UL16postVFP=-1, XSecSource_UL16postVFP="",
+                XSec_UL17=-1, XSecSource_UL17="",
+                XSec_UL18=-1, XSecSource_UL18="",
             ),
             "kFactor" : kFactorValues(
-                kFac_UL16preVFP=1.21, kFacSource_UL16preVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                kFac_UL16postVFP=1.21, kFacSource_UL16postVFP="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                kFac_UL17=1.21, kFacSource_UL17="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
-                kFac_UL18=1.21, kFacSource_UL18="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
+                kFac_UL16preVFP=1, kFacSource_UL16preVFP="",
+                kFac_UL16postVFP=1, kFacSource_UL16postVFP="",
+                kFac_UL17=1, kFacSource_UL17="",
+                kFac_UL18=1, kFacSource_UL18="",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-1,
+                NEVT_UL16preVFP=808649.0,
                 NEVT_UL16postVFP=-1,
                 NEVT_UL17=-1,
                 NEVT_UL18=-1,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/WJetsToLNu_HT-2500ToInf_CP5_madgraphMLM-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/WJetsToLNu_HT-2500ToInf_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
                 Xml_UL16postVFP="", XmlSource_UL16postVFP="",
                 Xml_UL17="", XmlSource_UL17="",
                 Xml_UL18="", XmlSource_UL18="",
@@ -1369,6 +1375,114 @@ class MCSampleValuesHelper():
             ),
         },
 
+        "WJetsToQQ_HT400to600" : {
+            "CrossSection" : XSValues(
+                XSec_13TeV=276.629780, XSecSource_13TeV="GenXSecAnalyzer run on UL17"
+            ),
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=-1,
+                NEVT_UL16postVFP=-1,
+                NEVT_UL17=9927793.0,
+                NEVT_UL18=-1,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16postVFP="", XmlSource_UL16postVFP="",
+                Xml_UL17="RunII_106X_v2/SM/UL17/WJetsToQQ_HT-400to600_CP5_madgraphMLM-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/WJetsToQQ_HT-400to600_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="", XmlSource_UL18="",
+            ),
+        },
+
+        "WJetsToQQ_HT600to800" : {
+            "CrossSection" : XSValues(
+                XSec_13TeV=59.078057, XSecSource_13TeV="GenXSecAnalyzer run on UL17"
+            ),
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=-1,
+                NEVT_UL16postVFP=-1,
+                NEVT_UL17=14667933.0,
+                NEVT_UL18=-1,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16postVFP="", XmlSource_UL16postVFP="",
+                Xml_UL17="RunII_106X_v2/SM/UL17/WJetsToQQ_HT-600to800_CP5_madgraphMLM-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/WJetsToQQ_HT-600to800_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="", XmlSource_UL18="",
+            ),
+        },
+
+        "WJetsToQQ_HT800toInf" : {
+            "CrossSection" : XSValues(
+                XSec_13TeV=28.761363, XSecSource_13TeV="GenXSecAnalyzer run on UL17"
+            ),
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=-1,
+                NEVT_UL16postVFP=-1,
+                NEVT_UL17=14722417.0,
+                NEVT_UL18=-1,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16postVFP="", XmlSource_UL16postVFP="",
+                Xml_UL17="RunII_106X_v2/SM/UL17/WJetsToQQ_HT-800toInf_CP5_madgraphMLM-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/WJetsToQQ_HT-800toInf_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="", XmlSource_UL18="",
+            ),
+        },
+
+        "ZJetsToQQ_HT400to600" : {
+            "CrossSection" : XSValues(
+                XSec_13TeV=-1.000000, XSecSource_13TeV="GenXSecAnalyzer run on UL17"
+            ),
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=-1,
+                NEVT_UL16postVFP=-1,
+                NEVT_UL17=14884962.0,
+                NEVT_UL18=-1,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16postVFP="", XmlSource_UL16postVFP="",
+                Xml_UL17="RunII_106X_v2/SM/UL17/ZJetsToQQ_HT-400to600_CP5_madgraphMLM-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/ZJetsToQQ_HT-400to600_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="", XmlSource_UL18="",
+            ),
+        },
+
+        "ZJetsToQQ_HT600to800" : {
+            "CrossSection" : XSValues(
+                XSec_13TeV=25.348623, XSecSource_13TeV="GenXSecAnalyzer run on UL17"
+            ),
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=-1,
+                NEVT_UL16postVFP=-1,
+                NEVT_UL17=11702567.0,
+                NEVT_UL18=-1,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16postVFP="", XmlSource_UL16postVFP="",
+                Xml_UL17="RunII_106X_v2/SM/UL17/ZJetsToQQ_HT-600to800_CP5_madgraphMLM-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/ZJetsToQQ_HT-600to800_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="", XmlSource_UL18="",
+            ),
+        },
+
+        "ZJetsToQQ_HT800toInf" : {
+            "CrossSection" : XSValues(
+                XSec_13TeV=12.914550, XSecSource_13TeV="GenXSecAnalyzer run on UL17"
+            ),
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=-1,
+                NEVT_UL16postVFP=-1,
+                NEVT_UL17=9384525.0,
+                NEVT_UL18=-1,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16postVFP="", XmlSource_UL16postVFP="",
+                Xml_UL17="RunII_106X_v2/SM/UL17/ZJetsToQQ_HT-800toInf_CP5_madgraphMLM-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/ZJetsToQQ_HT-800toInf_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="", XmlSource_UL18="",
+            ),
+        },
+        
         "QCD_Pt-30to50_EMEnriched" : {
             "CrossSection" : XSValues(XSec_13TeV=6.418e+06, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
@@ -1467,19 +1581,16 @@ class MCSampleValuesHelper():
 
         "QCD_HT50to100" : {
             "CrossSection" : XSValues(
-                XSec_UL16preVFP=27990000, XSecSource_UL16preVFP="XSDB (LO)",
-                XSec_UL16postVFP=27990000, XSecSource_UL16postVFP="XSDB (LO)",
-                XSec_UL17=23610000, XSecSource_UL17="XSDB (LO)",
-                XSec_UL18=25600000, XSecSource_UL18="XSDB (LO)",
+                XSec_13TeV=186171589.270, XSecSource_13TeV="GenXSecAnalyzer run on UL16preVFP"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-1,
+                NEVT_UL16preVFP=36599034.0,
                 NEVT_UL16postVFP=-1,
                 NEVT_UL17=-1,
                 NEVT_UL18=-1,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_HT50to100_CP5_PSWeights_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/QCD_HT50to100_TuneCP5_PSWeights_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
                 Xml_UL16postVFP="", XmlSource_UL16postVFP="",
                 Xml_UL17="", XmlSource_UL17="",
                 Xml_UL18="", XmlSource_UL18="",
@@ -1488,19 +1599,16 @@ class MCSampleValuesHelper():
 
         "QCD_HT100to200" : {
             "CrossSection" : XSValues(
-                XSec_UL16preVFP=27990000, XSecSource_UL16preVFP="XSDB (LO)",
-                XSec_UL16postVFP=27990000, XSecSource_UL16postVFP="XSDB (LO)",
-                XSec_UL17=23610000, XSecSource_UL17="XSDB (LO)",
-                XSec_UL18=25600000, XSecSource_UL18="XSDB (LO)",
+                XSec_13TeV=23623277.469, XSecSource_13TeV="GenXSecAnalyzer run on UL16preVFP"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-1,
+                NEVT_UL16preVFP=67431856.0,
                 NEVT_UL16postVFP=-1,
                 NEVT_UL17=-1,
                 NEVT_UL18=-1,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_HT100to200_CP5_PSWeights_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/QCD_HT100to200_TuneCP5_PSWeights_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
                 Xml_UL16postVFP="", XmlSource_UL16postVFP="",
                 Xml_UL17="", XmlSource_UL17="",
                 Xml_UL18="", XmlSource_UL18="",
@@ -1551,19 +1659,16 @@ class MCSampleValuesHelper():
 
         "QCD_HT500to700" : {
             "CrossSection" : XSValues(
-                XSec_UL16preVFP=32060, XSecSource_UL16preVFP="XSDB (LO)",
-                XSec_UL16postVFP=32060, XSecSource_UL16postVFP="XSDB (LO)",
-                XSec_UL17=29980, XSecSource_UL17="XSDB (LO)",
-                XSec_UL18=30140, XSecSource_UL18="XSDB (LO)",
+                XSec_13TeV=30363.051, XSecSource_13TeV="GenXSecAnalyzer run on UL16preVFP"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-1,
+                NEVT_UL16preVFP=56868784.0,
                 NEVT_UL16postVFP=-1,
                 NEVT_UL17=-1,
                 NEVT_UL18=-1,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_HT500to700_CP5_PSWeights_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/QCD_HT500to700_TuneCP5_PSWeights_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
                 Xml_UL16postVFP="", XmlSource_UL16postVFP="",
                 Xml_UL17="", XmlSource_UL17="",
                 Xml_UL18="", XmlSource_UL18="",
@@ -1572,19 +1677,16 @@ class MCSampleValuesHelper():
 
         "QCD_HT700to1000" : {
             "CrossSection" : XSValues(
-                XSec_UL16preVFP=6829, XSecSource_UL16preVFP="XSDB (LO)",
-                XSec_UL16postVFP=6829, XSecSource_UL16postVFP="XSDB (LO)",
-                XSec_UL17=6334, XSecSource_UL17="XSDB (LO)",
-                XSec_UL18=6310, XSecSource_UL18="XSDB (LO)",
+                XSec_13TeV=6428.869, XSecSource_13TeV="GenXSecAnalyzer run on UL16preVFP"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-1,
+                NEVT_UL16preVFP=15808790.0,
                 NEVT_UL16postVFP=-1,
                 NEVT_UL17=-1,
                 NEVT_UL18=-1,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_HT700to1000_CP5_PSWeights_madgraph-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/QCD_HT700to1000_TuneCP5_PSWeights_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
                 Xml_UL16postVFP="", XmlSource_UL16postVFP="",
                 Xml_UL17="", XmlSource_UL17="",
                 Xml_UL18="", XmlSource_UL18="",
@@ -1593,19 +1695,16 @@ class MCSampleValuesHelper():
 
         "QCD_HT1000to1500" : {
             "CrossSection" : XSValues(
-                XSec_UL16preVFP=1207, XSecSource_UL16preVFP="XSDB (LO)",
-                XSec_UL16postVFP=1207, XSecSource_UL16postVFP="XSDB (LO)",
-                XSec_UL17=1088, XSecSource_UL17="XSDB (LO)",
-                XSec_UL18=1094, XSecSource_UL18="XSDB (LO)",
+                XSec_13TeV=1122.659, XSecSource_13TeV="GenXSecAnalyzer run on UL16preVFP"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-1,
+                NEVT_UL16preVFP=13823774.0,
                 NEVT_UL16postVFP=-1,
                 NEVT_UL17=-1,
                 NEVT_UL18=-1,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_HT1000to1500_CP5_PSWeights_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/QCD_HT1000to1500_TuneCP5_PSWeights_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
                 Xml_UL16postVFP="", XmlSource_UL16postVFP="",
                 Xml_UL17="", XmlSource_UL17="",
                 Xml_UL18="", XmlSource_UL18="",
@@ -1614,19 +1713,16 @@ class MCSampleValuesHelper():
 
         "QCD_HT1500to2000" : {
             "CrossSection" : XSValues(
-                XSec_UL16preVFP=120, XSecSource_UL16preVFP="XSDB (LO)",
-                XSec_UL16postVFP=120, XSecSource_UL16postVFP="XSDB (LO)",
-                XSec_UL17=99.11, XSecSource_UL17="XSDB (LO)",
-                XSec_UL18=99.38, XSecSource_UL18="XSDB (LO)",
+                XSec_13TeV=108.163, XSecSource_13TeV="GenXSecAnalyzer run on UL16preVFP"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-1,
+                NEVT_UL16preVFP=10031077.0,
                 NEVT_UL16postVFP=-1,
                 NEVT_UL17=-1,
                 NEVT_UL18=-1,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_HT1500to2000_CP5_PSWeights_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/QCD_HT1500to2000_TuneCP5_PSWeights_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
                 Xml_UL16postVFP="", XmlSource_UL16postVFP="",
                 Xml_UL17="", XmlSource_UL17="",
                 Xml_UL18="", XmlSource_UL18="",
@@ -1635,19 +1731,16 @@ class MCSampleValuesHelper():
 
         "QCD_HT2000toInf" : {
             "CrossSection" : XSValues(
-                XSec_UL16preVFP=25.25, XSecSource_UL16preVFP="XSDB (LO)",
-                XSec_UL16postVFP=25.25, XSecSource_UL16postVFP="XSDB (LO)",
-                XSec_UL17=20.23, XSecSource_UL17="XSDB (LO)",
-                XSec_UL18=20.20, XSecSource_UL18="XSDB (LO)",
+                XSec_13TeV=22.008, XSecSource_13TeV="GenXSecAnalyzer run on UL16preVFP"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-1,
+                NEVT_UL16preVFP=4996082.0,
                 NEVT_UL16postVFP=-1,
                 NEVT_UL17=-1,
                 NEVT_UL18=-1,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_HT2000toInf_CP5_PSWeights_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/QCD_HT2000toInf_TuneCP5_PSWeights_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
                 Xml_UL16postVFP="", XmlSource_UL16postVFP="",
                 Xml_UL17="", XmlSource_UL17="",
                 Xml_UL18="", XmlSource_UL18="",
@@ -2013,3 +2106,46 @@ class MCSampleValuesHelper():
         if kFactor: xsec *= self.get_kfactor(name, energy, year)
         if Corrections: xsec *= self.get_corr(name, energy, year)
         return self.get_nevt(name, energy, year)/xsec
+
+def print_database():
+    helper = MCSampleValuesHelper()
+    samples = list(MCSampleValuesHelper.__dict__["_MCSampleValuesHelper__values_dict"].keys())
+    samples.sort()
+    energies = MCSampleValuesHelper.__dict__["_MCSampleValuesHelper__energies"]
+    years = MCSampleValuesHelper.__dict__["_MCSampleValuesHelper__years"]
+    import re
+    run_pattern = re.compile("(?P<run>(Run)+[ABCDEFGH]{1})")
+
+    max_sample_length = max(len(s) for s in samples)
+
+    def banner(text, decorator = "#", line_width = 30):
+        print("")
+        print(decorator*line_width)
+        print("{text:{deco}^{width}s}".format(text=text,deco=decorator,width=line_width))
+        print(decorator*line_width)
+        print("")
+
+    for energy in energies:
+        banner(energy)
+        for year in years:
+            banner(year)
+            for sample in samples:
+                run_match = run_pattern.search(sample)
+                isData = run_match is not None
+                nevt = helper.get_nevt(sample,energy,year)
+                lumi = "/" if (isData or nevt<0) else "%10.2g"%helper.get_lumi(sample,energy,year)
+                nevt = "%10.2g"%nevt
+                print('{sample: <{width}}-> nevt:{nevt: >5}, lumi:{lumi: >5}'.format(sample=sample, width=max_sample_length+3, nevt=nevt, lumi=lumi))
+    return 0
+
+
+if(__name__ == "__main__"):
+    import argparse
+    parser = argparse.ArgumentParser(description="CrossSectionHelper Database: find and calculate crucial information for your Analysis!")
+
+    parser.add_argument("--print", action="store_true", help="print number of events and calculated luminosity of all samples in database (This is primarily to test the integrety of the database).")
+
+    args = parser.parse_args()
+
+    if(args.print):
+        print_database()

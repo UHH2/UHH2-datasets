@@ -721,11 +721,11 @@ class MCSampleValuesHelper():
 
         "WW" : {
             "CrossSection" : XSValues(
-                XSec_13TeV=64.3, XSecSource_13TeV="GenXSecAnalyzer (LO)",
-                XSec_UL16preVFP=64.3,
-                XSec_UL16postVFP=64.3,
-                XSec_UL17=64.3,
-                XSec_UL18=64.3,
+                XSec_13TeV=75.91, XSecSource_13TeV="GenXSecAnalyzer (LO) for UL 16",
+                XSec_UL16preVFP=75.96,
+                XSec_UL16postVFP=75.91,
+                XSec_UL17=75.92,
+                XSec_UL18=75.91,
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=15859130.7832,
@@ -743,18 +743,11 @@ class MCSampleValuesHelper():
 
         "WZ" : {
             "CrossSection" : XSValues(
-                XSec_13TeV=23.43, XSecSource_13TeV="XSDB (NNLO)",
-                XSec_UL16preVFP=23.43,
-                XSec_UL16postVFP=23.43,
-                XSec_UL17=23.43,
-                XSec_UL18=23.43,
-            ),
-            "kFactor" : kFactorValues(
-                kFac_13TeV=2.01, kFacSource_13TeV="NNLO https://twiki.cern.ch/twiki/bin/viewauth/CMS/SummaryTable1G25ns",
-                kFac_UL16preVFP=2.01,
-                kFac_UL16postVFP=2.01,
-                kFac_UL17=2.01,
-                kFac_UL18=2.01,
+                XSec_13TeV=27.56, XSecSource_13TeV="GenXSecAnalyzer (LO) for UL 16",
+                XSec_UL16preVFP=27.55,
+                XSec_UL16postVFP=27.56,
+                XSec_UL17=27.54,
+                XSec_UL18=27.58,
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=7934000.0,
@@ -772,18 +765,11 @@ class MCSampleValuesHelper():
 
         "ZZ" : {
             "CrossSection" : XSValues(
-                XSec_13TeV=10.16, XSecSource_13TeV="XSDB (NNLO)",
-                XSec_UL16preVFP=10.16,
-                XSec_UL16postVFP=10.16,
-                XSec_UL17=10.16,
-                XSec_UL18=10.16,
-            ),
-            "kFactor" : kFactorValues(
-                kFac_13TeV=1.62, kFacSource_13TeV="NNLO https://twiki.cern.ch/twiki/bin/viewauth/CMS/SummaryTable1G25ns",
-                kFac_UL16preVFP=1.62,
-                kFac_UL16postVFP=1.62,
-                kFac_UL17=1.62,
-                kFac_UL18=1.62,
+                XSec_13TeV=12.13, XSecSource_13TeV="GenXSecAnalyzer (LO) for UL 16",
+                XSec_UL16preVFP=12.12,
+                XSec_UL16postVFP=12.13,
+                XSec_UL17=12.14,
+                XSec_UL18=12.13,
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=1282000.0,

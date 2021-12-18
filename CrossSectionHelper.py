@@ -571,8 +571,8 @@ class MCSampleValuesHelper():
         },
 
         "TT_Mtt-700to1000" : {
-            "CrossSection" : XSValues(XSec_13TeV=6.472e+01, XSecSource_13TeV="GenXSecAnalyzer run on UL17 (other years and also XSDB give similar results); accuracy: NLO"),
-            "Correction" : CorrValues(CorrSource_13TeV="FIXME; This sample uses Gen NLO Xsec but the normal TTbar samples are scaled to NNLO theory Xsec. Will need to derive a correction factor later on and put it here"),
+            "CrossSection" : XSValues(XSec_13TeV=6.472e+01, XSecSource_13TeV="GenXSecAnalyzer (NLO) run on UL17 (other years and also XSDB give similar results); accuracy: NLO"),
+            "Correction" : CorrValues(Corr_13TeV=1.20965315498, CorrSource_13TeV="Scales to NNLO+NNLL x-section of TTTo2L2Nu/TTToSemiLeptonic/TTToHadronic. This correction factor should always be used"),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=15678094533.0,
                 NEVT_UL16postVFP=22646592839.0,
@@ -588,8 +588,8 @@ class MCSampleValuesHelper():
         },
 
         "TT_Mtt-1000toInf" : {
-            "CrossSection" : XSValues(XSec_13TeV=1.644e+01, XSecSource_13TeV="GenXSecAnalyzer run on UL17 (other years and also XSDB give similar results); accuracy: NLO"),
-            "Correction" : CorrValues(CorrSource_13TeV="FIXME; This sample uses Gen NLO Xsec but the normal TTbar samples are scaled to NNLO theory Xsec. Will need to derive a correction factor later on and put it here"),
+            "CrossSection" : XSValues(XSec_13TeV=1.644e+01, XSecSource_13TeV="GenXSecAnalyzer (NLO) run on UL17 (other years and also XSDB give similar results); accuracy: NLO"),
+            "Correction" : CorrValues(Corr_13TeV=1.21062828535, CorrSource_13TeV="Scales to NNLO+NNLL x-section of TTTo2L2Nu/TTToSemiLeptonic/TTToHadronic. This correction factor should always be used"),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=15221498037.0,
                 NEVT_UL16postVFP=15749293533.9,

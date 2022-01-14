@@ -305,28 +305,28 @@ class MCSampleValuesHelper():
 
         "EGamma_RunA": {
             "NEvents" : NEventsValues(
-                NEVT_UL18=-1,
+                NEVT_UL18=339013231,
             ),
             "XMLname" : XMLValues(
-                Xml_UL18="", XmlSource_UL18="",
+                Xml_UL18="RunII_106X_v2/data/UL18/EGamma_Run2018A-UL2018_MiniAODv2-v1.xml", XmlSource_UL18="/EGamma/Run2018A-UL2018_MiniAODv2-v1/MINIAOD",
             ),
         },
 
         "EGamma_RunB": {
             "NEvents" : NEventsValues(
-                NEVT_UL18=-1,
+                NEVT_UL18=153792795,
             ),
             "XMLname" : XMLValues(
-                Xml_UL18="", XmlSource_UL18="",
+                Xml_UL18="RunII_106X_v2/data/UL18/EGamma_Run2018B-UL2018_MiniAODv2-v1.xml", XmlSource_UL18="/EGamma/Run2018B-UL2018_MiniAODv2-v1/MINIAOD",
             ),
         },
 
         "EGamma_RunC": {
             "NEvents" : NEventsValues(
-                NEVT_UL18=-1,
+                NEVT_UL18=147827904,
             ),
             "XMLname" : XMLValues(
-                Xml_UL18="", XmlSource_UL18="",
+                Xml_UL18="RunII_106X_v2/data/UL18/EGamma_Run2018C-UL2018_MiniAODv2-v1.xml", XmlSource_UL18="/EGamma/Run2018C-UL2018_MiniAODv2-v1/MINIAOD",
             ),
         },
 

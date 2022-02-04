@@ -1794,6 +1794,198 @@ class MCSampleValuesHelper():
             ),
         },
 
+        "QCD_Pt-15To20_MuEnrichedPt5" : {
+            "CrossSection" : XSValues(XSec_13TeV=2.804e+06, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=-1,
+                NEVT_UL16postVFP=-1,
+                NEVT_UL17=-1,
+                NEVT_UL18=9354640.99415,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16postVFP="", XmlSource_UL16postVFP="",
+                Xml_UL17="", XmlSource_UL17="",
+                Xml_UL18="RunII_106X_v2/SM/UL18/QCD_Pt-15To20_MuEnrichedPt5_CP5_pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/QCD_Pt-15To20_MuEnrichedPt5_TuneCP5_13TeV-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM",
+            ),
+        },
+
+        "QCD_Pt-20To30_MuEnrichedPt5" : {
+            "CrossSection" : XSValues(XSec_13TeV=2.525e+06, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=-1,
+                NEVT_UL16postVFP=-1,
+                NEVT_UL17=-1,
+                NEVT_UL18=60377404.6306,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16postVFP="", XmlSource_UL16postVFP="",
+                Xml_UL17="", XmlSource_UL17="",
+                Xml_UL18="RunII_106X_v2/SM/UL18/QCD_Pt-20To30_MuEnrichedPt5_CP5_pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/QCD_Pt-20To30_MuEnrichedPt5_TuneCP5_13TeV-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM",
+            ),
+        },
+
+        "QCD_Pt-30To50_MuEnrichedPt5" : {
+            "CrossSection" : XSValues(XSec_13TeV=1.366e+06, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=-1,
+                NEVT_UL16postVFP=-1,
+                NEVT_UL17=-1,
+                NEVT_UL18=58627984.0,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16postVFP="", XmlSource_UL16postVFP="",
+                Xml_UL17="", XmlSource_UL17="",
+                Xml_UL18="RunII_106X_v2/SM/UL18/QCD_Pt-30To50_MuEnrichedPt5_CP5_pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/QCD_Pt-30To50_MuEnrichedPt5_TuneCP5_13TeV-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM",
+            ),
+        },
+
+        "QCD_Pt-50To80_MuEnrichedPt5" : {
+            "CrossSection" : XSValues(XSec_13TeV=3.777e+05, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=-1,
+                NEVT_UL16postVFP=-1,
+                NEVT_UL17=-1,
+                NEVT_UL18=40022458.0,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16postVFP="", XmlSource_UL16postVFP="",
+                Xml_UL17="", XmlSource_UL17="",
+                Xml_UL18="RunII_106X_v2/SM/UL18/QCD_Pt-50To80_MuEnrichedPt5_CP5_pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/QCD_Pt-50To80_MuEnrichedPt5_TuneCP5_13TeV-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM",
+            ),
+        },
+
+        "QCD_Pt-80To120_MuEnrichedPt5" : {
+            "CrossSection" : XSValues(XSec_13TeV=8.862e+04, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=-1,
+                NEVT_UL16postVFP=-1,
+                NEVT_UL17=-1,
+                NEVT_UL18=45571985.8354,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16postVFP="", XmlSource_UL16postVFP="",
+                Xml_UL17="", XmlSource_UL17="",
+                Xml_UL18="RunII_106X_v2/SM/UL18/QCD_Pt-80To120_MuEnrichedPt5_CP5_pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/QCD_Pt-80To120_MuEnrichedPt5_TuneCP5_13TeV-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM",
+            ),
+        },
+
+        "QCD_Pt-120To170_MuEnrichedPt5" : {
+            "CrossSection" : XSValues(XSec_13TeV=2.118e+04, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=-1,
+                NEVT_UL16postVFP=-1,
+                NEVT_UL17=-1,
+                NEVT_UL18=39115540.5162,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16postVFP="", XmlSource_UL16postVFP="",
+                Xml_UL17="", XmlSource_UL17="",
+                Xml_UL18="RunII_106X_v2/SM/UL18/QCD_Pt-120To170_MuEnrichedPt5_CP5_pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/QCD_Pt-120To170_MuEnrichedPt5_TuneCP5_13TeV-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM",
+            ),
+        },
+
+        "QCD_Pt-170To300_MuEnrichedPt5" : {
+            "CrossSection" : XSValues(XSec_13TeV=7.015e+03, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=-1,
+                NEVT_UL16postVFP=-1,
+                NEVT_UL17=-1,
+                NEVT_UL18=71926577.0,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16postVFP="", XmlSource_UL16postVFP="",
+                Xml_UL17="", XmlSource_UL17="",
+                Xml_UL18="RunII_106X_v2/SM/UL18/QCD_Pt-170To300_MuEnrichedPt5_CP5_pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/QCD_Pt-170To300_MuEnrichedPt5_TuneCP5_13TeV-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM",
+            ),
+        },
+
+        "QCD_Pt-300To470_MuEnrichedPt5" : {
+            "CrossSection" : XSValues(XSec_13TeV=6.201e+02, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=-1,
+                NEVT_UL16postVFP=-1,
+                NEVT_UL17=-1,
+                NEVT_UL18=58949766.2915,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16postVFP="", XmlSource_UL16postVFP="",
+                Xml_UL17="", XmlSource_UL17="",
+                Xml_UL18="RunII_106X_v2/SM/UL18/QCD_Pt-300To470_MuEnrichedPt5_CP5_pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/QCD_Pt-300To470_MuEnrichedPt5_TuneCP5_13TeV-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM",
+            ),
+        },
+
+        "QCD_Pt-470To600_MuEnrichedPt5" : {
+            "CrossSection" : XSValues(XSec_13TeV=5.908e+01, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=-1,
+                NEVT_UL16postVFP=-1,
+                NEVT_UL17=-1,
+                NEVT_UL18=38453444.9014,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16postVFP="", XmlSource_UL16postVFP="",
+                Xml_UL17="", XmlSource_UL17="",
+                Xml_UL18="RunII_106X_v2/SM/UL18/QCD_Pt-470To600_MuEnrichedPt5_CP5_pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/QCD_Pt-470To600_MuEnrichedPt5_TuneCP5_13TeV-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM",
+            ),
+        },
+
+        "QCD_Pt-600To800_MuEnrichedPt5" : {
+            "CrossSection" : XSValues(XSec_13TeV=1.825e+01, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=-1,
+                NEVT_UL16postVFP=-1,
+                NEVT_UL17=-1,
+                NEVT_UL18=38412789.1215,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16postVFP="", XmlSource_UL16postVFP="",
+                Xml_UL17="", XmlSource_UL17="",
+                Xml_UL18="RunII_106X_v2/SM/UL18/QCD_Pt-600To800_MuEnrichedPt5_CP5_pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/QCD_Pt-600To800_MuEnrichedPt5_TuneCP5_13TeV-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM",
+            ),
+        },
+
+        "QCD_Pt-800To1000_MuEnrichedPt5" : {
+            "CrossSection" : XSValues(XSec_13TeV=3.276e+00, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=-1,
+                NEVT_UL16postVFP=-1,
+                NEVT_UL17=-1,
+                NEVT_UL18=78942993.0,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16postVFP="", XmlSource_UL16postVFP="",
+                Xml_UL17="", XmlSource_UL17="",
+                Xml_UL18="RunII_106X_v2/SM/UL18/QCD_Pt-800To1000_MuEnrichedPt5_CP5_pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/QCD_Pt-800To1000_MuEnrichedPt5_TuneCP5_13TeV-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM",
+            ),
+        },
+
+        "QCD_Pt-1000_MuEnrichedPt5" : {
+            "CrossSection" : XSValues(XSec_13TeV=1.077e+00, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=-1,
+                NEVT_UL16postVFP=-1,
+                NEVT_UL17=-1,
+                NEVT_UL18=27427130.0,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16postVFP="", XmlSource_UL16postVFP="",
+                Xml_UL17="", XmlSource_UL17="",
+                Xml_UL18="RunII_106X_v2/SM/UL18/QCD_Pt-1000_MuEnrichedPt5_CP5_pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/QCD_Pt-1000_MuEnrichedPt5_TuneCP5_13TeV-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM",
+            ),
+        },
+
         "QCD_Pt-30to50_EMEnriched" : {
             "CrossSection" : XSValues(XSec_13TeV=6.418e+06, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(

@@ -1816,7 +1816,7 @@ class MCSampleValuesHelper():
                 NEVT_UL16preVFP=-1,
                 NEVT_UL16postVFP=-1,
                 NEVT_UL17=-1,
-                NEVT_UL18=60377404.6306,
+                NEVT_UL18=60641468.4388,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="", XmlSource_UL16preVFP="",

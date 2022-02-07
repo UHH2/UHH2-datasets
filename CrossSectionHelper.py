@@ -1688,7 +1688,7 @@ class MCSampleValuesHelper():
 
         "WJetsToQQ_HT200to400" : {
             "CrossSection" : XSValues(
-                XSec_13TeV=2565.301991, XSecSource_13TeV="GenXSecAnalyzer"
+                XSec_13TeV=2565.301991, XSecSource_13TeV="GenXSecAnalyzer run on UL17"
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=8000572.0,

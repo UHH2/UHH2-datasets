@@ -1686,6 +1686,24 @@ class MCSampleValuesHelper():
             ),
         },
 
+        "WJetsToQQ_HT200to400" : {
+            "CrossSection" : XSValues(
+                XSec_13TeV=2565.301991, XSecSource_13TeV="GenXSecAnalyzer"
+            ),
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=-1,
+                NEVT_UL16postVFP=-1,
+                NEVT_UL17=15968057.0,
+                NEVT_UL18=-1,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="", XmlSource_UL16preVFP="",
+                Xml_UL16postVFP="", XmlSource_UL16postVFP="",
+                Xml_UL17="RunII_106X_v2/SM/UL17/WJetsToQQ_HT-200to400_CP5_madgraphMLM-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/WJetsToQQ_HT-200to400_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="", XmlSource_UL18="",
+            ),
+        },
+
         "WJetsToQQ_HT400to600" : {
             "CrossSection" : XSValues(
                 XSec_13TeV=276.629780, XSecSource_13TeV="GenXSecAnalyzer run on UL17"

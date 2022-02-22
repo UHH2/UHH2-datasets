@@ -431,60 +431,60 @@ class MCSampleValuesHelper():
 
         "MET_RunA": {
             "NEvents" : NEventsValues(
-                NEVT_UL18=-1,
+                NEVT_UL18=52759851,
             ),
             "XMLname" : XMLValues(
-                Xml_UL18="", XmlSource_UL18="",
+                Xml_UL18="RunII_106X_v2/data/UL18/MET_Run2018A-UL2018_MiniAODv2-v2.xml", XmlSource_UL18="/MET/Run2018A-UL2018_MiniAODv2-v2/MINIAOD",
             ),
         },
 
         "MET_RunB": {
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=583427+35987712,
-                NEVT_UL17=-1,
-                NEVT_UL18=-1,
+                NEVT_UL17=51623474,
+                NEVT_UL18=29713483,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/MET_Run2016B-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/MET/Run2016B-{ver1,ver2}_HIPM_UL2016_MiniAODv2-v2/MINIAOD",
-                Xml_UL17="", XmlSource_UL17="",
-                Xml_UL18="", XmlSource_UL18="",
+                Xml_UL17="RunII_106X_v2/data/UL17/MET_Run2017B-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/MET/Run2017B-UL2017_MiniAODv2-v1/MINIAOD",
+                Xml_UL18="RunII_106X_v2/data/UL18/MET_Run2018B-UL2018_MiniAODv2-v2.xml", XmlSource_UL18="/MET/Run2018B-UL2018_MiniAODv2-v2/MINIAOD",
             ),
         },
 
         "MET_RunC": {
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=17381222,
-                NEVT_UL17=-1,
-                NEVT_UL18=-1,
+                NEVT_UL17=115906496,
+                NEVT_UL18=31237456,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/MET_Run2016C-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/MET/Run2016C-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
-                Xml_UL17="", XmlSource_UL17="",
-                Xml_UL18="", XmlSource_UL18="",
+                Xml_UL17="RunII_106X_v2/data/UL17/MET_Run2017C-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/MET/Run2017C-UL2017_MiniAODv2-v1/MINIAOD",
+                Xml_UL18="RunII_106X_v2/data/UL18/MET_Run2018C-UL2018_MiniAODv2-v1.xml", XmlSource_UL18="/MET/Run2018C-UL2018_MiniAODv2-v1/MINIAOD",
             ),
         },
 
         "MET_RunD": {
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=20947429,
-                NEVT_UL17=-1,
-                NEVT_UL18=-1,
+                NEVT_UL17=20075033,
+                NEVT_UL18=160411782,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/MET_Run2016D-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/MET/Run2016D-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
-                Xml_UL17="", XmlSource_UL17="",
-                Xml_UL18="", XmlSource_UL18="",
+                Xml_UL17="RunII_106X_v2/data/UL17/MET_Run2017D-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/MET/Run2017D-UL2017_MiniAODv2-v1/MINIAOD",
+                Xml_UL18="RunII_106X_v2/data/UL18/MET_Run2018D-UL2018_MiniAODv2-v1.xml", XmlSource_UL18="/MET/Run2018D-UL2018_MiniAODv2-v1/MINIAOD",
             ),
         },
 
         "MET_RunE": {
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=22348402,
-                NEVT_UL17=-1,
+                NEVT_UL17=71418865,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/MET_Run2016E-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/MET/Run2016E-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
-                Xml_UL17="", XmlSource_UL17="",
+                Xml_UL17="RunII_106X_v2/data/UL17/MET_Run2017E-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/MET/Run2017E-UL2017_MiniAODv2-v1/MINIAOD",
             ),
         },
 
@@ -492,12 +492,12 @@ class MCSampleValuesHelper():
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=11936579,
                 NEVT_UL16postVFP=1383250,
-                NEVT_UL17=-1,
+                NEVT_UL17=177521562,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/MET_Run2016F-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/MET/Run2016F-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
                 Xml_UL16postVFP="RunII_106X_v2/data/UL16postVFP/MET_Run2016F-UL2016_MiniAODv2-v2.xml", XmlSource_UL16postVFP="/MET/Run2016F-UL2016_MiniAODv2-v2/MINIAOD",
-                Xml_UL17="", XmlSource_UL17="",
+                Xml_UL17="RunII_106X_v2/data/UL17/MET_Run2017F-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/MET/Run2017F-UL2017_MiniAODv2-v1/MINIAOD",
             ),
         },
 

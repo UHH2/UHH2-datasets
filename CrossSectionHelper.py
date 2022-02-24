@@ -153,99 +153,6 @@ class MCSampleValuesHelper():
             ),
         },
 
-        "DoubleMuon_RunA": {
-            "NEvents" : NEventsValues(
-                NEVT_UL18=75491789,
-            ),
-            "XMLname" : XMLValues(
-                Xml_UL18="RunII_106X_v2/data/UL18/DoubleMuon_Run2018A-UL2018_MiniAODv2-v1.xml", XmlSource_UL18="/DoubleMuon/Run2018A-UL2018_MiniAODv2-v1/MINIAOD",
-            )
-        },
-
-        "DoubleMuon_RunB": {
-            "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=4199947+82535526,
-                NEVT_UL17=14501767,
-                NEVT_UL18=35057758,
-            ),
-            "XMLname" : XMLValues(
-                Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/DoubleMuon_Run2016B-{ver1,ver2}_HIPM_UL2016_MiniAODv2-v1.xml", XmlSource_UL16preVFP="/DoubleMuon/Run2016B-{ver1,ver2}_HIPM_UL2016_MiniAODv2-v1/MINIAOD",
-                Xml_UL17="RunII_106X_v2/data/UL17/DoubleMuon_Run2017B-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/DoubleMuon/Run2017B-UL2017_MiniAODv2-v1/MINIAOD",
-                Xml_UL18="RunII_106X_v2/data/UL18/DoubleMuon_Run2018B-UL2018_MiniAODv2-v1.xml", XmlSource_UL18="/DoubleMuon/Run2018B-UL2018_MiniAODv2-v1/MINIAOD",
-            )
-        },
-
-        "DoubleMuon_RunC": {
-            "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=27934629,
-                NEVT_UL17=49636525,
-                NEVT_UL18=34565869,
-            ),
-            "XMLname" : XMLValues(
-                Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/DoubleMuon_Run2016C-HIPM_UL2016_MiniAODv2-v1.xml", XmlSource_UL16preVFP="/DoubleMuon/Run2016C-HIPM_UL2016_MiniAODv2-v1/MINIAOD",
-                Xml_UL17="RunII_106X_v2/data/UL17/DoubleMuon_Run2017C-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/DoubleMuon/Run2017C-UL2017_MiniAODv2-v1/MINIAOD",
-                Xml_UL18="RunII_106X_v2/data/UL18/DoubleMuon_Run2018C-UL2018_MiniAODv2-v1.xml", XmlSource_UL18="/DoubleMuon/Run2018C-UL2018_MiniAODv2-v1/MINIAOD",
-            )
-        },
-
-        "DoubleMuon_RunD": {
-            "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=33861745,
-                NEVT_UL17=23075733,
-                NEVT_UL18=168600679,
-            ),
-            "XMLname" : XMLValues(
-                Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/DoubleMuon_Run2016D-HIPM_UL2016_MiniAODv2-v1.xml", XmlSource_UL16preVFP="/DoubleMuon/Run2016D-HIPM_UL2016_MiniAODv2-v1/MINIAOD",
-                Xml_UL17="RunII_106X_v2/data/UL17/DoubleMuon_Run2017D-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/DoubleMuon/Run2017D-UL2017_MiniAODv2-v1/MINIAOD",
-                Xml_UL18="RunII_106X_v2/data/UL18/DoubleMuon_Run2018D-UL2018_MiniAODv2-v1.xml", XmlSource_UL18="/DoubleMuon/Run2018D-UL2018_MiniAODv2-v1/MINIAOD",
-            )
-        },
-
-        "DoubleMuon_RunE": {
-            "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=28246946,
-                NEVT_UL17=51531477,
-            ),
-            "XMLname" : XMLValues(
-                Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/DoubleMuon_Run2016E-HIPM_UL2016_MiniAODv2-v1.xml", XmlSource_UL16preVFP="/DoubleMuon/Run2016E-HIPM_UL2016_MiniAODv2-v1/MINIAOD",
-                Xml_UL17="RunII_106X_v2/data/UL17/DoubleMuon_Run2017E-UL2017_MiniAODv2-v2.xml", XmlSource_UL17="/DoubleMuon/Run2017E-UL2017_MiniAODv2-v2/MINIAOD",
-            )
-        },
-
-        "DoubleMuon_RunF": {
-            "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=17900759,
-                NEVT_UL16postVFP=2429162,
-                NEVT_UL17=79756560,
-            ),
-            "XMLname" : XMLValues(
-                Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/DoubleMuon_Run2016F-HIPM_UL2016_MiniAODv2-v1.xml", XmlSource_UL16preVFP="/DoubleMuon/Run2016F-HIPM_UL2016_MiniAODv2-v1/MINIAOD",
-                Xml_UL16postVFP="RunII_106X_v2/data/UL16postVFP/DoubleMuon_Run2016F-UL2016_MiniAODv2-v1.xml", XmlSource_UL16postVFP="/DoubleMuon/Run2016F-UL2016_MiniAODv2-v1/MINIAOD",
-                Xml_UL17="RunII_106X_v2/data/UL17/DoubleMuon_Run2017F-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/DoubleMuon/Run2017F-UL2017_MiniAODv2-v1/MINIAOD",
-
-            )
-        },
-
-        "DoubleMuon_RunG": {
-            "NEvents" : NEventsValues(
-                NEVT_UL16postVFP=45235604,
-                NEVT_UL17=0.0,
-            ),
-            "XMLname" : XMLValues(
-                Xml_UL16postVFP="RunII_106X_v2/data/UL16postVFP/DoubleMuon_Run2016G-UL2016_MiniAODv2-v1.xml", XmlSource_UL16postVFP="/DoubleMuon/Run2016G-UL2016_MiniAODv2-v1/MINIAOD",
-                Xml_UL17="", XmlSource_UL17="",
-            )
-        },
-
-        "DoubleMuon_RunH": {
-            "NEvents" : NEventsValues(
-                NEVT_UL16postVFP=48912812,
-            ),
-            "XMLname" : XMLValues(
-                Xml_UL16postVFP="RunII_106X_v2/data/UL16postVFP/DoubleMuon_Run2016H-UL2016_MiniAODv2-v2.xml", XmlSource_UL16postVFP="/DoubleMuon/Run2016H-UL2016_MiniAODv2-v2/MINIAOD",
-            )
-        },
-
         "SingleElectron_RunB": {
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=1422819+246440440,
@@ -1054,10 +961,9 @@ class MCSampleValuesHelper():
             ),
         },
 
-
         "TTZToLLNuNu_M-10_TuneCP5" : {
-            "CrossSection" : XSValues(XSec_13TeV=0.86, XSecSource_13TeV="AN2019_094_v11"),
-            "BranchingRatio" : BRValues(BRat_13TeV=3*(0.0337+0.0667), BRatSource_13TeV="AN2019_094_v11"),
+            "CrossSection" : XSValues(XSec_13TeV=0.86, XSecSource_13TeV="Phys. Rev. Lett. 113 (2014) 212001 [doi:10.1103/PhysRevLett.113.212001]"),
+            "BranchingRatio" : BRValues(BRat_13TeV=3*(0.0337+0.0667), BRatSource_13TeV="P.A. Zyla et al. (Particle Data Group), Prog. Theor. Exp. Phys. 2020, 083C01 (2020) and 2021 update"),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=1415599.92644,
                 NEVT_UL16postVFP=1477923.21991,
@@ -1065,21 +971,16 @@ class MCSampleValuesHelper():
                 NEVT_UL18=4782962.66323,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTZToLLNuNu_M-10_CP5_amcatnlo-pythia8_Summer20UL16APV_v1.xml",
-                XmlSource_UL16preVFP="/TTZToLLNuNu_M-10_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
-                Xml_UL16postVFP="RunII_106X_v2/SM/UL16postVFP/TTZToLLNuNu_M-10_CP5_amcatnlo-pythia8_Summer20UL16_v1.xml",
-                XmlSource_UL16postVFP="/TTZToLLNuNu_M-10_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
-                Xml_UL17="RunII_106X_v2/SM/UL17/TTZToLLNuNu_M-10_CP5_amcatnlo-pythia8_Summer20UL17_v1.xml",
-                XmlSource_UL17="/TTZToLLNuNu_M-10_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM",
-                Xml_UL18="RunII_106X_v2/SM/UL18/TTZToLLNuNu_M-10_CP5_amcatnlo-pythia8_Summer20UL18_v2.xml",
-                XmlSource_UL18="/TTZToLLNuNu_M-10_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM",
+                Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTZToLLNuNu_M-10_CP5_amcatnlo-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TTZToLLNuNu_M-10_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/SM/UL16postVFP/TTZToLLNuNu_M-10_CP5_amcatnlo-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/TTZToLLNuNu_M-10_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/SM/UL17/TTZToLLNuNu_M-10_CP5_amcatnlo-pythia8_Summer20UL17_v1.xml", XmlSource_UL17="/TTZToLLNuNu_M-10_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/SM/UL18/TTZToLLNuNu_M-10_CP5_amcatnlo-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TTZToLLNuNu_M-10_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM",
             ),
         },
 
-
         "TTZToQQ_TuneCP5" : {
-            "CrossSection" : XSValues(XSec_13TeV=0.86, XSecSource_13TeV="AN2019_094_v11"),
-            "BranchingRatio" : BRValues(BRat_13TeV=0.69911, BRatSource_13TeV="AN2019_094_v11"),
+            "CrossSection" : XSValues(XSec_13TeV=0.86, XSecSource_13TeV="Phys. Rev. Lett. 113 (2014) 212001 [doi:10.1103/PhysRevLett.113.212001]"),
+            "BranchingRatio" : BRValues(BRat_13TeV=0.69911, BRatSource_13TeV="P.A. Zyla et al. (Particle Data Group), Prog. Theor. Exp. Phys. 2020, 083C01 (2020) and 2021 update"),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=3206904.47682,
                 NEVT_UL16postVFP=2758738.86304,
@@ -1087,21 +988,16 @@ class MCSampleValuesHelper():
                 NEVT_UL18=10134247.2843,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTZToQQ_CP5_amcatnlo-pythia8_Summer20UL16APV_v1.xml",
-                XmlSource_UL16preVFP="/TTZToQQ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
-                Xml_UL16postVFP="RunII_106X_v2/SM/UL16postVFP/TTZToQQ_CP5_amcatnlo-pythia8_Summer20UL16_v1.xml",
-                XmlSource_UL16postVFP="/TTZToQQ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
-                Xml_UL17="RunII_106X_v2/SM/UL17/TTZToQQ_CP5_amcatnlo-pythia8_Summer20UL17_v1.xml",
-                XmlSource_UL17="/TTZToQQ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM",
-                Xml_UL18="RunII_106X_v2/SM/UL18/TTZToQQ_CP5_amcatnlo-pythia8_Summer20UL18_v1.xml",
-                XmlSource_UL18="/TTZToQQ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM",
+                Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTZToQQ_CP5_amcatnlo-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TTZToQQ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/SM/UL16postVFP/TTZToQQ_CP5_amcatnlo-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/TTZToQQ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/SM/UL17/TTZToQQ_CP5_amcatnlo-pythia8_Summer20UL17_v1.xml", XmlSource_UL17="/TTZToQQ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/SM/UL18/TTZToQQ_CP5_amcatnlo-pythia8_Summer20UL18_v1.xml", XmlSource_UL18="/TTZToQQ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM",
             ),
         },
         
-
         "TTWJetsToLNu_TuneCP5" : {
-            "CrossSection" : XSValues(XSec_13TeV=0.55, XSecSource_13TeV="AN2019_094_v11"),
-            "BranchingRatio" : BRValues(BRat_13TeV=0.3259, BRatSource_13TeV="AN2019_094_v11"),
+            "CrossSection" : XSValues(XSec_13TeV=0.55, XSecSource_13TeV="Phys. Rev. Lett. 113 (2014) 212001 [doi:10.1103/PhysRevLett.113.212001]"),
+            "BranchingRatio" : BRValues(BRat_13TeV=0.3259, BRatSource_13TeV="P.A. Zyla et al. (Particle Data Group), Prog. Theor. Exp. Phys. 2020, 083C01 (2020) and 2021 update"),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=953960.422456,
                 NEVT_UL16postVFP=1113150.39282,
@@ -1109,21 +1005,16 @@ class MCSampleValuesHelper():
                 NEVT_UL18=3525043.5175,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTWJetsToLNu_CP5_amcatnloFXFX-madspin-pythia8_Summer20UL16APV_v2.xml",
-                XmlSource_UL16preVFP="/TTWJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
-                Xml_UL16postVFP="RunII_106X_v2/SM/UL16postVFP/TTWJetsToLNu_CP5_amcatnloFXFX-madspin-pythia8_Summer20UL16_v1.xml",
-                XmlSource_UL16postVFP="/TTWJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
-                Xml_UL17="RunII_106X_v2/SM/UL17/TTWJetsToLNu_CP5_amcatnloFXFX-madspin-pythia8_Summer20UL17_v1.xml",
-                XmlSource_UL17="/TTWJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM",
-                Xml_UL18="RunII_106X_v2/SM/UL18/TTWJetsToLNu_CP5_amcatnloFXFX-madspin-pythia8_Summer20UL18_v1.xml",
-                XmlSource_UL18="/TTWJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM",
+                Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTWJetsToLNu_CP5_amcatnloFXFX-madspin-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TTWJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/SM/UL16postVFP/TTWJetsToLNu_CP5_amcatnloFXFX-madspin-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/TTWJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/SM/UL17/TTWJetsToLNu_CP5_amcatnloFXFX-madspin-pythia8_Summer20UL17_v1.xml", XmlSource_UL17="/TTWJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/SM/UL18/TTWJetsToLNu_CP5_amcatnloFXFX-madspin-pythia8_Summer20UL18_v1.xml", XmlSource_UL18="/TTWJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM",
             ),
         },
-        
 
         "TTWJetsToQQ_TuneCP5" : {
-            "CrossSection" : XSValues(XSec_13TeV=0.55, XSecSource_13TeV="AN2019_094_v11"),
-            "BranchingRatio" : BRValues(BRat_13TeV=0.6741, BRatSource_13TeV="AN2019_094_v11"),
+            "CrossSection" : XSValues(XSec_13TeV=0.55, XSecSource_13TeV="Phys. Rev. Lett. 113 (2014) 212001 [doi:10.1103/PhysRevLett.113.212001]"),
+            "BranchingRatio" : BRValues(BRat_13TeV=0.6741, BRatSource_13TeV="P.A. Zyla et al. (Particle Data Group), Prog. Theor. Exp. Phys. 2020, 083C01 (2020) and 2021 update"),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=184218.52966,
                 NEVT_UL16postVFP=209107.004822,
@@ -1131,17 +1022,12 @@ class MCSampleValuesHelper():
                 NEVT_UL18=656374.27724,
             ),
             "XMLname" : XMLValues(
-                Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTWJetsToQQ_CP5_amcatnloFXFX-madspin-pythia8_Summer20UL16APV_v2.xml",
-                XmlSource_UL16preVFP="/TTWJetsToQQ_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
-                Xml_UL16postVFP="RunII_106X_v2/SM/UL16postVFP/TTWJetsToQQ_CP5_amcatnloFXFX-madspin-pythia8_Summer20UL16_v1.xml",
-                XmlSource_UL16postVFP="/TTWJetsToQQ_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
-                Xml_UL17="RunII_106X_v2/SM/UL17/TTWJetsToQQ_CP5_amcatnloFXFX-madspin-pythia8_Summer20UL17_v1.xml",
-                XmlSource_UL17="/TTWJetsToQQ_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM",
-                Xml_UL18="RunII_106X_v2/SM/UL18/TTWJetsToQQ_CP5_amcatnloFXFX-madspin-pythia8_Summer20UL18_v1.xml",
-                XmlSource_UL18="/TTWJetsToQQ_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM",
+                Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTWJetsToQQ_CP5_amcatnloFXFX-madspin-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TTWJetsToQQ_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/SM/UL16postVFP/TTWJetsToQQ_CP5_amcatnloFXFX-madspin-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/TTWJetsToQQ_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/SM/UL17/TTWJetsToQQ_CP5_amcatnloFXFX-madspin-pythia8_Summer20UL17_v1.xml", XmlSource_UL17="/TTWJetsToQQ_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/SM/UL18/TTWJetsToQQ_CP5_amcatnloFXFX-madspin-pythia8_Summer20UL18_v1.xml", XmlSource_UL18="/TTWJetsToQQ_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM",
             ),
         },
-
 
         "ST_tW_top_5f_inclusiveDecays" : {
             "CrossSection" : XSValues(XSec_13TeV=35.85, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/SingleTopRefXsec"),

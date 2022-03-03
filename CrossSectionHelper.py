@@ -339,6 +339,174 @@ class MCSampleValuesHelper():
             ),
         },
 
+        "DoubleMuon_RunA": {
+            "NEvents" : NEventsValues(
+                NEVT_UL18=75491789,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL18="RunII_106X_v2/data/UL18/DoubleMuon_Run2018A-UL2018_MiniAODv2-v1.xml", XmlSource_UL18="/DoubleMuon/Run2018A-UL2018_MiniAODv2-v1/MINIAOD",
+            )
+        },
+
+        "DoubleMuon_RunB": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=4199947+82535526,
+                NEVT_UL17=14501767,
+                NEVT_UL18=35057758,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/DoubleMuon_Run2016B-{ver1,ver2}_HIPM_UL2016_MiniAODv2-v1.xml", XmlSource_UL16preVFP="/DoubleMuon/Run2016B-{ver1,ver2}_HIPM_UL2016_MiniAODv2-v1/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data/UL17/DoubleMuon_Run2017B-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/DoubleMuon/Run2017B-UL2017_MiniAODv2-v1/MINIAOD",
+                Xml_UL18="RunII_106X_v2/data/UL18/DoubleMuon_Run2018B-UL2018_MiniAODv2-v1.xml", XmlSource_UL18="/DoubleMuon/Run2018B-UL2018_MiniAODv2-v1/MINIAOD",
+            )
+        },
+
+        "DoubleMuon_RunC": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=27934629,
+                NEVT_UL17=49636525,
+                NEVT_UL18=34565869,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/DoubleMuon_Run2016C-HIPM_UL2016_MiniAODv2-v1.xml", XmlSource_UL16preVFP="/DoubleMuon/Run2016C-HIPM_UL2016_MiniAODv2-v1/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data/UL17/DoubleMuon_Run2017C-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/DoubleMuon/Run2017C-UL2017_MiniAODv2-v1/MINIAOD",
+                Xml_UL18="RunII_106X_v2/data/UL18/DoubleMuon_Run2018C-UL2018_MiniAODv2-v1.xml", XmlSource_UL18="/DoubleMuon/Run2018C-UL2018_MiniAODv2-v1/MINIAOD",
+            )
+        },
+
+        "DoubleMuon_RunD": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=33861745,
+                NEVT_UL17=23075733,
+                NEVT_UL18=168600679,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/DoubleMuon_Run2016D-HIPM_UL2016_MiniAODv2-v1.xml", XmlSource_UL16preVFP="/DoubleMuon/Run2016D-HIPM_UL2016_MiniAODv2-v1/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data/UL17/DoubleMuon_Run2017D-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/DoubleMuon/Run2017D-UL2017_MiniAODv2-v1/MINIAOD",
+                Xml_UL18="RunII_106X_v2/data/UL18/DoubleMuon_Run2018D-UL2018_MiniAODv2-v1.xml", XmlSource_UL18="/DoubleMuon/Run2018D-UL2018_MiniAODv2-v1/MINIAOD",
+            )
+        },
+
+        "DoubleMuon_RunE": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=28246946,
+                NEVT_UL17=51531477,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/DoubleMuon_Run2016E-HIPM_UL2016_MiniAODv2-v1.xml", XmlSource_UL16preVFP="/DoubleMuon/Run2016E-HIPM_UL2016_MiniAODv2-v1/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data/UL17/DoubleMuon_Run2017E-UL2017_MiniAODv2-v2.xml", XmlSource_UL17="/DoubleMuon/Run2017E-UL2017_MiniAODv2-v2/MINIAOD",
+            )
+        },
+
+        "DoubleMuon_RunF": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=17900759,
+                NEVT_UL16postVFP=2429162,
+                NEVT_UL17=79756560,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/DoubleMuon_Run2016F-HIPM_UL2016_MiniAODv2-v1.xml", XmlSource_UL16preVFP="/DoubleMuon/Run2016F-HIPM_UL2016_MiniAODv2-v1/MINIAOD",
+                Xml_UL16postVFP="RunII_106X_v2/data/UL16postVFP/DoubleMuon_Run2016F-UL2016_MiniAODv2-v1.xml", XmlSource_UL16postVFP="/DoubleMuon/Run2016F-UL2016_MiniAODv2-v1/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data/UL17/DoubleMuon_Run2017F-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/DoubleMuon/Run2017F-UL2017_MiniAODv2-v1/MINIAOD",
+
+            )
+        },
+
+        "DoubleMuon_RunG": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16postVFP=45235604,
+                NEVT_UL17=892686175,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16postVFP="RunII_106X_v2/data/UL16postVFP/DoubleMuon_Run2016G-UL2016_MiniAODv2-v1.xml", XmlSource_UL16postVFP="/DoubleMuon/Run2016G-UL2016_MiniAODv2-v1/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data/UL17/DoubleMuon_Run2017G-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/DoubleMuon/Run2017G-UL2017_MiniAODv2-v1/MINIAOD",
+            )
+        },
+
+        "DoubleMuon_RunH": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16postVFP=48912812,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16postVFP="RunII_106X_v2/data/UL16postVFP/DoubleMuon_Run2016H-UL2016_MiniAODv2-v2.xml", XmlSource_UL16postVFP="/DoubleMuon/Run2016H-UL2016_MiniAODv2-v2/MINIAOD",
+            )
+        },
+
+        "DoubleEG_RunB": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=5686987+143073268,
+                NEVT_UL17=58088760
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/DoubleEG_Run2016B-{ver1,ver2}_HIPM_UL2016_MiniAODv2-v1.xml", XmlSource_UL16preVFP="/DoubleEG/Run2016B-{ver1,ver2}_HIPM_UL2016_MiniAODv2-v1/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data/UL17/DoubleEG_Run2017B-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/DoubleEG/Run2017B-UL2017_MiniAODv2-v1/MINIAOD",
+            )
+        },
+
+        "DoubleEG_RunC": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=47677856,
+                NEVT_UL17=65181125
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/DoubleEG_Run2016C-HIPM_UL2016_MiniAODv2-v1.xml", XmlSource_UL16preVFP="/DoubleEG/Run2016C-HIPM_UL2016_MiniAODv2-v1/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data/UL17/DoubleEG_Run2017C-UL2017_MiniAODv2-v2.xml", XmlSource_UL17="/DoubleEG/Run2017C-UL2017_MiniAODv2-v2/MINIAOD",
+            )
+        },
+
+        "DoubleEG_RunD": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=53324960,
+                NEVT_UL17=25911432
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/DoubleEG_Run2016D-HIPM_UL2016_MiniAODv2-v1.xml", XmlSource_UL16preVFP="/DoubleEG/Run2016D-HIPM_UL2016_MiniAODv2-v1/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data/UL17/DoubleEG_Run2017D-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/DoubleEG/Run2017D-UL2017_MiniAODv2-v1/MINIAOD",
+            )
+        },
+
+        "DoubleEG_RunE": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=49877710,
+                NEVT_UL17=56241190
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/DoubleEG_Run2016E-HIPM_UL2016_MiniAODv2-v1.xml", XmlSource_UL16preVFP="/DoubleEG/Run2016E-HIPM_UL2016_MiniAODv2-v1/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data/UL17/DoubleEG_Run2017E-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/DoubleEG/Run2017E-UL2017_MiniAODv2-v1/MINIAOD",
+            )
+        },
+
+        "DoubleEG_RunF": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=30216940,
+                NEVT_UL16postVFP=4360689,
+                NEVT_UL17=74265012
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/DoubleEG_Run2016F-HIPM_UL2016_MiniAODv2-v1.xml", XmlSource_UL16preVFP="/DoubleEG/Run2016F-HIPM_UL2016_MiniAODv2-v1/MINIAOD",
+                Xml_UL16postVFP="RunII_106X_v2/data/UL16postVFP/DoubleEG_Run2016F-UL2016_MiniAODv2-v1.xml", XmlSource_UL16postVFP="/DoubleEG/Run2016F-UL2016_MiniAODv2-v1/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data/UL17/DoubleEG_Run2017F-UL2017_MiniAODv2-v2.xml", XmlSource_UL17="/DoubleEG/Run2017F-UL2017_MiniAODv2-v2/MINIAOD",
+            )
+        },
+
+        "DoubleEG_RunG": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16postVFP=78797031,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16postVFP="RunII_106X_v2/data/UL16postVFP/DoubleEG_Run2016G-UL2016_MiniAODv2-v1.xml", XmlSource_UL16postVFP="/DoubleEG/Run2016G-UL2016_MiniAODv2-v1/MINIAOD",
+            )
+        },
+
+        "DoubleEG_RunH": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16postVFP=85388734,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16postVFP="RunII_106X_v2/data/UL16postVFP/DoubleEG_Run2016H-UL2016_MiniAODv2-v1.xml", XmlSource_UL16postVFP="/DoubleEG/Run2016H-UL2016_MiniAODv2-v1/MINIAOD",
+            )
+        },
+
         "JetHT_RunA": {
             "NEvents" : NEventsValues(
                 NEVT_UL18=171484635,

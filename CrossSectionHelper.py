@@ -65,10 +65,10 @@ class MCSampleValuesHelper():
 
         "SingleMuon_RunA": {
             "NEvents" : NEventsValues(
-                NEVT_UL18=-1,
+                NEVT_UL18=241608232,
             ),
             "XMLname" : XMLValues(
-                Xml_UL18="", XmlSource_UL18="",
+                Xml_UL18="RunII_106X_v2/data/UL18/SingleMuon_Run2018A-UL2018_MiniAODv2-v3.xml", XmlSource_UL18="/SingleMuon/Run2018A-UL2018_MiniAODv2-v3/MINIAOD",
             ),
         },
 

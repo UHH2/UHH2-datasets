@@ -414,11 +414,9 @@ class MCSampleValuesHelper():
         "DoubleMuon_RunG": {
             "NEvents" : NEventsValues(
                 NEVT_UL16postVFP=45235604,
-                NEVT_UL17=892686175,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16postVFP="RunII_106X_v2/data/UL16postVFP/DoubleMuon_Run2016G-UL2016_MiniAODv2-v1.xml", XmlSource_UL16postVFP="/DoubleMuon/Run2016G-UL2016_MiniAODv2-v1/MINIAOD",
-                Xml_UL17="RunII_106X_v2/data/UL17/DoubleMuon_Run2017G-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/DoubleMuon/Run2017G-UL2017_MiniAODv2-v1/MINIAOD",
             ),
         },
 

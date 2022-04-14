@@ -1,6 +1,5 @@
 from collections import namedtuple,Mapping
 import os
-from termcolor import colored
 
 def namedtuple_with_defaults(typename, field_names, default_values=()):
     T = namedtuple(typename, field_names)
@@ -3493,15 +3492,15 @@ def print_database(raise_errors=False):
                 xmlpath = helper.get_xml(sample,energy,year)
                 xmlabspath = os.path.join(abspath_uhh2datasets, xmlpath)
                 if xmlpath != "" and not os.path.isfile(xmlabspath):
-                    line += " "*3+colored("Error: XML not found!", "red")
+                    line += " "*3+"Error: XML not found!"
                     wrong_xmlpaths.append(xmlpath)
                 print(line)
 
     if len(wrong_xmlpaths) > 0:
         print("")
-        print(colored("Cannot find the following XML file(s):", "red"))
+        print("Cannot find the following XML file(s):")
         for xmlpath in wrong_xmlpaths:
-            print(colored(xmlpath, "red"))
+            print(xmlpath)
         print("")
         if raise_errors: raise ValueError("One or multiple XML path(s) are invalid")
     return 0

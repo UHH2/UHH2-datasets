@@ -3498,7 +3498,7 @@ def print_database(raise_errors=False):
 
     if len(wrong_xmlpaths) > 0:
         print("")
-        print("Cannot find the following XML file(s):")
+        print("Error: Cannot find the following XML file(s):")
         for xmlpath in wrong_xmlpaths:
             print(xmlpath)
         print("")

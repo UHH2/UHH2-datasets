@@ -10,15 +10,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    steps:     
+    steps:
       - uses: actions/checkout@v2
-      
+
       - name: Set up Python 3.6
         uses: actions/setup-python@v1
         with:
           python-version: 3.6
-          
+
       - name: basic python testing
         run: |
           echo "Printing whole database"
-          python CrossSectionHelper.py --print
+          python CrossSectionHelper.py --print --throw

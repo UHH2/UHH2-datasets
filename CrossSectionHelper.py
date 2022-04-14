@@ -1,4 +1,6 @@
 from collections import namedtuple,Mapping
+import os
+from termcolor import colored
 
 def namedtuple_with_defaults(typename, field_names, default_values=()):
     T = namedtuple(typename, field_names)
@@ -3457,7 +3459,7 @@ class MCSampleValuesHelper():
         if Corrections: xsec *= self.get_corr(name, energy, year)
         return self.get_nevt(name, energy, year)/xsec
 
-def print_database():
+def print_database(raise_errors=False):
     helper = MCSampleValuesHelper()
     samples = list(MCSampleValuesHelper.__dict__["_MCSampleValuesHelper__values_dict"].keys())
     samples.sort()
@@ -3467,6 +3469,8 @@ def print_database():
     run_pattern = re.compile("(?P<run>(Run)+[ABCDEFGH]{1})")
 
     max_sample_length = max(len(s) for s in samples)
+    abspath_uhh2datasets = os.path.dirname(os.path.abspath(__file__))
+    wrong_xmlpaths = []
 
     def banner(text, decorator = "#", line_width = 30):
         print("")
@@ -3485,7 +3489,21 @@ def print_database():
                 nevt = helper.get_nevt(sample,energy,year)
                 lumi = "/" if (isData or nevt<0) else "%10.2g"%helper.get_lumi(sample,energy,year)
                 nevt = "%10.2g"%nevt
-                print('{sample: <{width}}-> nevt:{nevt: >5}, lumi:{lumi: >5}'.format(sample=sample, width=max_sample_length+3, nevt=nevt, lumi=lumi))
+                line = '{sample: <{width}}-> nevt:{nevt: >5}, lumi:{lumi: >5}'.format(sample=sample, width=max_sample_length+3, nevt=nevt, lumi=lumi)
+                xmlpath = helper.get_xml(sample,energy,year)
+                xmlabspath = os.path.join(abspath_uhh2datasets, xmlpath)
+                if xmlpath != "" and not os.path.isfile(xmlabspath):
+                    line += " "*3+colored("Error: XML not found!", "red")
+                    wrong_xmlpaths.append(xmlpath)
+                print(line)
+
+    if len(wrong_xmlpaths) > 0:
+        print("")
+        print(colored("Cannot find the following XML file(s):", "red"))
+        for xmlpath in wrong_xmlpaths:
+            print(colored(xmlpath, "red"))
+        print("")
+        if raise_errors: raise ValueError("One or multiple XML path(s) are invalid")
     return 0
 
 
@@ -3494,8 +3512,9 @@ if(__name__ == "__main__"):
     parser = argparse.ArgumentParser(description="CrossSectionHelper Database: find and calculate crucial information for your Analysis!")
 
     parser.add_argument("--print", action="store_true", help="print number of events and calculated luminosity of all samples in database (This is primarily to test the integrety of the database).")
+    parser.add_argument("--throw", action="store_true", help="raise erros if they occur. Should be used together with --print option.")
 
     args = parser.parse_args()
 
     if(args.print):
-        print_database()
+        print_database(args.throw)

@@ -3397,7 +3397,7 @@ class MCSampleValuesHelper():
                 for ed in extra_dicts:
                     self.__values_dict.update(ed)
 
-    def get_value(self, name, energy, year, key, strict=False):
+    def get_value(self, name, energy, year, key, strict=False, info = ""):
         """Return the value for a given MC sample, energy or year, and information type
 
         If information is stored for both an energy and a year, the value for the given energy will be preferentially returned.
@@ -3412,7 +3412,7 @@ class MCSampleValuesHelper():
             strict (`bool`): Whether or not to perform strict checking of the dictionary
 
         """
-        fields = [self.__key_field_map[key][0]+"_"+energy,self.__key_field_map[key][0]+"_"+year]
+        fields = [self.__key_field_map[key][0]+info+"_"+energy,self.__key_field_map[key][0]+info+"_"+year]
         if not name in self.__values_dict:
             raise KeyError("ERROR MCSampleValuesHelper::Unknown process \"" + str(name) + "\"")
         if not key in self.__values_dict[name]:
@@ -3433,23 +3433,23 @@ class MCSampleValuesHelper():
         else:
             return self.__values_dict[name][key].__getattribute__(fields[1])
 
-    def get_xs(self, name, energy, year):
-        return self.get_value(name, energy, year, "CrossSection", True)
+    def get_xs(self, name, energy, year, info=""):
+        return self.get_value(name, energy, year, "CrossSection", True, info)
 
-    def get_nevt(self, name, energy, year):
-        return self.get_value(name, energy, year, "NEvents", True)
+    def get_nevt(self, name, energy, year, info=""):
+        return self.get_value(name, energy, year, "NEvents", True, info)
 
-    def get_br(self, name, energy, year):
-        return self.get_value(name, energy, year, "BranchingRatio", False)
+    def get_br(self, name, energy, year, info=""):
+        return self.get_value(name, energy, year, "BranchingRatio", False, info)
 
-    def get_kfactor(self, name, energy, year):
-        return self.get_value(name, energy, year, "kFactor", False)
+    def get_kfactor(self, name, energy, year, info=""):
+        return self.get_value(name, energy, year, "kFactor", False, info)
 
-    def get_corr(self, name, energy, year):
-        return self.get_value(name, energy, year, "Correction", False)
+    def get_corr(self, name, energy, year, info=""):
+        return self.get_value(name, energy, year, "Correction", False, info)
 
-    def get_xml(self, name, energy, year):
-        return self.get_value(name, energy, year, "XMLname", False)
+    def get_xml(self, name, energy, year, info=""):
+        return self.get_value(name, energy, year, "XMLname", False, info)
 
     def get_lumi(self, name, energy, year, kFactor=False, Corrections=False):
         xsec = self.get_xs(name, energy, year)

@@ -333,7 +333,7 @@ class MCSampleValuesHelper():
 
         "EGamma_RunD": {
             "NEvents" : NEventsValues(
-                NEVT_UL18=752524583,
+                NEVT_UL18=752522245,
             ),
             "XMLname" : XMLValues(
                 Xml_UL18="RunII_106X_v2/data/UL18/EGamma_Run2018D-UL2018_MiniAODv2-v2.xml", XmlSource_UL18="/EGamma/Run2018D-UL2018_MiniAODv2-v2/MINIAOD",

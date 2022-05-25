@@ -1,0 +1,4 @@
+<In FileName="/pnfs/desy.de/cms/tier2/store/group/uhh/uhh2ntuples/RunII_106X_v2/UL17/AZH_UL2017_mA900_mH350_LHEGEN/crab_AZH_UL2017_mA900_mH350_Summer20UL17/220524_111915/0000/Ntuple_1.root" Lumi="0.0"/>
+<In FileName="/pnfs/desy.de/cms/tier2/store/group/uhh/uhh2ntuples/RunII_106X_v2/UL17/AZH_UL2017_mA900_mH350_LHEGEN/crab_AZH_UL2017_mA900_mH350_Summer20UL17/220524_111915/0000/Ntuple_2.root" Lumi="0.0"/>
+<!-- < NumberEntries="25000" Method=fast /> -->
+<!-- < NumberEntries="25000.0" Method=weights /> -->

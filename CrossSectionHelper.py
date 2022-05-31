@@ -3796,7 +3796,7 @@ class MCSampleValuesHelper():
             ),
 
         },
-        "ZprimeToTTJets_M4500_W45" : {
+        "ZprimeToTT_M4500_W45" : {
             "CrossSection" : XSValues(
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
@@ -3814,7 +3814,7 @@ class MCSampleValuesHelper():
             ),
         },
 
-        "ZprimeToTTJets_M5000_W50" : {
+        "ZprimeToTT_M5000_W50" : {
             "CrossSection" : XSValues(
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
@@ -3832,7 +3832,7 @@ class MCSampleValuesHelper():
             ),
         },
 
-        "ZprimeToTTJets_M6000_W60" : {
+        "ZprimeToTT_M6000_W60" : {
             "CrossSection" : XSValues(
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
@@ -3850,7 +3850,7 @@ class MCSampleValuesHelper():
             ),
         },
 
-        "ZprimeToTTJets_M7000_W70" : {
+        "ZprimeToTT_M7000_W70" : {
             "CrossSection" : XSValues(
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
@@ -3868,7 +3868,7 @@ class MCSampleValuesHelper():
             ),
         },
 
-        "ZprimeToTTJets_M8000_W80" : {
+        "ZprimeToTT_M8000_W80" : {
             "CrossSection" : XSValues(
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
@@ -3886,7 +3886,7 @@ class MCSampleValuesHelper():
             ),
         },
 
-        "ZprimeToTTJets_M9000_W90" : {
+        "ZprimeToTT_M9000_W90" : {
             "CrossSection" : XSValues(
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),

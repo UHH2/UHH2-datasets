@@ -3459,10 +3459,10 @@ class MCSampleValuesHelper():
         "ALP_ttbar_signal": {
             "CrossSection" : XSValues( XSec_13TeV=7.048, XSecSource_13TeV="XSDB (LO)"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=5380000,
-                NEVT_UL16postVFP=4600000,
-                NEVT_UL17=9970000,
-                NEVT_UL18=9733000,
+                NEVT_UL16preVFP=5380000.0,
+                NEVT_UL16postVFP=4600000.0,
+                NEVT_UL17=9970000.0,
+                NEVT_UL18=9733000.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/ALP_ttbar_signal_CP5_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/ALP_ttbar_signal_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -3475,10 +3475,10 @@ class MCSampleValuesHelper():
         "ALP_ttbar_interference": {
             "CrossSection" : XSValues( XSec_13TeV=-28.248020, XSecSource_13TeV="GenXSecAnalyzer run on UL18"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=5399000,
-                NEVT_UL16postVFP=4572000,
-                NEVT_UL17=10000000,
-                NEVT_UL18=9960000,
+                NEVT_UL16preVFP=-5398990.0,
+                NEVT_UL16postVFP=-4571996.0,
+                NEVT_UL17=-9999978.0,
+                NEVT_UL18=-9959970.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/ALP_ttbar_interference_CP5_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/ALP_ttbar_interference_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",

@@ -3508,6 +3508,16 @@ class MCSampleValuesHelper():
               )
             },
 
+        "AZHToLLTT_mA1200_mH400": {
+            "CrossSection": XSValues( XSec_13TeV=1, XSecSource_13TeV="arbitrary normalization"),
+            "NEvents": NEventsValues(
+              NEVT_UL17=24000
+              ),
+            "XMLname": XMLValues(
+              Xml_UL17="RunII_106X_v2/BSM/UL17/AZH_UL2017_mA1200_mH400_Summer20UL17.xml", XmlSource_UL17="/AZH_UL2017_mA1200_mH400_SIM/srudrabh-AZH_UL2017_mA1200_mH400_MiniAODv2-3f0b140a720de1c801ff414923884f7b/USER",
+              )
+            },
+
         "AZHToLLTT_mA2100_mH1600": {
             "CrossSection": XSValues( XSec_13TeV=1, XSecSource_13TeV="arbitrary normalization"),
             "NEvents": NEventsValues(

@@ -6650,6 +6650,210 @@ class MCSampleValuesHelper():
             ),
         },
 
+        "TstarTstarToTgammaTgamma_M-700" : {
+            "CrossSection" : XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : NEventsValues(
+                NEVT_UL16postVFP=92000.0,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-700_CP5_madgraph-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-700_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+            ),
+        },
+
+        "TstarTstarToTgammaTgamma_M-800" : {
+            "CrossSection" : XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : NEventsValues(
+                NEVT_UL16postVFP=92000.0,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-800_CP5_madgraph-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-800_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+            ),
+        },
+
+        "TstarTstarToTgammaTgamma_M-900" : {
+            "CrossSection" : XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : NEventsValues(
+                NEVT_UL16postVFP=92000.0,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-900_CP5_madgraph-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-900_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+            ),
+        },
+
+        "TstarTstarToTgammaTgamma_M-1000" : {
+            "CrossSection" : XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : NEventsValues(
+                NEVT_UL16postVFP=92000.0,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-1000_CP5_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-1000_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+            ),
+        },
+
+        "TstarTstarToTgammaTgamma_M-1100" : {
+            "CrossSection" : XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : NEventsValues(
+                NEVT_UL16postVFP=92000.0,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-1100_CP5_madgraph-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-1100_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+            ),
+        },
+
+        "TstarTstarToTgammaTgamma_M-1200" : {
+            "CrossSection" : XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : NEventsValues(
+                NEVT_UL16postVFP=92000.0,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-1200_CP5_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-1200_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+            ),
+        },
+
+        "TstarTstarToTgammaTgamma_M-1300" : {
+            "CrossSection" : XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : NEventsValues(
+                NEVT_UL16postVFP=92000.0,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-1300_CP5_madgraph-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-1300_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+            ),
+        },
+
+        "TstarTstarToTgammaTgamma_M-1400" : {
+            "CrossSection" : XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : NEventsValues(
+                NEVT_UL16postVFP=92000.0,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-1400_CP5_madgraph-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-1400_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+            ),
+        },
+
+        "TstarTstarToTgammaTgamma_M-1500" : {
+            "CrossSection" : XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : NEventsValues(
+                NEVT_UL16postVFP=92000.0,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-1500_CP5_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-1500_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+            ),
+        },
+
+        "TstarTstarToTgammaTgamma_M-1600" : {
+            "CrossSection" : XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : NEventsValues(
+                NEVT_UL16postVFP=138000.0,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-1600_CP5_madgraph-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-1600_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+            ),
+        },
+
+        "TstarTstarToTgammaTgamma_M-1700" : {
+            "CrossSection" : XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : NEventsValues(
+                NEVT_UL16postVFP=138000,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-1700_CP5_madgraph-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-1700_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+            ),
+        },
+
+        "TstarTstarToTgammaTgamma_M-1800" : {
+            "CrossSection" : XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : NEventsValues(
+                NEVT_UL16postVFP=127000,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-1800_CP5_madgraph-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-1800_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+            ),
+        },
+
+        "TstarTstarToTgammaTgamma_M-1900" : {
+            "CrossSection" : XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : NEventsValues(
+                NEVT_UL16postVFP=138000,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-1900_CP5_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-1900_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+            ),
+        },
+
+        "TstarTstarToTgammaTgamma_M-2000" : {
+            "CrossSection" : XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : NEventsValues(
+                NEVT_UL16postVFP=184000,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-2000_CP5_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-2000_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+            ),
+        },
+
+        "TstarTstarToTgammaTgamma_M-2250" : {
+            "CrossSection" : XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : NEventsValues(
+                NEVT_UL16postVFP=184000,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-2250_CP5_madgraph-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-2250_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+            ),
+        },
+
+        "TstarTstarToTgammaTgamma_M-2500" : {
+            "CrossSection" : XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : NEventsValues(
+                NEVT_UL16postVFP=184000,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-2500_CP5_madgraph-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-2500_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+            ),
+        },
+
+        "TstarTstarToTgammaTgamma_M-2750" : {
+            "CrossSection" : XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : NEventsValues(
+                NEVT_UL16postVFP=184000,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-2750_CP5_madgraph-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-2750_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+            ),
+        },
+
     }
 
     def __init__(self, extra_dicts=None):

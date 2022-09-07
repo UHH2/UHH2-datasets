@@ -1591,10 +1591,10 @@ class MCSampleValuesHelper():
         "ST_t-channel_top_4f_InclusiveDecays" : {
             "CrossSection" : XSValues(XSec_13TeV=136.02, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/SingleTopRefXsec"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=5948135154.41,
-                NEVT_UL16postVFP=6703801970.36,
-                NEVT_UL17=13808000646.6,
-                NEVT_UL18=19000619397.2,
+                NEVT_UL16preVFP=5908474213.87,
+                NEVT_UL16postVFP=6647895382.64,
+                NEVT_UL17=13672814375.0,
+                NEVT_UL18=18834778084.5,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/ST_t-channel_top_4f_InclusiveDecays_CP5_powheg-madspin-pythia8_Summer20UL16APV_v3.xml", XmlSource_UL16preVFP="/ST_t-channel_top_4f_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v3/MINIAODSIM",
@@ -1607,10 +1607,10 @@ class MCSampleValuesHelper():
         "ST_t-channel_antitop_4f_InclusiveDecays" : {
             "CrossSection" : XSValues(XSec_13TeV=80.95, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/SingleTopRefXsec"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=1983864432.65,
-                NEVT_UL16postVFP=1957283183.22,
-                NEVT_UL17=4471058679.95,
-                NEVT_UL18=6128118195.12,
+                NEVT_UL16preVFP=1966989242.86,
+                NEVT_UL16postVFP=1944990063.39,
+                NEVT_UL17=4428134243.2,
+                NEVT_UL18=6083625056.94,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/ST_t-channel_antitop_4f_InclusiveDecays_CP5_powheg-madspin-pythia8_Summer20UL16APV_v3.xml", XmlSource_UL16preVFP="/ST_t-channel_antitop_4f_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v3/MINIAODSIM",
@@ -1624,10 +1624,10 @@ class MCSampleValuesHelper():
             "CrossSection" : XSValues(XSec_13TeV=10.32, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/SingleTopRefXsec"),
             "BranchingRatio" : BRValues(BRat_13TeV=0.326, BRatSource_13TeV="https://pdg.lbl.gov/2021/listings/rpp2021-list-w-boson.pdf (page 5, W->lnu times 3, rounded)"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=19592486.3309,
-                NEVT_UL16postVFP=19433132.1012,
-                NEVT_UL17=49292566.8068,
-                NEVT_UL18=68767081.0067,
+                NEVT_UL16preVFP=19508827.4522,
+                NEVT_UL16postVFP=19347400.5665,
+                NEVT_UL17=49035263.1179,
+                NEVT_UL18=68083803.1892,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/ST_s-channel_4f_leptonDecays_CP5_amcatnlo-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/ST_s-channel_4f_leptonDecays_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",

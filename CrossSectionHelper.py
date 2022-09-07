@@ -1646,10 +1646,10 @@ class MCSampleValuesHelper():
                 XSec_UL18=75.91,
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=15859130.7832,
-                NEVT_UL16postVFP=15821137.255,
-                NEVT_UL17=15634116.2001,
-                NEVT_UL18=15679122.7141,
+                NEVT_UL16preVFP=15739128.5188,
+                NEVT_UL16postVFP=15796137.099,
+                NEVT_UL17=15490115.1417,
+                NEVT_UL18=15463122.6562,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/WW_CP5_pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/WW_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -1668,10 +1668,10 @@ class MCSampleValuesHelper():
                 XSec_UL18=27.58,
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=7934000.0,
-                NEVT_UL16postVFP=7584000.0,
-                NEVT_UL17=7889000.0,
-                NEVT_UL18=7940000.0,
+                NEVT_UL16preVFP=7910000.0,
+                NEVT_UL16postVFP=7536000.0,
+                NEVT_UL17=7793000.0,
+                NEVT_UL18=7868000.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/WZ_CP5_pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/WZ_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -1693,7 +1693,7 @@ class MCSampleValuesHelper():
                 NEVT_UL16preVFP=1282000.0,
                 NEVT_UL16postVFP=1151000.0,
                 NEVT_UL17=2706000.0,
-                NEVT_UL18=3526000.0,
+                NEVT_UL18=3502000.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/ZZ_CP5_pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/ZZ_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",

@@ -66,10 +66,10 @@ class MCSampleValuesHelper():
 
         "SingleMuon_RunA": {
             "NEvents" : NEventsValues(
-                NEVT_UL18=241608232,
+                NEVT_UL18=241591525,
             ),
             "XMLname" : XMLValues(
-                Xml_UL18="RunII_106X_v2/data/UL18/SingleMuon_Run2018A-UL2018_MiniAODv2-v3.xml", XmlSource_UL18="/SingleMuon/Run2018A-UL2018_MiniAODv2-v3/MINIAOD",
+                Xml_UL18="RunII_106X_v2/data/UL18/SingleMuon_Run2018A-UL2018_MiniAODv2_GT36-v1.xml", XmlSource_UL18="/SingleMuon/Run2018A-UL2018_MiniAODv2_GT36-v1/MINIAOD",
             ),
         },
 
@@ -82,20 +82,20 @@ class MCSampleValuesHelper():
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/SingleMuon_Run2016B-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/SingleMuon/Run2016B-{ver1,ver2}_HIPM_UL2016_MiniAODv2-v2/MINIAOD",
                 Xml_UL17="RunII_106X_v2/data/UL17/SingleMuon_Run2017B-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/SingleMuon/Run2017B-UL2017_MiniAODv2-v1/MINIAOD",
-                Xml_UL18="RunII_106X_v2/data/UL18/SingleMuon_Run2018B-UL2018_MiniAODv2-v2.xml", XmlSource_UL18="/SingleMuon/Run2018B-UL2018_MiniAODv2-v2/MINIAOD",
+                Xml_UL18="RunII_106X_v2/data/UL18/SingleMuon_Run2018B-UL2018_MiniAODv2_GT36-v1.xml", XmlSource_UL18="/SingleMuon/Run2018B-UL2018_MiniAODv2_GT36-v1/MINIAOD",
             ),
         },
 
         "SingleMuon_RunC": {
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=67441308,
-                NEVT_UL17=165652756,
-                NEVT_UL18=109986009,
+                NEVT_UL17=165627777,
+                NEVT_UL18=110032072,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/SingleMuon_Run2016C-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/SingleMuon/Run2016C-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
                 Xml_UL17="RunII_106X_v2/data/UL17/SingleMuon_Run2017C-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/SingleMuon/Run2017C-UL2017_MiniAODv2-v1/MINIAOD",
-                Xml_UL18="RunII_106X_v2/data/UL18/SingleMuon_Run2018C-UL2018_MiniAODv2-v2.xml", XmlSource_UL18="/SingleMuon/Run2018C-UL2018_MiniAODv2-v2/MINIAOD",
+                Xml_UL18="RunII_106X_v2/data/UL18/SingleMuon_Run2018C-UL2018_MiniAODv2_GT36-v2.xml", XmlSource_UL18="/SingleMuon/Run2018C-UL2018_MiniAODv2_GT36-v2/MINIAOD",
             ),
         },
 
@@ -103,12 +103,12 @@ class MCSampleValuesHelper():
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=98017996,
                 NEVT_UL17=70361660,
-                NEVT_UL18=513909894,
+                NEVT_UL18=513884680,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/SingleMuon_Run2016D-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/SingleMuon/Run2016D-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
                 Xml_UL17="RunII_106X_v2/data/UL17/SingleMuon_Run2017D-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/SingleMuon/Run2017D-UL2017_MiniAODv2-v1/MINIAOD",
-                Xml_UL18="RunII_106X_v2/data/UL18/SingleMuon_Run2018D-UL2018_MiniAODv2-v3.xml", XmlSource_UL18="/SingleMuon/Run2018D-UL2018_MiniAODv2-v3/MINIAOD",
+                Xml_UL18="RunII_106X_v2/data/UL18/SingleMuon_Run2018D-UL2018_MiniAODv2_GT36-v1.xml", XmlSource_UL18="/SingleMuon/Run2018D-UL2018_MiniAODv2_GT36-v1/MINIAOD",
             ),
         },
 

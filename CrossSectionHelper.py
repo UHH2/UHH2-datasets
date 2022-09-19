@@ -829,10 +829,10 @@ class MCSampleValuesHelper():
             "CrossSection" : XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : BRValues(BRat_13TeV=0.105, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=1223965702.6,
-                NEVT_UL16postVFP=1305254604.97,
-                NEVT_UL17=2929943912.75,
-                NEVT_UL18=4323628397.15,
+                NEVT_UL16preVFP=1213594077.5,
+                NEVT_UL16postVFP=1294728420.23,
+                NEVT_UL17=2908163177.41,
+                NEVT_UL18=4275162224.71,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTTo2L2Nu_hdampDOWN_CP5_powheg-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TTTo2L2Nu_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -846,10 +846,10 @@ class MCSampleValuesHelper():
             "CrossSection" : XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : BRValues(BRat_13TeV=0.438, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=14214658267.7,
-                NEVT_UL16postVFP=18249770082.9,
-                NEVT_UL17=40416900003.0,
-                NEVT_UL18=58140739277.2,
+                NEVT_UL16preVFP=14127978772.4,
+                NEVT_UL16postVFP=18120075764.2,
+                NEVT_UL17=39998120443.9,
+                NEVT_UL18=57665811470.9,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTToSemiLeptonic_hdampDOWN_CP5_powheg-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -863,10 +863,10 @@ class MCSampleValuesHelper():
             "CrossSection" : XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : BRValues(BRat_13TeV=0.457, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=11601553106.6,
-                NEVT_UL16postVFP=13097955883.4,
-                NEVT_UL17=29913495414.4,
-                NEVT_UL18=43787698273.3,
+                NEVT_UL16preVFP=11520570113.7,
+                NEVT_UL16postVFP=13030201417.0,
+                NEVT_UL17=29662336616.6,
+                NEVT_UL18=43335547963.9,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTToHadronic_hdampDOWN_CP5_powheg-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TTToHadronic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -880,10 +880,10 @@ class MCSampleValuesHelper():
             "CrossSection" : XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : BRValues(BRat_13TeV=0.105, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=1071941341.28,
-                NEVT_UL16postVFP=1361059107.92,
-                NEVT_UL17=2905584113.05,
-                NEVT_UL18=3930878067.9,
+                NEVT_UL16preVFP=1066748349.83,
+                NEVT_UL16postVFP=1348941210.3,
+                NEVT_UL17=2872702218.16,
+                NEVT_UL18=3899725769.64,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTTo2L2Nu_hdampUP_CP5_powheg-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TTTo2L2Nu_hdampUP_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -897,10 +897,10 @@ class MCSampleValuesHelper():
             "CrossSection" : XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : BRValues(BRat_13TeV=0.438, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=17142541164.3,
-                NEVT_UL16postVFP=18309172997.5,
-                NEVT_UL17=40017266549.6,
-                NEVT_UL18=60002115817.1,
+                NEVT_UL16preVFP=16918604947.7,
+                NEVT_UL16postVFP=18193608011.9,
+                NEVT_UL17=39633322345.1,
+                NEVT_UL18=59430913326.9,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTToSemiLeptonic_hdampUP_CP5_powheg-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TTToSemiLeptonic_hdampUP_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -914,10 +914,10 @@ class MCSampleValuesHelper():
             "CrossSection" : XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : BRValues(BRat_13TeV=0.457, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=9575911366.78,
-                NEVT_UL16postVFP=13200254086.6,
-                NEVT_UL17=31228727737.2,
-                NEVT_UL18=43349104310.5,
+                NEVT_UL16preVFP=9515631277.72,
+                NEVT_UL16postVFP=13124592099.1,
+                NEVT_UL17=30874651432.2,
+                NEVT_UL18=42784048955.2,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTToHadronic_hdampUP_CP5_powheg-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TTToHadronic_hdampUP_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -931,10 +931,10 @@ class MCSampleValuesHelper():
             "CrossSection" : XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : BRValues(BRat_13TeV=0.105, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=1119057340.27,
-                NEVT_UL16postVFP=1312806896.64,
-                NEVT_UL17=3087505516.57,
-                NEVT_UL18=4299241561.71,
+                NEVT_UL16preVFP=1101750927.61,
+                NEVT_UL16postVFP=1298671874.76,
+                NEVT_UL17=3066740264.03,
+                NEVT_UL18=4268086558.48,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTTo2L2Nu_CP5CR1_powheg-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TTTo2L2Nu_TuneCP5CR1_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -948,10 +948,10 @@ class MCSampleValuesHelper():
             "CrossSection" : XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : BRValues(BRat_13TeV=0.438, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=16921209832.3,
-                NEVT_UL16postVFP=18364178884.6,
-                NEVT_UL17=40926808850.1,
-                NEVT_UL18=59945066416.3,
+                NEVT_UL16preVFP=16834547125.1,
+                NEVT_UL16postVFP=18234205755.5,
+                NEVT_UL17=40559728680.1,
+                NEVT_UL18=59388900776.9,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTToSemiLeptonic_CP5CR1_powheg-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TTToSemiLeptonic_TuneCP5CR1_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -965,10 +965,10 @@ class MCSampleValuesHelper():
             "CrossSection" : XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : BRValues(BRat_13TeV=0.457, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=12368881966.2,
-                NEVT_UL16postVFP=13839889370.4,
-                NEVT_UL17=30702921824.0,
-                NEVT_UL18=43873260589.6,
+                NEVT_UL16preVFP=12338759466.1,
+                NEVT_UL16postVFP=13746053402.8,
+                NEVT_UL17=30507014177.5,
+                NEVT_UL18=43541744095.9,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTToHadronic_CP5CR1_powheg-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TTToHadronic_TuneCP5CR1_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -982,10 +982,10 @@ class MCSampleValuesHelper():
             "CrossSection" : XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : BRValues(BRat_13TeV=0.105, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=1209778279.97,
-                NEVT_UL16postVFP=1299119114.88,
-                NEVT_UL17=3072219680.55,
-                NEVT_UL18=4131775059.13,
+                NEVT_UL16preVFP=1201120348.24,
+                NEVT_UL16postVFP=1287366416.39,
+                NEVT_UL17=3042787190.9,
+                NEVT_UL18=4087216088.14,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTTo2L2Nu_CP5CR2_powheg-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TTTo2L2Nu_TuneCP5CR2_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -999,10 +999,10 @@ class MCSampleValuesHelper():
             "CrossSection" : XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : BRValues(BRat_13TeV=0.438, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=12530751795.3,
-                NEVT_UL16postVFP=13150665656.7,
-                NEVT_UL17=31341511293.6,
-                NEVT_UL18=40134252735.0,
+                NEVT_UL16preVFP=16811187345.3,
+                NEVT_UL16postVFP=18662279691.8,
+                NEVT_UL17=42351325241.9,
+                NEVT_UL18=58144117327.4,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTToSemiLeptonic_CP5CR2_powheg-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TTToSemiLeptonic_TuneCP5CR2_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -1016,10 +1016,10 @@ class MCSampleValuesHelper():
             "CrossSection" : XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : BRValues(BRat_13TeV=0.457, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=16948358553.1,
-                NEVT_UL16postVFP=18864528471.5,
-                NEVT_UL17=42705231787.4,
-                NEVT_UL18=58707487112.6,
+                NEVT_UL16preVFP=12402704586.9,
+                NEVT_UL16postVFP=13030115527.9,
+                NEVT_UL17=31123011139.2,
+                NEVT_UL18=39742477949.7,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTToHadronic_CP5CR2_powheg-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TTToHadronic_TuneCP5CR2_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -1033,10 +1033,10 @@ class MCSampleValuesHelper():
             "CrossSection" : XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : BRValues(BRat_13TeV=0.105, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=1168614174.19,
-                NEVT_UL16postVFP=1262397311.77,
-                NEVT_UL17=3082948641.33,
-                NEVT_UL18=4324824676.27,
+                NEVT_UL16preVFP=1160896376.92,
+                NEVT_UL16postVFP=1255763737.0,
+                NEVT_UL17=3069098742.19,
+                NEVT_UL18=4269441364.13,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTTo2L2Nu_CP5_erdON_powheg-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TTTo2L2Nu_TuneCP5_erdON_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -1050,10 +1050,10 @@ class MCSampleValuesHelper():
             "CrossSection" : XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : BRValues(BRat_13TeV=0.438, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=16726593539.7,
-                NEVT_UL16postVFP=16421547047.6,
-                NEVT_UL17=38348035890.5,
-                NEVT_UL18=59635849358.2,
+                NEVT_UL16preVFP=16647142258.9,
+                NEVT_UL16postVFP=16305968862.4,
+                NEVT_UL17=38189182472.9,
+                NEVT_UL18=59390305931.2,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTToSemiLeptonic_CP5_erdON_powheg-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TTToSemiLeptonic_TuneCP5_erdON_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -1067,10 +1067,10 @@ class MCSampleValuesHelper():
             "CrossSection" : XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : BRValues(BRat_13TeV=0.457, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=11878757774.9,
-                NEVT_UL16postVFP=11754179667.0,
-                NEVT_UL17=28336527346.1,
-                NEVT_UL18=43789654069.6,
+                NEVT_UL16preVFP=11826044665.7,
+                NEVT_UL16postVFP=11708937054.2,
+                NEVT_UL17=28238600738.9,
+                NEVT_UL18=43428004949.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTToHadronic_CP5_erdON_powheg-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TTToHadronic_TuneCP5_erdON_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -2394,10 +2394,10 @@ class MCSampleValuesHelper():
         "QCD_Pt-15To20_MuEnrichedPt5" : {
             "CrossSection" : XSValues(XSec_13TeV=2.804e+06, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=4750325.22185,
-                NEVT_UL16postVFP=4530702.5042,
+                NEVT_UL16preVFP=4726300.61585,
+                NEVT_UL16postVFP=4467478.14678,
                 NEVT_UL17=9021334.99026,
-                NEVT_UL18=9354640.99415,
+                NEVT_UL18=9282921.02465,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_Pt-15To20_MuEnrichedPt5_CP5_pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/QCD_Pt-15To20_MuEnrichedPt5_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -2410,10 +2410,10 @@ class MCSampleValuesHelper():
         "QCD_Pt-20To30_MuEnrichedPt5" : {
             "CrossSection" : XSValues(XSec_13TeV=2.525e+06, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=31927152.3197,
-                NEVT_UL16postVFP=30854055.9904,
-                NEVT_UL17=64635562.4735,
-                NEVT_UL18=60641468.4388,
+                NEVT_UL16preVFP=31646486.2023,
+                NEVT_UL16postVFP=30613547.5724,
+                NEVT_UL17=64027443.0618,
+                NEVT_UL18=59875480.502,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_Pt-20To30_MuEnrichedPt5_CP5_pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/QCD_Pt-20To30_MuEnrichedPt5_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -2426,10 +2426,10 @@ class MCSampleValuesHelper():
         "QCD_Pt-30To50_MuEnrichedPt5" : {
             "CrossSection" : XSValues(XSec_13TeV=1.366e+06, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=28664840.0,
-                NEVT_UL16postVFP=35474172.0,
-                NEVT_UL17=58749714.0,
-                NEVT_UL18=58627984.0,
+                NEVT_UL16preVFP=28497701.0,
+                NEVT_UL16postVFP=35286687.0,
+                NEVT_UL17=58307090.0,
+                NEVT_UL18=58272180.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_Pt-30To50_MuEnrichedPt5_CP5_pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/QCD_Pt-30To50_MuEnrichedPt5_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -2442,10 +2442,10 @@ class MCSampleValuesHelper():
         "QCD_Pt-50To80_MuEnrichedPt5" : {
             "CrossSection" : XSValues(XSec_13TeV=3.777e+05, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=19724658.0,
-                NEVT_UL16postVFP=21491325.0,
-                NEVT_UL17=40377957.0,
-                NEVT_UL18=40022458.0,
+                NEVT_UL16preVFP=19488167.0,
+                NEVT_UL16postVFP=21371421.0,
+                NEVT_UL17=39866144.0,
+                NEVT_UL18=39764262.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_Pt-50To80_MuEnrichedPt5_CP5_pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/QCD_Pt-50To80_MuEnrichedPt5_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -2458,10 +2458,10 @@ class MCSampleValuesHelper():
         "QCD_Pt-80To120_MuEnrichedPt5" : {
             "CrossSection" : XSValues(XSec_13TeV=8.862e+04, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=21981180.5514,
-                NEVT_UL16postVFP=22008310.1674,
-                NEVT_UL17=45986550.6848,
-                NEVT_UL18=45571985.8354,
+                NEVT_UL16preVFP=21863829.4268,
+                NEVT_UL16postVFP=21748383.7909,
+                NEVT_UL17=45797417.6224,
+                NEVT_UL18=45170985.723,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_Pt-80To120_MuEnrichedPt5_CP5_pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/QCD_Pt-80To120_MuEnrichedPt5_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -2474,10 +2474,10 @@ class MCSampleValuesHelper():
         "QCD_Pt-120To170_MuEnrichedPt5" : {
             "CrossSection" : XSValues(XSec_13TeV=2.118e+04, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=19137392.9596,
-                NEVT_UL16postVFP=19773251.4183,
-                NEVT_UL17=39395152.0766,
-                NEVT_UL18=39115540.5162,
+                NEVT_UL16preVFP=18999059.8435,
+                NEVT_UL16postVFP=19623978.6489,
+                NEVT_UL17=39193070.1697,
+                NEVT_UL18=38776199.1284,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_Pt-120To170_MuEnrichedPt5_CP5_pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/QCD_Pt-120To170_MuEnrichedPt5_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -2490,10 +2490,10 @@ class MCSampleValuesHelper():
         "QCD_Pt-170To300_MuEnrichedPt5" : {
             "CrossSection" : XSValues(XSec_13TeV=7.015e+03, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=37080544.0,
-                NEVT_UL16postVFP=34290911.0,
-                NEVT_UL17=73071987.0,
-                NEVT_UL18=71926577.0,
+                NEVT_UL16preVFP=36461043.0,
+                NEVT_UL16postVFP=33812466.0,
+                NEVT_UL17=72619013.0,
+                NEVT_UL18=71213266.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_Pt-170To300_MuEnrichedPt5_CP5_pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/QCD_Pt-170To300_MuEnrichedPt5_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -2506,10 +2506,10 @@ class MCSampleValuesHelper():
         "QCD_Pt-300To470_MuEnrichedPt5" : {
             "CrossSection" : XSValues(XSec_13TeV=6.201e+02, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=28238400.9104,
-                NEVT_UL16postVFP=29908658.4042,
-                NEVT_UL17=58692920.2804,
-                NEVT_UL18=58949766.2915,
+                NEVT_UL16preVFP=27810990.8201,
+                NEVT_UL16postVFP=29767448.3648,
+                NEVT_UL17=57837624.1712,
+                NEVT_UL18=58380059.1667,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_Pt-300To470_MuEnrichedPt5_CP5_pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/QCD_Pt-300To470_MuEnrichedPt5_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -2522,10 +2522,10 @@ class MCSampleValuesHelper():
         "QCD_Pt-470To600_MuEnrichedPt5" : {
             "CrossSection" : XSValues(XSec_13TeV=5.908e+01, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=19695374.4020,
-                NEVT_UL16postVFP=19771535.0062,
-                NEVT_UL17=39491905.0538,
-                NEVT_UL18=38453444.9014,
+                NEVT_UL16preVFP=19554517.9752,
+                NEVT_UL16postVFP=19492141.835,
+                NEVT_UL17=39304121.2688,
+                NEVT_UL18=38049883.5304,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_Pt-470To600_MuEnrichedPt5_CP5_pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/QCD_Pt-470To600_MuEnrichedPt5_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -2538,10 +2538,10 @@ class MCSampleValuesHelper():
         "QCD_Pt-600To800_MuEnrichedPt5" : {
             "CrossSection" : XSValues(XSec_13TeV=1.825e+01, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=19598815.552,
-                NEVT_UL16postVFP=18763139.5706,
-                NEVT_UL17=39321941.1416,
-                NEVT_UL18=38412789.1215,
+                NEVT_UL16preVFP=19384949.543,
+                NEVT_UL16postVFP=18540901.5608,
+                NEVT_UL17=39036286.136,
+                NEVT_UL18=38058873.1079,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_Pt-600To800_MuEnrichedPt5_CP5_pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/QCD_Pt-600To800_MuEnrichedPt5_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -2554,10 +2554,10 @@ class MCSampleValuesHelper():
         "QCD_Pt-800To1000_MuEnrichedPt5" : {
             "CrossSection" : XSValues(XSec_13TeV=3.276e+00, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=39092964.0,
-                NEVT_UL16postVFP=38921526.0,
-                NEVT_UL17=78215559.0,
-                NEVT_UL18=78942993.0,
+                NEVT_UL16preVFP=38778873.0,
+                NEVT_UL16postVFP=38615181.0,
+                NEVT_UL17=77000696.0,
+                NEVT_UL18=78135540.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_Pt-800To1000_MuEnrichedPt5_CP5_pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/QCD_Pt-800To1000_MuEnrichedPt5_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -2570,10 +2570,10 @@ class MCSampleValuesHelper():
         "QCD_Pt-1000_MuEnrichedPt5" : {
             "CrossSection" : XSValues(XSec_13TeV=1.077e+00, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=13660999.0,
-                NEVT_UL16postVFP=14243204.0,
-                NEVT_UL17=27478273.0,
-                NEVT_UL18=27427130.0,
+                NEVT_UL16preVFP=13494036.0,
+                NEVT_UL16postVFP=13968065.0,
+                NEVT_UL17=27215745.0,
+                NEVT_UL18=27260270.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_Pt-1000_MuEnrichedPt5_CP5_pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/QCD_Pt-1000_MuEnrichedPt5_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -2589,7 +2589,7 @@ class MCSampleValuesHelper():
                 NEVT_UL16preVFP=-1,
                 NEVT_UL16postVFP=4026788.18611,
                 NEVT_UL17=7967858.63254,
-                NEVT_UL18=7900796.928,
+                NEVT_UL18=7805612.9982,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="", XmlSource_UL16preVFP="",
@@ -2603,9 +2603,9 @@ class MCSampleValuesHelper():
             "CrossSection" : XSValues(XSec_13TeV=4.915e+06, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=-1,
-                NEVT_UL16postVFP=7134791.3549,
-                NEVT_UL17=14166154.329,
-                NEVT_UL18=14328852.5239,
+                NEVT_UL16postVFP=7063196.2163,
+                NEVT_UL17=14120042.3138,
+                NEVT_UL18=14259331.5239,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="", XmlSource_UL16preVFP="",
@@ -2619,9 +2619,9 @@ class MCSampleValuesHelper():
             "CrossSection" : XSValues(XSec_13TeV=6.418e+06, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=4361931.0,
-                NEVT_UL16postVFP=4351014.0,
-                NEVT_UL17=8784542.0,
-                NEVT_UL18=8574589.0,
+                NEVT_UL16postVFP=4280322.0,
+                NEVT_UL17=8667376.0,
+                NEVT_UL18=8527373.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_Pt-30to50_EMEnriched_CP5_pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/QCD_Pt-30to50_EMEnriched_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -2634,10 +2634,10 @@ class MCSampleValuesHelper():
         "QCD_Pt-50to80_EMEnriched" : {
             "CrossSection" : XSValues(XSec_13TeV=1.987e+06, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=5440758.0,
+                NEVT_UL16preVFP=5385064.0,
                 NEVT_UL16postVFP=5443934.0,
                 NEVT_UL17=10210400.0,
-                NEVT_UL18=10524400.0,
+                NEVT_UL18=10408195.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_Pt-50to80_EMEnriched_CP5_pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/QCD_Pt-50to80_EMEnriched_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -2650,10 +2650,10 @@ class MCSampleValuesHelper():
         "QCD_Pt-80to120_EMEnriched" : {
             "CrossSection" : XSValues(XSec_13TeV=3.671e+05, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=4848176.90015,
+                NEVT_UL16preVFP=4801656.85975,
                 NEVT_UL16postVFP=4805600.8317,
-                NEVT_UL17=9617412.94144,
-                NEVT_UL18=9469962.10221,
+                NEVT_UL17=9547871.27434,
+                NEVT_UL18=9376986.40631,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_Pt-80to120_EMEnriched_CP5_pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/QCD_Pt-80to120_EMEnriched_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -2666,10 +2666,10 @@ class MCSampleValuesHelper():
         "QCD_Pt-120to170_EMEnriched" : {
             "CrossSection" : XSValues(XSec_13TeV=6.661e+04, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=4852628.34648,
-                NEVT_UL16postVFP=5007404.35617,
-                NEVT_UL17=9904361.63759,
-                NEVT_UL18=9678015.18575,
+                NEVT_UL16preVFP=4758514.25258,
+                NEVT_UL16postVFP=4914411.49137,
+                NEVT_UL17=9788584.15039,
+                NEVT_UL18=9585956.28785,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_Pt-120to170_EMEnriched_CP5_pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/QCD_Pt-120to170_EMEnriched_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -2682,10 +2682,10 @@ class MCSampleValuesHelper():
         "QCD_Pt-170to300_EMEnriched" : {
             "CrossSection" : XSValues(XSec_13TeV=1.654e+04, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=1855461.0,
-                NEVT_UL16postVFP=1861129.0,
-                NEVT_UL17=3678200.0,
-                NEVT_UL18=3714642.0,
+                NEVT_UL16preVFP=1832497.0,
+                NEVT_UL16postVFP=1838021.0,
+                NEVT_UL17=3654933.0,
+                NEVT_UL18=3691578.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_Pt-170to300_EMEnriched_CP5_pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/QCD_Pt-170to300_EMEnriched_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -2715,9 +2715,9 @@ class MCSampleValuesHelper():
             "CrossSection" : XSValues(XSec_13TeV=1.869e+05, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=-1,
-                NEVT_UL16postVFP=8337713.15922,
+                NEVT_UL16postVFP=8313416.47682,
                 NEVT_UL17=-1,
-                NEVT_UL18=16551388.1334,
+                NEVT_UL18=16407248.3744,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="", XmlSource_UL16preVFP="",
@@ -2730,10 +2730,10 @@ class MCSampleValuesHelper():
         "QCD_Pt_20to30_bcToE" : {
             "CrossSection" : XSValues(XSec_13TeV=3.055e+05, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=7913585.84161,
-                NEVT_UL16postVFP=7308537.32977,
-                NEVT_UL17=14171713.7236,
-                NEVT_UL18=14061668.0471,
+                NEVT_UL16preVFP=7865602.42481,
+                NEVT_UL16postVFP=7260554.73937,
+                NEVT_UL17=14122371.5886,
+                NEVT_UL18=14037784.4468,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_Pt_20to30_bcToE_CP5_pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/QCD_Pt_20to30_bcToE_TuneCP5_13TeV_pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -2746,10 +2746,10 @@ class MCSampleValuesHelper():
         "QCD_Pt_30to80_bcToE" : {
             "CrossSection" : XSValues(XSec_13TeV=3.612e+05, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=7971435.43066,
-                NEVT_UL16postVFP=7718567.59966,
-                NEVT_UL17=15246295.0499,
-                NEVT_UL18=15366710.0093,
+                NEVT_UL16preVFP=7876723.86996,
+                NEVT_UL16postVFP=7695085.15746,
+                NEVT_UL17=15113920.7754,
+                NEVT_UL18=15271040.7668,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_Pt_30to80_bcToE_CP5_pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/QCD_Pt_30to80_bcToE_TuneCP5_13TeV_pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -2762,10 +2762,10 @@ class MCSampleValuesHelper():
         "QCD_Pt_80to170_bcToE" : {
             "CrossSection" : XSValues(XSec_13TeV=3.376e+04, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=7690702.0,
+                NEVT_UL16preVFP=7595760.0,
                 NEVT_UL16postVFP=7882938.0,
-                NEVT_UL17=15571255.0,
-                NEVT_UL18=15186397.0,
+                NEVT_UL17=15477027.0,
+                NEVT_UL18=15009995.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_Pt_80to170_bcToE_CP5_pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/QCD_Pt_80to170_bcToE_TuneCP5_13TeV_pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -2778,10 +2778,10 @@ class MCSampleValuesHelper():
         "QCD_Pt_170to250_bcToE" : {
             "CrossSection" : XSValues(XSec_13TeV=2.127e+03, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=7343309.67453,
-                NEVT_UL16postVFP=7864034.40369,
-                NEVT_UL17=15503825.881,
-                NEVT_UL18=15736781.2064,
+                NEVT_UL16preVFP=7272792.73033,
+                NEVT_UL16postVFP=7770441.35889,
+                NEVT_UL17=15239306.6745,
+                NEVT_UL18=15572505.9539,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_Pt_170to250_bcToE_CP5_pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/QCD_Pt_170to250_bcToE_TuneCP5_13TeV_pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -2794,10 +2794,10 @@ class MCSampleValuesHelper():
         "QCD_Pt_250toInf_bcToE" : {
             "CrossSection" : XSValues(XSec_13TeV=5.634e+02, XSecSource_13TeV="GenXSecAnalyzer run on UL18 (other years give same result within +/- O(0.1%))"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=6856820.0,
-                NEVT_UL16postVFP=8152626.0,
-                NEVT_UL17=15557421.0,
-                NEVT_UL18=15767690.0,
+                NEVT_UL16preVFP=6809096.0,
+                NEVT_UL16postVFP=8091469.0,
+                NEVT_UL17=15533862.0,
+                NEVT_UL18=15603400.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_Pt_250toInf_bcToE_CP5_pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/QCD_Pt_250toInf_bcToE_TuneCP5_13TeV_pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",

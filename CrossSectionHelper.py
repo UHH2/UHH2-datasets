@@ -3622,7 +3622,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=569211.0,
+                NEVT_UL16preVFP=545137.0,
                 NEVT_UL16postVFP=570127.0,
                 NEVT_UL17=201853.0,
                 NEVT_UL18=200177.0,
@@ -3676,8 +3676,8 @@ class MCSampleValuesHelper():
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=468063.0,
-                NEVT_UL16postVFP=491452.0,
+                NEVT_UL16preVFP=444498.0,
+                NEVT_UL16postVFP=467769.0,
                 NEVT_UL17=200215.0,
                 NEVT_UL18=199814.0,
             ),
@@ -3766,7 +3766,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=505378.0,
+                NEVT_UL16preVFP=481700.0,
                 NEVT_UL16postVFP=548913.0,
                 NEVT_UL17=208708.0,
                 NEVT_UL18=217763.0,
@@ -3893,7 +3893,7 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=422942.0,
-                NEVT_UL16postVFP=452977.0,
+                NEVT_UL16postVFP=429056.0,
                 NEVT_UL17=184083.0,
                 NEVT_UL18=184021.0,
             ),
@@ -3949,7 +3949,7 @@ class MCSampleValuesHelper():
                 NEVT_UL16preVFP=107673.0,
                 NEVT_UL16postVFP=91498.0,
                 NEVT_UL17=202610.0,
-                NEVT_UL18=198177.0,
+                NEVT_UL18=192170.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/ZprimeToTTJets_M6000_W60_CP2_madgraphMLM-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/ZprimeToTTJets_M6000_W60_TuneCP2_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -3985,7 +3985,7 @@ class MCSampleValuesHelper():
                 NEVT_UL16preVFP=105321.0,
                 NEVT_UL16postVFP=91227.0,
                 NEVT_UL17=191551.0,
-                NEVT_UL18=194397.0,
+                NEVT_UL18=170678.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/ZprimeToTTJets_M8000_W80_CP2_madgraphMLM-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/ZprimeToTTJets_M8000_W80_TuneCP2_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -4811,7 +4811,7 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=235000,
-                NEVT_UL16postVFP=250000,
+                NEVT_UL16postVFP=226000,
                 NEVT_UL17=500000,
                 NEVT_UL18=500000,
             ),
@@ -4975,7 +4975,7 @@ class MCSampleValuesHelper():
                 NEVT_UL16preVFP=250000,
                 NEVT_UL16postVFP=234000,
                 NEVT_UL17=500000,
-                NEVT_UL18=500000,
+                NEVT_UL18=476000,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/RSGluonToTT_M-5000_CP5_pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/RSGluonToTT_M-5000_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -4990,7 +4990,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=238000,
+                NEVT_UL16preVFP=214000,
                 NEVT_UL16postVFP=248000,
                 NEVT_UL17=494000,
                 NEVT_UL18=479000,
@@ -5009,7 +5009,7 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=250000,
-                NEVT_UL16postVFP=248000,
+                NEVT_UL16postVFP=242000,
                 NEVT_UL17=476000,
                 NEVT_UL18=455000,
             ),

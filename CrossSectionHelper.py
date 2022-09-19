@@ -4811,7 +4811,7 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=235000,
-                NEVT_UL16postVFP=250000,
+                NEVT_UL16postVFP=226000,
                 NEVT_UL17=500000,
                 NEVT_UL18=500000,
             ),
@@ -4975,7 +4975,7 @@ class MCSampleValuesHelper():
                 NEVT_UL16preVFP=250000,
                 NEVT_UL16postVFP=234000,
                 NEVT_UL17=500000,
-                NEVT_UL18=500000,
+                NEVT_UL18=476000,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/RSGluonToTT_M-5000_CP5_pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/RSGluonToTT_M-5000_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -4990,7 +4990,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=238000,
+                NEVT_UL16preVFP=214000,
                 NEVT_UL16postVFP=248000,
                 NEVT_UL17=494000,
                 NEVT_UL18=479000,
@@ -5009,7 +5009,7 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=250000,
-                NEVT_UL16postVFP=248000,
+                NEVT_UL16postVFP=242000,
                 NEVT_UL17=476000,
                 NEVT_UL18=455000,
             ),

@@ -5134,9 +5134,9 @@ class MCSampleValuesHelper():
                 kFac_13TeV=1.97913, kFacSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=2119.7220377,
+                NEVT_UL16preVFP=1916.0551067,
                 NEVT_UL16postVFP=2069.06411289,
-                NEVT_UL17=4224.5618954,
+                NEVT_UL17=4020.9243744,
                 NEVT_UL18=4242.4866877,
             ),
             "XMLname" : XMLValues(
@@ -5305,7 +5305,7 @@ class MCSampleValuesHelper():
                 NEVT_UL16preVFP=288659.16832,
                 NEVT_UL16postVFP=286415.1199,
                 NEVT_UL17=574027.6727,
-                NEVT_UL18=573900.86455,
+                NEVT_UL18=546129.04975,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/HpseudoToTTTo1L1Nu2J_m400_w40p0_res_CP5_madgraph_pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/HpseudoToTTTo1L1Nu2J_m400_w40p0_res_TuneCP5_13TeV-madgraph_pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -5325,7 +5325,7 @@ class MCSampleValuesHelper():
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=149616.08465,
                 NEVT_UL16postVFP=149629.914053,
-                NEVT_UL17=299162.2687,
+                NEVT_UL17=284804.3597,
                 NEVT_UL18=296686.89491,
             ),
             "XMLname" : XMLValues(
@@ -5344,7 +5344,7 @@ class MCSampleValuesHelper():
                 kFac_13TeV=1.76302, kFacSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=66829.024208,
+                NEVT_UL16preVFP=60298.344118,
                 NEVT_UL16postVFP=67582.717264,
                 NEVT_UL17=135699.902294,
                 NEVT_UL18=134971.091663,
@@ -5387,7 +5387,7 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=4745.017413,
-                NEVT_UL16postVFP=4747.91728,
+                NEVT_UL16postVFP=4291.278581,
                 NEVT_UL17=9494.3699807,
                 NEVT_UL18=9263.5783702,
             ),
@@ -5409,7 +5409,7 @@ class MCSampleValuesHelper():
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=-1112972.69016,
                 NEVT_UL16postVFP=-1117513.98756,
-                NEVT_UL17=-2210403.7067,
+                NEVT_UL17=-2103660.6347,
                 NEVT_UL18=-2171094.16728,
             ),
             "XMLname" : XMLValues(
@@ -5430,7 +5430,7 @@ class MCSampleValuesHelper():
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=-786867.006,
                 NEVT_UL16postVFP=-789101.34692,
-                NEVT_UL17=-1579406.2598,
+                NEVT_UL17=-1504478.253,
                 NEVT_UL18=-1579689.1022,
             ),
             "XMLname" : XMLValues(
@@ -5472,7 +5472,7 @@ class MCSampleValuesHelper():
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=-37340.34489,
                 NEVT_UL16postVFP=-44194.05708,
-                NEVT_UL17=-83092.998201,
+                NEVT_UL17=-79016.122021,
                 NEVT_UL18=-81900.821139,
             ),
             "XMLname" : XMLValues(
@@ -5533,7 +5533,7 @@ class MCSampleValuesHelper():
                 kFac_13TeV=2.37207, kFacSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=1303218.1199,
+                NEVT_UL16preVFP=1188521.2589,
                 NEVT_UL16postVFP=1303405.7415,
                 NEVT_UL17=2607335.746,
                 NEVT_UL18=2607045.7854,
@@ -5577,7 +5577,7 @@ class MCSampleValuesHelper():
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=647810.9576,
                 NEVT_UL16postVFP=648333.9809,
-                NEVT_UL17=1295076.4766,
+                NEVT_UL17=1256146.2269,
                 NEVT_UL18=1295687.9387,
             ),
             "XMLname" : XMLValues(
@@ -5618,7 +5618,7 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=62120.010172,
-                NEVT_UL16postVFP=29574.237047,
+                NEVT_UL16postVFP=23610.873027,
                 NEVT_UL17=124281.764049,
                 NEVT_UL18=124293.07307,
             ),
@@ -5639,7 +5639,7 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=17104.940015,
-                NEVT_UL16postVFP=16626.1296345,
+                NEVT_UL16postVFP=14984.1550345,
                 NEVT_UL17=34005.567704,
                 NEVT_UL18=31349.5508702,
             ),
@@ -5680,7 +5680,7 @@ class MCSampleValuesHelper():
                 kFac_13TeV=1.83757, kFacSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-861366.33313,
+                NEVT_UL16preVFP=-833697.59823,
                 NEVT_UL16postVFP=-839948.9534,
                 NEVT_UL17=-1565961.86264,
                 NEVT_UL18=-1658473.7532,
@@ -5746,7 +5746,7 @@ class MCSampleValuesHelper():
                 NEVT_UL16preVFP=47685.61398,
                 NEVT_UL16postVFP=46310.2176,
                 NEVT_UL17=84343.846579,
-                NEVT_UL18=91382.61924,
+                NEVT_UL18=87770.41902,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/HpseudoToTTTo1L1Nu2J_m800_w20p0_int_CP5_madgraph_pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/HpseudoToTTTo1L1Nu2J_m800_w20p0_int_TuneCP5_13TeV-madgraph_pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",

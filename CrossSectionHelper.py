@@ -5134,9 +5134,9 @@ class MCSampleValuesHelper():
                 kFac_13TeV=1.97913, kFacSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=2119.7220377,
+                NEVT_UL16preVFP=1916.0551067,
                 NEVT_UL16postVFP=2069.06411289,
-                NEVT_UL17=4224.5618954,
+                NEVT_UL17=4020.9243744,
                 NEVT_UL18=4242.4866877,
             ),
             "XMLname" : XMLValues(

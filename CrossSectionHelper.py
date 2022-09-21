@@ -5278,7 +5278,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=1.18764, XSecSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
             ),
             "kFactor" : kFactorValues(
-                kFac_13TeV=1.88312, kFacSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
+                kFac_13TeV=2.37207, kFacSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=256294.89633,
@@ -5299,7 +5299,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=1.28105, XSecSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
             ),
             "kFactor" : kFactorValues(
-                kFac_13TeV=1.83757, kFacSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
+                kFac_13TeV=2.2587, kFacSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=288659.16832,
@@ -5320,7 +5320,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=0.660745, XSecSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
             ),
             "kFactor" : kFactorValues(
-                kFac_13TeV=1.78803, kFacSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
+                kFac_13TeV=2.13856, kFacSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=149616.08465,
@@ -5341,7 +5341,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=0.29944, XSecSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
             ),
             "kFactor" : kFactorValues(
-                kFac_13TeV=1.76302, kFacSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
+                kFac_13TeV=2.07916, kFacSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=60298.344118,
@@ -5362,7 +5362,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=0.0709866, XSecSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
             ),
             "kFactor" : kFactorValues(
-                kFac_13TeV=1.73535, kFacSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
+                kFac_13TeV=2.01441, kFacSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=16087.587782,
@@ -5383,7 +5383,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=0.0209362, XSecSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
             ),
             "kFactor" : kFactorValues(
-                kFac_13TeV=1.72011, kFacSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
+                kFac_13TeV=1.97917, kFacSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=4745.017413,

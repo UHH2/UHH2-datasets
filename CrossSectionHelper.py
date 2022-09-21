@@ -4252,7 +4252,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=222000.0,
+                NEVT_UL16preVFP=270000.0,
                 NEVT_UL16postVFP=230000.0,
                 NEVT_UL17=491000.0,
                 NEVT_UL18=500000.0,
@@ -5387,7 +5387,7 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=4745.017413,
-                NEVT_UL16postVFP=4291.278581,
+                NEVT_UL16postVFP=4747.91728,
                 NEVT_UL17=9494.3699807,
                 NEVT_UL18=9263.5783702,
             ),
@@ -5618,7 +5618,7 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=62120.010172,
-                NEVT_UL16postVFP=23610.873027,
+                NEVT_UL16postVFP=29574.237047,
                 NEVT_UL17=124281.764049,
                 NEVT_UL18=124293.07307,
             ),
@@ -5639,7 +5639,7 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=17104.940015,
-                NEVT_UL16postVFP=14984.1550345,
+                NEVT_UL16postVFP=16626.1296345,
                 NEVT_UL17=34005.567704,
                 NEVT_UL18=31349.5508702,
             ),

@@ -20,5 +20,3 @@
 <In FileName="/pnfs/desy.de/cms/tier2//store/group/uhh/uhh2ntuples/RunII_106X_v2/UL17/HscalarToTTTo1L1Nu2J_m600_w150p0_res_TuneCP5_13TeV-madgraph_pythia8/crab_HscalarToTTTo1L1Nu2J_m600_w150p0_res_CP5_madgraph_pythia8_Summer20UL17_v2/220202_091020/0000/Ntuple_7.root" Lumi="0.0"/>
 <In FileName="/pnfs/desy.de/cms/tier2//store/group/uhh/uhh2ntuples/RunII_106X_v2/UL17/HscalarToTTTo1L1Nu2J_m600_w150p0_res_TuneCP5_13TeV-madgraph_pythia8/crab_HscalarToTTTo1L1Nu2J_m600_w150p0_res_CP5_madgraph_pythia8_Summer20UL17_v2/220202_091020/0000/Ntuple_8.root" Lumi="0.0"/>
 <In FileName="/pnfs/desy.de/cms/tier2//store/group/uhh/uhh2ntuples/RunII_106X_v2/UL17/HscalarToTTTo1L1Nu2J_m600_w150p0_res_TuneCP5_13TeV-madgraph_pythia8/crab_HscalarToTTTo1L1Nu2J_m600_w150p0_res_CP5_madgraph_pythia8_Summer20UL17_v2/220202_091020/0000/Ntuple_9.root" Lumi="0.0"/>
-<!-- < NumberEntries="500000" Method=fast /> -->
-<!-- < NumberEntries="17599.58449" Method=weights /> -->

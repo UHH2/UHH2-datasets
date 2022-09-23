@@ -1322,10 +1322,10 @@ class MCSampleValuesHelper():
             "CrossSection" : XSValues(XSec_13TeV=0.86, XSecSource_13TeV="Phys. Rev. Lett. 113 (2014) 212001 [doi:10.1103/PhysRevLett.113.212001]"),
             "BranchingRatio" : BRValues(BRat_13TeV=3*(0.0337+0.0667), BRatSource_13TeV="P.A. Zyla et al. (Particle Data Group), Prog. Theor. Exp. Phys. 2020, 083C01 (2020) and 2021 update"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=1415599.92644,
-                NEVT_UL16postVFP=1477923.21991,
-                NEVT_UL17=3464156.46185,
-                NEVT_UL18=4782962.66323,
+                NEVT_UL16preVFP=1402267.65949,
+                NEVT_UL16postVFP=1471960.76689,
+                NEVT_UL17=3440656.50781,
+                NEVT_UL18=4736246.20951,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTZToLLNuNu_M-10_CP5_amcatnlo-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TTZToLLNuNu_M-10_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -1340,9 +1340,9 @@ class MCSampleValuesHelper():
             "BranchingRatio" : BRValues(BRat_13TeV=0.69911, BRatSource_13TeV="P.A. Zyla et al. (Particle Data Group), Prog. Theor. Exp. Phys. 2020, 083C01 (2020) and 2021 update"),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=3206904.47682,
-                NEVT_UL16postVFP=2758738.86304,
-                NEVT_UL17=7143394.7065,
-                NEVT_UL18=10134247.2843,
+                NEVT_UL16postVFP=2721405.26944,
+                NEVT_UL17=7106768.6638,
+                NEVT_UL18=10085220.5895,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTZToQQ_CP5_amcatnlo-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TTZToQQ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -1357,9 +1357,9 @@ class MCSampleValuesHelper():
             "BranchingRatio" : BRValues(BRat_13TeV=0.3259, BRatSource_13TeV="P.A. Zyla et al. (Particle Data Group), Prog. Theor. Exp. Phys. 2020, 083C01 (2020) and 2021 update"),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=953960.422456,
-                NEVT_UL16postVFP=1113150.39282,
-                NEVT_UL17=2500272.10687,
-                NEVT_UL18=3525043.5175,
+                NEVT_UL16postVFP=1105471.31091,
+                NEVT_UL17=2477194.06426,
+                NEVT_UL18=3501849.26565,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTWJetsToLNu_CP5_amcatnloFXFX-madspin-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TTWJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -1376,7 +1376,7 @@ class MCSampleValuesHelper():
                 NEVT_UL16preVFP=184218.52966,
                 NEVT_UL16postVFP=209107.004822,
                 NEVT_UL17=444333.97475,
-                NEVT_UL18=656374.27724,
+                NEVT_UL18=650225.49091,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTWJetsToQQ_CP5_amcatnloFXFX-madspin-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TTWJetsToQQ_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",

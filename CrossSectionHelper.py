@@ -2812,7 +2812,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=185900000, XSecSource_13TeV="GenXSecAnalyzer averaged over years"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=36599034.0,
+                NEVT_UL16preVFP=36222832.0,
                 NEVT_UL16postVFP=11197186.0,
                 NEVT_UL17=26243010.0,
                 NEVT_UL18=38599389.0,
@@ -2830,7 +2830,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=23610000, XSecSource_13TeV="GenXSecAnalyzer averaged over years"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=67431856.0,
+                NEVT_UL16preVFP=66607034.0,
                 NEVT_UL16postVFP=73506112.0,
                 NEVT_UL17=54760426.0,
                 NEVT_UL18=84461486.0,
@@ -2866,7 +2866,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=324300, XSecSource_13TeV="GenXSecAnalyzer averaged over years"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=15341307.0,
+                NEVT_UL16preVFP=15226670.0,
                 NEVT_UL16postVFP=46863466.0,
                 NEVT_UL17=43589739.0,
                 NEVT_UL18=61705174.0,
@@ -2884,7 +2884,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=30340, XSecSource_13TeV="GenXSecAnalyzer averaged over years"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=56868784.0,
+                NEVT_UL16preVFP=56138559.0,
                 NEVT_UL16postVFP=15222746.0,
                 NEVT_UL17=36194860.0,
                 NEVT_UL18=49184771.0,
@@ -2902,7 +2902,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=6440, XSecSource_13TeV="GenXSecAnalyzer averaged over years"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=15808790.0,
+                NEVT_UL16preVFP=15478579.0,
                 NEVT_UL16postVFP=13905714.0,
                 NEVT_UL17=34051754.0,
                 NEVT_UL18=48506751.0,
@@ -2920,7 +2920,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=1118, XSecSource_13TeV="GenXSecAnalyzer averaged over years"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=13823774.0,
+                NEVT_UL16preVFP=13679903.0,
                 NEVT_UL16postVFP=12675816.0,
                 NEVT_UL17=10256089.0,
                 NEVT_UL18=14527915.0,
@@ -2938,7 +2938,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=108, XSecSource_13TeV="GenXSecAnalyzer averaged over years"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=10031077.0,
+                NEVT_UL16preVFP=9830970.0,
                 NEVT_UL16postVFP=9376965.0,
                 NEVT_UL17=7701876.0,
                 NEVT_UL18=10871473.0,
@@ -2956,7 +2956,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=22, XSecSource_13TeV="GenXSecAnalyzer averaged over years"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=4996082.0,
+                NEVT_UL16preVFP=4923577.0,
                 NEVT_UL16postVFP=4867995.0,
                 NEVT_UL17=4112573.0,
                 NEVT_UL18=5374711.0,

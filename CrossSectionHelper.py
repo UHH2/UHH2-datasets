@@ -3564,7 +3564,7 @@ class MCSampleValuesHelper():
         "ALP_ttbar_interference": {
             "CrossSection" : XSValues( XSec_13TeV=-28.248020, XSecSource_13TeV="GenXSecAnalyzer run on UL18"),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=5374990.0,
+                NEVT_UL16preVFP=5398990.0,
                 NEVT_UL16postVFP=4571996.0,
                 NEVT_UL17=9927978.0,
                 NEVT_UL18=9839970.0,

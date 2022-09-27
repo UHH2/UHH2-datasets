@@ -309,7 +309,7 @@ class MCSampleValuesHelper():
                 NEVT_UL18=339013231,
             ),
             "XMLname" : XMLValues(
-                Xml_UL18="RunII_106X_v2/data/UL18/EGamma_Run2018A-UL2018_MiniAODv2-v1.xml", XmlSource_UL18="/EGamma/Run2018A-UL2018_MiniAODv2-v1/MINIAOD",
+                Xml_UL18="RunII_106X_v2/data/UL18/EGamma_Run2018A-UL2018_MiniAODv2_GT36-v1.xml", XmlSource_UL18="/EGamma/Run2018A-UL2018_MiniAODv2_GT36-v1/MINIAOD",
             ),
         },
 
@@ -327,7 +327,7 @@ class MCSampleValuesHelper():
                 NEVT_UL18=147827904,
             ),
             "XMLname" : XMLValues(
-                Xml_UL18="RunII_106X_v2/data/UL18/EGamma_Run2018C-UL2018_MiniAODv2-v1.xml", XmlSource_UL18="/EGamma/Run2018C-UL2018_MiniAODv2-v1/MINIAOD",
+                Xml_UL18="RunII_106X_v2/data/UL18/EGamma_Run2018C-UL2018_MiniAODv2_GT36-v1.xml", XmlSource_UL18="/EGamma/Run2018C-UL2018_MiniAODv2_GT36-v1/MINIAOD",
             ),
         },
 

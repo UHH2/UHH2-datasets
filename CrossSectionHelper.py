@@ -2813,9 +2813,9 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=36222832.0,
-                NEVT_UL16postVFP=11197186.0,
-                NEVT_UL17=26243010.0,
-                NEVT_UL18=38599389.0,
+                NEVT_UL16postVFP=11080132.0,
+                NEVT_UL17=26032341.0,
+                NEVT_UL18=38318536.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_HT50to100_CP5_PSWeights_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/QCD_HT50to100_TuneCP5_PSWeights_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -2831,9 +2831,9 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=66607034.0,
-                NEVT_UL16postVFP=73506112.0,
-                NEVT_UL17=54760426.0,
-                NEVT_UL18=84461486.0,
+                NEVT_UL16postVFP=72830172.0,
+                NEVT_UL17=54265663.0,
+                NEVT_UL18=83633704.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_HT100to200_CP5_PSWeights_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/QCD_HT100to200_TuneCP5_PSWeights_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -2849,9 +2849,9 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=18273591.0,
-                NEVT_UL16postVFP=43280518.0,
-                NEVT_UL17=42714435.0,
-                NEVT_UL18=57336623.0,
+                NEVT_UL16postVFP=42818087.0,
+                NEVT_UL17=42433176.0,
+                NEVT_UL18=56417004.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_HT200to300_CP5_PSWeights_madgraph-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/QCD_HT200to300_TuneCP5_PSWeights_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -2867,9 +2867,9 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=15226670.0,
-                NEVT_UL16postVFP=46863466.0,
-                NEVT_UL17=43589739.0,
-                NEVT_UL18=61705174.0,
+                NEVT_UL16postVFP=46479545.0,
+                NEVT_UL17=43100754.0,
+                NEVT_UL18=61063399.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_HT300to500_CP5_PSWeights_madgraph-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/QCD_HT300to500_TuneCP5_PSWeights_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -2885,9 +2885,9 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=56138559.0,
-                NEVT_UL16postVFP=15222746.0,
-                NEVT_UL17=36194860.0,
-                NEVT_UL18=49184771.0,
+                NEVT_UL16postVFP=15114765.0,
+                NEVT_UL17=35816792.0,
+                NEVT_UL18=48805955.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_HT500to700_CP5_PSWeights_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/QCD_HT500to700_TuneCP5_PSWeights_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -2903,9 +2903,9 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=15478579.0,
-                NEVT_UL16postVFP=13905714.0,
-                NEVT_UL17=34051754.0,
-                NEVT_UL18=48506751.0,
+                NEVT_UL16postVFP=13762836.0,
+                NEVT_UL17=33646855.0,
+                NEVT_UL18=48090314.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_HT700to1000_CP5_PSWeights_madgraph-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/QCD_HT700to1000_TuneCP5_PSWeights_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -2921,9 +2921,9 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=13679903.0,
-                NEVT_UL16postVFP=12675816.0,
-                NEVT_UL17=10256089.0,
-                NEVT_UL18=14527915.0,
+                NEVT_UL16postVFP=12510685.0,
+                NEVT_UL17=10136610.0,
+                NEVT_UL18=14315177.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_HT1000to1500_CP5_PSWeights_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/QCD_HT1000to1500_TuneCP5_PSWeights_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -2939,9 +2939,9 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=9830970.0,
-                NEVT_UL16postVFP=9376965.0,
-                NEVT_UL17=7701876.0,
-                NEVT_UL18=10871473.0,
+                NEVT_UL16postVFP=9282278.0,
+                NEVT_UL17=7678756.0,
+                NEVT_UL18=10775587.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_HT1500to2000_CP5_PSWeights_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/QCD_HT1500to2000_TuneCP5_PSWeights_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -2957,9 +2957,9 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=4923577.0,
-                NEVT_UL16postVFP=4867995.0,
-                NEVT_UL17=4112573.0,
-                NEVT_UL18=5374711.0,
+                NEVT_UL16postVFP=4843949.0,
+                NEVT_UL17=4089387.0,
+                NEVT_UL18=5278880.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_HT2000toInf_CP5_PSWeights_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/QCD_HT2000toInf_TuneCP5_PSWeights_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",

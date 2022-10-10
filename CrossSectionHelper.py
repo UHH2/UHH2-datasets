@@ -2252,7 +2252,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=2565.301991, XSecSource_13TeV="GenXSecAnalyzer run on UL17"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=8000572.0,
+                NEVT_UL16preVFP=7904475.0,
                 NEVT_UL16postVFP=7041423.0,
                 NEVT_UL17=15968057.0,
                 NEVT_UL18=14310025.0,
@@ -2270,7 +2270,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=276.629780, XSecSource_13TeV="GenXSecAnalyzer run on UL17"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=5144427.0,
+                NEVT_UL16preVFP=5121341.0,
                 NEVT_UL16postVFP=4339896.0,
                 NEVT_UL17=9927793.0,
                 NEVT_UL18=9335298.0,
@@ -2288,7 +2288,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=59.078057, XSecSource_13TeV="GenXSecAnalyzer run on UL17"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=7644050.0,
+                NEVT_UL16preVFP=7573159.0,
                 NEVT_UL16postVFP=6775674.0,
                 NEVT_UL17=14667933.0,
                 NEVT_UL18=13633226.0,
@@ -2306,7 +2306,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=28.761363, XSecSource_13TeV="GenXSecAnalyzer run on UL17"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=7606882.0,
+                NEVT_UL16preVFP=7488760.0,
                 NEVT_UL16postVFP=6674335.0,
                 NEVT_UL17=14722417.0,
                 NEVT_UL18=13557328.0,
@@ -2324,7 +2324,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=1010.200257, XSecSource_13TeV="GenXSecAnalyzer run on UL18"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=8753905.0,
+                NEVT_UL16preVFP=8587693.0,
                 NEVT_UL16postVFP=7261998.0,
                 NEVT_UL17=15256299.0,
                 NEVT_UL18=14738284.0,
@@ -2342,7 +2342,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=114.207953, XSecSource_13TeV="GenXSecAnalyzer run on UL17"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=7709128.0,
+                NEVT_UL16preVFP=7638105.0,
                 NEVT_UL16postVFP=6942718.0,
                 NEVT_UL17=14884962.0,
                 NEVT_UL18=13930474.0,
@@ -2360,7 +2360,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=25.348623, XSecSource_13TeV="GenXSecAnalyzer run on UL17"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=6116617.0,
+                NEVT_UL16preVFP=6045332.0,
                 NEVT_UL16postVFP=5405979.0,
                 NEVT_UL17=11702567.0,
                 NEVT_UL18=12029507.0,

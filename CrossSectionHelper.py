@@ -2253,7 +2253,7 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=8000572.0,
-                NEVT_UL16postVFP=7065076.0,
+                NEVT_UL16postVFP=7041423.0,
                 NEVT_UL17=15968057.0,
                 NEVT_UL18=14310025.0,
             ),
@@ -2271,7 +2271,7 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=5144427.0,
-                NEVT_UL16postVFP=4455853.0,
+                NEVT_UL16postVFP=4339896.0,
                 NEVT_UL17=9927793.0,
                 NEVT_UL18=9335298.0,
             ),
@@ -2289,7 +2289,7 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=7644050.0,
-                NEVT_UL16postVFP=6793578.0,
+                NEVT_UL16postVFP=6775674.0,
                 NEVT_UL17=14667933.0,
                 NEVT_UL18=13633226.0,
             ),
@@ -2307,7 +2307,7 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=7606882.0,
-                NEVT_UL16postVFP=6769101.0,
+                NEVT_UL16postVFP=6674335.0,
                 NEVT_UL17=14722417.0,
                 NEVT_UL18=13557328.0,
             ),
@@ -2325,7 +2325,7 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=8753905.0,
-                NEVT_UL16postVFP=7285673.0,
+                NEVT_UL16postVFP=7261998.0,
                 NEVT_UL17=-1,
                 NEVT_UL18=14738284.0,
             ),
@@ -2361,7 +2361,7 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=6116617.0,
-                NEVT_UL16postVFP=5500386.0,
+                NEVT_UL16postVFP=5405979.0,
                 NEVT_UL17=11702567.0,
                 NEVT_UL18=12029507.0,
             ),
@@ -2379,7 +2379,7 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=3726992.0,
-                NEVT_UL16postVFP=4388402.0,
+                NEVT_UL16postVFP=4287246.0,
                 NEVT_UL17=9384525.0,
                 NEVT_UL18=9681521.0,
             ),

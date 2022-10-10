@@ -2254,7 +2254,7 @@ class MCSampleValuesHelper():
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=7904475.0,
                 NEVT_UL16postVFP=7041423.0,
-                NEVT_UL17=15968057.0,
+                NEVT_UL17=15708050.0,
                 NEVT_UL18=14310025.0,
             ),
             "XMLname" : XMLValues(
@@ -2272,7 +2272,7 @@ class MCSampleValuesHelper():
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=5121341.0,
                 NEVT_UL16postVFP=4339896.0,
-                NEVT_UL17=9927793.0,
+                NEVT_UL17=9881339.0,
                 NEVT_UL18=9335298.0,
             ),
             "XMLname" : XMLValues(
@@ -2290,7 +2290,7 @@ class MCSampleValuesHelper():
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=7573159.0,
                 NEVT_UL16postVFP=6775674.0,
-                NEVT_UL17=14667933.0,
+                NEVT_UL17=14338694.0,
                 NEVT_UL18=13633226.0,
             ),
             "XMLname" : XMLValues(
@@ -2308,7 +2308,7 @@ class MCSampleValuesHelper():
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=7488760.0,
                 NEVT_UL16postVFP=6674335.0,
-                NEVT_UL17=14722417.0,
+                NEVT_UL17=14414746.0,
                 NEVT_UL18=13557328.0,
             ),
             "XMLname" : XMLValues(
@@ -2344,7 +2344,7 @@ class MCSampleValuesHelper():
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=7638105.0,
                 NEVT_UL16postVFP=6942718.0,
-                NEVT_UL17=14884962.0,
+                NEVT_UL17=14813420.0,
                 NEVT_UL18=13930474.0,
             ),
             "XMLname" : XMLValues(
@@ -2362,7 +2362,7 @@ class MCSampleValuesHelper():
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=6045332.0,
                 NEVT_UL16postVFP=5405979.0,
-                NEVT_UL17=11702567.0,
+                NEVT_UL17=11442350.0,
                 NEVT_UL18=12029507.0,
             ),
             "XMLname" : XMLValues(
@@ -2380,7 +2380,7 @@ class MCSampleValuesHelper():
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=3726992.0,
                 NEVT_UL16postVFP=4287246.0,
-                NEVT_UL17=9384525.0,
+                NEVT_UL17=9217675.0,
                 NEVT_UL18=9681521.0,
             ),
             "XMLname" : XMLValues(

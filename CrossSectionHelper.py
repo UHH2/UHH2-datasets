@@ -5273,7 +5273,7 @@ class MCSampleValuesHelper():
             ),
         },
 
-        "HpseudoToTTTo1L1Nu2J_m365_36p5_res" : {
+        "HpseudoToTTTo1L1Nu2J_m365_w36p5_res" : {
             "CrossSection" : XSValues(
                 XSec_13TeV=1.18764, XSecSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
             ),
@@ -5399,7 +5399,7 @@ class MCSampleValuesHelper():
             ),
         },
 
-        "HpseudoToTTTo1L1Nu2J_m365_36p5_int" : {
+        "HpseudoToTTTo1L1Nu2J_m365_w36p5_int" : {
             "CrossSection" : XSValues(
                 XSec_13TeV=-4.92926, XSecSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
             ),
@@ -6029,7 +6029,7 @@ class MCSampleValuesHelper():
             ),
         },
 
-        "HscalarToTTTo1L1Nu2J_m365_36p5_res" : {
+        "HscalarToTTTo1L1Nu2J_m365_w36p5_res" : {
             "CrossSection" : XSValues(
                 XSec_13TeV=0.0733756, XSecSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
             ),
@@ -6155,7 +6155,7 @@ class MCSampleValuesHelper():
             ),
         },
 
-        "HscalarToTTTo1L1Nu2J_m365_36p5_int" : {
+        "HscalarToTTTo1L1Nu2J_m365_w36p5_int" : {
             "CrossSection" : XSValues(
                 XSec_13TeV=-0.941809, XSecSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
             ),

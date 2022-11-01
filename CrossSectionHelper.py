@@ -6868,7 +6868,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=162000
+                NEVT_UL16preVFP=162000,
                 NEVT_UL16postVFP=138000.0,
                 NEVT_UL17=294000,
                 NEVT_UL18=300000,

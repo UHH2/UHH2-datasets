@@ -1912,10 +1912,10 @@ class MCSampleValuesHelper():
                 kFac_UL18=1.21, kFacSource_UL18="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=16890080.0,
-                NEVT_UL16postVFP=19298986.0,
-                NEVT_UL17=44317964.0,
-                NEVT_UL18=65878170.0,
+                NEVT_UL16preVFP=16823170.0,
+                NEVT_UL16postVFP=19174410.0,
+                NEVT_UL17=43970121.0,
+                NEVT_UL18=65413171.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/WJetsToLNu_HT-70To100_CP5_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/WJetsToLNu_HT-70To100_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -1936,10 +1936,10 @@ class MCSampleValuesHelper():
                 kFac_UL18=1.21, kFacSource_UL18="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=21546729.0,
-                NEVT_UL16postVFP=19589796.0,
-                NEVT_UL17=46889414.0,
-                NEVT_UL18=51152614.0,
+                NEVT_UL16preVFP=21265181.0,
+                NEVT_UL16postVFP=19477663.0,
+                NEVT_UL17=46725549.0,
+                NEVT_UL18=50895921.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/WJetsToLNu_HT-100To200_CP5_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/WJetsToLNu_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -1960,10 +1960,10 @@ class MCSampleValuesHelper():
                 kFac_UL18=1.21, kFacSource_UL18="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=17753639.0,
-                NEVT_UL16postVFP=14843484.0,
-                NEVT_UL17=41983921.0,
-                NEVT_UL18=57694527.0,
+                NEVT_UL16preVFP=17590327.0,
+                NEVT_UL16postVFP=14678930.0,
+                NEVT_UL17=41674635.0,
+                NEVT_UL18=57390500.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/WJetsToLNu_HT-200To400_CP5_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/WJetsToLNu_HT-200To400_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -1985,9 +1985,9 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=2467498.0,
-                NEVT_UL16postVFP=2115509.0,
-                NEVT_UL17=5445376.0,
-                NEVT_UL18=7373567.0,
+                NEVT_UL16postVFP=2091680.0,
+                NEVT_UL17=5417430.0,
+                NEVT_UL18=7235634.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/WJetsToLNu_HT-400To600_CP5_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/WJetsToLNu_HT-400To600_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -2008,10 +2008,10 @@ class MCSampleValuesHelper():
                 kFac_UL18=1.21, kFacSource_UL18="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=2320675.0,
-                NEVT_UL16postVFP=2228372.0,
-                NEVT_UL17=5441432.0,
-                NEVT_UL18=7576833.0,
+                NEVT_UL16preVFP=2288109.0,
+                NEVT_UL16postVFP=2194792.0,
+                NEVT_UL17=5370870.0,
+                NEVT_UL18=7529681.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/WJetsToLNu_HT-600To800_CP5_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/WJetsToLNu_HT-600To800_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -2032,10 +2032,10 @@ class MCSampleValuesHelper():
                 kFac_UL18=1.21, kFacSource_UL18="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=2510487.0,
+                NEVT_UL16preVFP=2486912.0,
                 NEVT_UL16postVFP=2060965.0,
                 NEVT_UL17=5064869.0,
-                NEVT_UL18=7164916.0,
+                NEVT_UL18=7141063.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/WJetsToLNu_HT-800To1200_CP5_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/WJetsToLNu_HT-800To1200_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -2056,10 +2056,10 @@ class MCSampleValuesHelper():
                 kFac_UL18=1.21, kFacSource_UL18="https://twiki.cern.ch/twiki/bin/view/CMS/SummaryTable1G25ns",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=2096223.0,
-                NEVT_UL16postVFP=2090561.0,
-                NEVT_UL17=4931671.0,
-                NEVT_UL18=6481518.0,
+                NEVT_UL16preVFP=2072226.0,
+                NEVT_UL16postVFP=2059841.0,
+                NEVT_UL17=4860758.0,
+                NEVT_UL18=6434664.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/WJetsToLNu_HT-1200To2500_CP5_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/WJetsToLNu_HT-1200To2500_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",

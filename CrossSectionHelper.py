@@ -2812,10 +2812,10 @@ class MCSampleValuesHelper():
                 XSec_13TeV=185900000, XSecSource_13TeV="GenXSecAnalyzer averaged over years"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=36222832.0,
+                NEVT_UL16preVFP=35729712.0,
                 NEVT_UL16postVFP=11080132.0,
                 NEVT_UL17=26032341.0,
-                NEVT_UL18=38318536.0,
+                NEVT_UL18=38225118.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_HT50to100_CP5_PSWeights_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/QCD_HT50to100_TuneCP5_PSWeights_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -2830,10 +2830,10 @@ class MCSampleValuesHelper():
                 XSec_13TeV=23610000, XSecSource_13TeV="GenXSecAnalyzer averaged over years"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=66607034.0,
-                NEVT_UL16postVFP=72830172.0,
-                NEVT_UL17=54265663.0,
-                NEVT_UL18=83633704.0,
+                NEVT_UL16preVFP=65503645.0,
+                NEVT_UL16postVFP=72640095.0,
+                NEVT_UL17=53299606.0,
+                NEVT_UL18=82213301.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_HT100to200_CP5_PSWeights_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/QCD_HT100to200_TuneCP5_PSWeights_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -2848,10 +2848,10 @@ class MCSampleValuesHelper():
                 XSec_13TeV=1551000, XSecSource_13TeV="GenXSecAnalyzer averaged over years"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=18273591.0,
-                NEVT_UL16postVFP=42818087.0,
-                NEVT_UL17=42433176.0,
-                NEVT_UL18=56417004.0,
+                NEVT_UL16preVFP=17969592.0,
+                NEVT_UL16postVFP=42723038.0,
+                NEVT_UL17=42316128.0,
+                NEVT_UL18=56298746.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_HT200to300_CP5_PSWeights_madgraph-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/QCD_HT200to300_TuneCP5_PSWeights_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -2866,10 +2866,10 @@ class MCSampleValuesHelper():
                 XSec_13TeV=324300, XSecSource_13TeV="GenXSecAnalyzer averaged over years"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=15226670.0,
-                NEVT_UL16postVFP=46479545.0,
-                NEVT_UL17=43100754.0,
-                NEVT_UL18=61063399.0,
+                NEVT_UL16preVFP=13586390.0,
+                NEVT_UL16postVFP=45502889.0,
+                NEVT_UL17=42914024.0,
+                NEVT_UL18=60991701.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_HT300to500_CP5_PSWeights_madgraph-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/QCD_HT300to500_TuneCP5_PSWeights_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -2884,10 +2884,10 @@ class MCSampleValuesHelper():
                 XSec_13TeV=30340, XSecSource_13TeV="GenXSecAnalyzer averaged over years"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=56138559.0,
-                NEVT_UL16postVFP=15114765.0,
-                NEVT_UL17=35816792.0,
-                NEVT_UL18=48805955.0,
+                NEVT_UL16preVFP=55497082.0,
+                NEVT_UL16postVFP=15066884.0,
+                NEVT_UL17=35745565.0,
+                NEVT_UL18=48640047.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_HT500to700_CP5_PSWeights_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/QCD_HT500to700_TuneCP5_PSWeights_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -2902,10 +2902,10 @@ class MCSampleValuesHelper():
                 XSec_13TeV=6440, XSecSource_13TeV="GenXSecAnalyzer averaged over years"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=15478579.0,
-                NEVT_UL16postVFP=13762836.0,
+                NEVT_UL16preVFP=15242034.0,
+                NEVT_UL16postVFP=13714842.0,
                 NEVT_UL17=33646855.0,
-                NEVT_UL18=48090314.0,
+                NEVT_UL18=47925782.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_HT700to1000_CP5_PSWeights_madgraph-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/QCD_HT700to1000_TuneCP5_PSWeights_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -2920,10 +2920,10 @@ class MCSampleValuesHelper():
                 XSec_13TeV=1118, XSecSource_13TeV="GenXSecAnalyzer averaged over years"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=13679903.0,
-                NEVT_UL16postVFP=12510685.0,
+                NEVT_UL16preVFP=13559959.0,
+                NEVT_UL16postVFP=12416669.0,
                 NEVT_UL17=10136610.0,
-                NEVT_UL18=14315177.0,
+                NEVT_UL18=14244456.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_HT1000to1500_CP5_PSWeights_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/QCD_HT1000to1500_TuneCP5_PSWeights_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -2938,10 +2938,10 @@ class MCSampleValuesHelper():
                 XSec_13TeV=108, XSecSource_13TeV="GenXSecAnalyzer averaged over years"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=9830970.0,
-                NEVT_UL16postVFP=9282278.0,
-                NEVT_UL17=7678756.0,
-                NEVT_UL18=10775587.0,
+                NEVT_UL16preVFP=9661950.0,
+                NEVT_UL16postVFP=9244228.0,
+                NEVT_UL17=7528926.0,
+                NEVT_UL18=10751607.0,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/QCD_HT1500to2000_CP5_PSWeights_madgraphMLM-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/QCD_HT1500to2000_TuneCP5_PSWeights_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -2956,7 +2956,7 @@ class MCSampleValuesHelper():
                 XSec_13TeV=22, XSecSource_13TeV="GenXSecAnalyzer averaged over years"
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=4923577.0,
+                NEVT_UL16preVFP=4827641.0,
                 NEVT_UL16postVFP=4843949.0,
                 NEVT_UL17=4089387.0,
                 NEVT_UL18=5278880.0,

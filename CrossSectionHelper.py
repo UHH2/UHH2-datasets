@@ -813,7 +813,7 @@ class MCSampleValuesHelper():
             "BranchingRatio" : BRValues(BRat_13TeV=0.457, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=30289246641.2,
-                NEVT_UL16postVFP=33593210585.2,
+                NEVT_UL16postVFP=33636223378.5,
                 NEVT_UL17=72581777583.5,
                 NEVT_UL18=1.05390931299e+11,
             ),

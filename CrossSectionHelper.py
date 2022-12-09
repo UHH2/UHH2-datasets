@@ -156,7 +156,7 @@ class MCSampleValuesHelper():
 
         "SingleMuon_Recount_RunA": {
             "NEvents" : NEventsValues(
-                NEVT_UL18=241591525,
+                NEVT_UL18=238999079,
             ),
             "XMLname" : XMLValues(
                 Xml_UL18="RunII_106X_v2/data-recount/UL18/SingleMuon_Run2018A-UL2018_MiniAODv2_GT36-v1.xml", XmlSource_UL18="/SingleMuon/Run2018A-UL2018_MiniAODv2_GT36-v1/MINIAOD",
@@ -165,9 +165,9 @@ class MCSampleValuesHelper():
 
         "SingleMuon_Recount_RunB": {
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=2789243+158145722,
-                NEVT_UL17=136300266,
-                NEVT_UL18=119918017,
+                NEVT_UL16preVFP=160735593,
+                NEVT_UL17=134661714,
+                NEVT_UL18=119877871,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/data-recount/UL16preVFP/SingleMuon_Run2016B-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/SingleMuon/Run2016B-{ver1,ver2}_HIPM_UL2016_MiniAODv2-v2/MINIAOD",
@@ -178,9 +178,9 @@ class MCSampleValuesHelper():
 
         "SingleMuon_Recount_RunC": {
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=67441308,
-                NEVT_UL17=165627777,
-                NEVT_UL18=110032072,
+                NEVT_UL16preVFP=67369994,
+                NEVT_UL17=164383789,
+                NEVT_UL18=109741163,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/data-recount/UL16preVFP/SingleMuon_Run2016C-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/SingleMuon/Run2016C-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
@@ -191,9 +191,9 @@ class MCSampleValuesHelper():
 
         "SingleMuon_Recount_RunD": {
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=98017996,
-                NEVT_UL17=70361660,
-                NEVT_UL18=513884680,
+                NEVT_UL16preVFP=97977441,
+                NEVT_UL17=69722390,
+                NEVT_UL18=513724019,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/data-recount/UL16preVFP/SingleMuon_Run2016D-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/SingleMuon/Run2016D-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
@@ -204,8 +204,8 @@ class MCSampleValuesHelper():
 
         "SingleMuon_Recount_RunE": {
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=90984718,
-                NEVT_UL17=154618774,
+                NEVT_UL16preVFP=90961745,
+                NEVT_UL17=152020221,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/data-recount/UL16preVFP/SingleMuon_Run2016E-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/SingleMuon/Run2016E-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
@@ -215,9 +215,9 @@ class MCSampleValuesHelper():
 
         "SingleMuon_Recount_RunF": {
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=57465359,
+                NEVT_UL16preVFP=57213127,
                 NEVT_UL16postVFP=8024195,
-                NEVT_UL17=242140980,
+                NEVT_UL17=238755357,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/data-recount/UL16preVFP/SingleMuon_Run2016F-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/SingleMuon/Run2016F-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
@@ -228,7 +228,7 @@ class MCSampleValuesHelper():
 
         "SingleMuon_Recount_RunG": {
             "NEvents" : NEventsValues(
-                NEVT_UL16postVFP=149916849,
+                NEVT_UL16postVFP=147188777,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16postVFP="RunII_106X_v2/data-recount/UL16postVFP/SingleMuon_Run2016G-UL2016_MiniAODv2-v2.xml", XmlSource_UL16postVFP="/SingleMuon/Run2016G-UL2016_MiniAODv2-v2/MINIAOD",
@@ -237,7 +237,7 @@ class MCSampleValuesHelper():
 
         "SingleMuon_Recount_RunH": {
             "NEvents" : NEventsValues(
-                NEVT_UL16postVFP=174035164,
+                NEVT_UL16postVFP=172247673,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16postVFP="RunII_106X_v2/data-recount/UL16postVFP/SingleMuon_Run2016H-UL2016_MiniAODv2-v2.xml", XmlSource_UL16postVFP="/SingleMuon/Run2016H-UL2016_MiniAODv2-v2/MINIAOD",

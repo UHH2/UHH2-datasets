@@ -786,7 +786,7 @@ class MCSampleValuesHelper():
         "JetHT_Recount_RunB": {
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=9726665+133752091,
-                NEVT_UL17=63043590,
+                NEVT_UL17=61999044,
                 NEVT_UL18=78255208,
             ),
             "XMLname" : XMLValues(
@@ -798,9 +798,9 @@ class MCSampleValuesHelper():
 
         "JetHT_Recount_RunC": {
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=46495988,
-                NEVT_UL17=96264601,
-                NEVT_UL18=70027804,
+                NEVT_UL16preVFP=46335578,
+                NEVT_UL17=95387879,
+                NEVT_UL18=69805746,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/data-recount/UL16preVFP/JetHT_Run2016C-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/JetHT/Run2016C-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
@@ -811,9 +811,9 @@ class MCSampleValuesHelper():
 
         "JetHT_Recount_RunD": {
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=73330042,
-                NEVT_UL17=46145204,
-                NEVT_UL18=356976276,
+                NEVT_UL16preVFP=72910640,
+                NEVT_UL17=45884861,
+                NEVT_UL18=353299566,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/data-recount/UL16preVFP/JetHT_Run2016D-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/JetHT/Run2016D-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
@@ -824,8 +824,8 @@ class MCSampleValuesHelper():
 
         "JetHT_Recount_RunE": {
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=69219288,
-                NEVT_UL17=89630771,
+                NEVT_UL16preVFP=68137485,
+                NEVT_UL17=88766313,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/data-recount/UL16preVFP/JetHT_Run2016E-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/JetHT/Run2016E-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
@@ -835,9 +835,9 @@ class MCSampleValuesHelper():
 
         "JetHT_Recount_RunF": {
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=41564915,
-                NEVT_UL16postVFP=6613811,
-                NEVT_UL17=115429972,
+                NEVT_UL16preVFP=41448546,
+                NEVT_UL16postVFP=6542357,
+                NEVT_UL17=114132344,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/data-recount/UL16preVFP/JetHT_Run2016F-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/JetHT/Run2016F-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
@@ -848,7 +848,7 @@ class MCSampleValuesHelper():
 
         "JetHT_Recount_RunG": {
             "NEvents" : NEventsValues(
-                NEVT_UL16postVFP=120745085,
+                NEVT_UL16postVFP=119175632,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16postVFP="RunII_106X_v2/data-recount/UL16postVFP/JetHT_Run2016G-UL2016_MiniAODv2-v2.xml", XmlSource_UL16postVFP="/JetHT/JetHT_Run2016G-UL2016_MiniAODv2-v2/MINIAOD",
@@ -857,7 +857,7 @@ class MCSampleValuesHelper():
 
         "JetHT_Recount_RunH": {
             "NEvents" : NEventsValues(
-                NEVT_UL16postVFP=124054791,
+                NEVT_UL16postVFP=123206820,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16postVFP="RunII_106X_v2/data-recount/UL16postVFP/JetHT_Run2016H-UL2016_MiniAODv2-v2.xml", XmlSource_UL16postVFP="/JetHT/JetHT_Run2016H-UL2016_MiniAODv2-v2/MINIAOD",

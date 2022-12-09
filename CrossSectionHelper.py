@@ -3713,13 +3713,13 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=27000,
-                # NEVT_UL16postVFP=23000,
+                NEVT_UL16postVFP=23000,
                 NEVT_UL17=50000,
                 NEVT_UL18=50000,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/AToZHToLLTTbar_MA-1200_MH-850_CP5_amcatnlo-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/AToZHToLLTTbar_MA-1200_MH-850_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
-                # Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/AToZHToLLTTbar_MA-1200_MH-850_CP5_amcatnlo-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/AToZHToLLTTbar_MA-1200_MH-850_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/AToZHToLLTTbar_MA-1200_MH-850_CP5_amcatnlo-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/AToZHToLLTTbar_MA-1200_MH-850_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
                 Xml_UL17="RunII_106X_v2/BSM/UL17/AToZHToLLTTbar_MA-1200_MH-850_CP5_amcatnlo-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/AToZHToLLTTbar_MA-1200_MH-850_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
                 Xml_UL18="RunII_106X_v2/BSM/UL18/AToZHToLLTTbar_MA-1200_MH-850_CP5_amcatnlo-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/AToZHToLLTTbar_MA-1200_MH-850_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM",
             ),
@@ -3984,13 +3984,13 @@ class MCSampleValuesHelper():
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=27000,
                 NEVT_UL16postVFP=23000,
-                # NEVT_UL17=50000,
+                NEVT_UL17=50000,
                 NEVT_UL18=50000,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/AToZHToLLTTbar_MA-700_MH-400_CP5_amcatnlo-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/AToZHToLLTTbar_MA-700_MH-400_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
                 Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/AToZHToLLTTbar_MA-700_MH-400_CP5_amcatnlo-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/AToZHToLLTTbar_MA-700_MH-400_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
-                # Xml_UL17="RunII_106X_v2/BSM/UL17/AToZHToLLTTbar_MA-700_MH-400_CP5_amcatnlo-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/AToZHToLLTTbar_MA-700_MH-400_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/AToZHToLLTTbar_MA-700_MH-400_CP5_amcatnlo-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/AToZHToLLTTbar_MA-700_MH-400_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
                 Xml_UL18="RunII_106X_v2/BSM/UL18/AToZHToLLTTbar_MA-700_MH-400_CP5_amcatnlo-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/AToZHToLLTTbar_MA-700_MH-400_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM",
             ),
         },
@@ -4037,13 +4037,13 @@ class MCSampleValuesHelper():
             ),
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=27000,
-                # NEVT_UL16postVFP=23000,
+                NEVT_UL16postVFP=23000,
                 NEVT_UL17=50000,
                 NEVT_UL18=50000,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/AToZHToLLTTbar_MA-900_MH-350_CP5_amcatnlo-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/AToZHToLLTTbar_MA-900_MH-350_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
-                # Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/AToZHToLLTTbar_MA-900_MH-350_CP5_amcatnlo-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/AToZHToLLTTbar_MA-900_MH-350_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/AToZHToLLTTbar_MA-900_MH-350_CP5_amcatnlo-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/AToZHToLLTTbar_MA-900_MH-350_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
                 Xml_UL17="RunII_106X_v2/BSM/UL17/AToZHToLLTTbar_MA-900_MH-350_CP5_amcatnlo-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/AToZHToLLTTbar_MA-900_MH-350_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
                 Xml_UL18="RunII_106X_v2/BSM/UL18/AToZHToLLTTbar_MA-900_MH-350_CP5_amcatnlo-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/AToZHToLLTTbar_MA-900_MH-350_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM",
             ),

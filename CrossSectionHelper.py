@@ -2668,7 +2668,7 @@ class MCSampleValuesHelper():
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=4667710.26898,
                 NEVT_UL16postVFP=4799237.98617,
-                NEVT_UL17=9671184.56819",
+                NEVT_UL17=9671184.56819,
                 NEVT_UL18=9539918.29005,
             ),
             "XMLname" : XMLValues(

@@ -89,7 +89,7 @@ class MCSampleValuesHelper():
         "SingleMuon_RunC": {
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=67441308,
-                NEVT_UL17=165627777,
+                NEVT_UL17=165652756,
                 NEVT_UL18=110032072,
             ),
             "XMLname" : XMLValues(

@@ -7423,7 +7423,7 @@ class MCSampleValuesHelper():
                 NEVT_UL16preVFP=212000,
                 NEVT_UL16postVFP=184000,
                 NEVT_UL17=349000,
-                NEVT_UL18=388000,
+                NEVT_UL18=346000,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgammaTgamma_M-2500_CP5_madgraph-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TstarTstarToTgammaTgamma_M-2500_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",

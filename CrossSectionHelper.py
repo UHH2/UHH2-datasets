@@ -156,7 +156,7 @@ class MCSampleValuesHelper():
 
         "SingleElectron_RunB": {
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=1422819+246440440,
+                NEVT_UL16preVFP=1422819+246433497,
                 NEVT_UL17=60537490,
             ),
             "XMLname" : XMLValues(
@@ -222,7 +222,7 @@ class MCSampleValuesHelper():
 
         "SingleElectron_RunH": {
             "NEvents" : NEventsValues(
-                NEVT_UL16postVFP=129021893,
+                NEVT_UL16postVFP=128998505,
             ),
             "XMLname" : XMLValues(
                 Xml_UL16postVFP="RunII_106X_v2/data/UL16postVFP/SingleElectron_Run2016H-UL2016_MiniAODv2-v2.xml", XmlSource_UL16postVFP="/SingleElectron/Run2016H-UL2016_MiniAODv2-v2/MINIAOD",

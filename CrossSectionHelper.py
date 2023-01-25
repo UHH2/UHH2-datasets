@@ -156,7 +156,7 @@ class MCSampleValuesHelper():
 
         "SingleElectron_RunB": {
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=1422819+246433497OB,
+                NEVT_UL16preVFP=1422819+246433497,
                 NEVT_UL17=60537490,
             ),
             "XMLname" : XMLValues(

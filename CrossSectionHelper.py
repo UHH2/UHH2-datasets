@@ -6211,7 +6211,7 @@ class MCSampleValuesHelper():
                 kFac_13TeV=1.73535, kFacSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=33916.23579,
+                NEVT_UL16preVFP=47685.614,
                 NEVT_UL16postVFP=46310.2176,
                 NEVT_UL17=78433.049824,
                 NEVT_UL18=83393.19688,
@@ -6400,7 +6400,7 @@ class MCSampleValuesHelper():
                 kFac_13TeV=1.8492, kFacSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-112923.82647,
+                NEVT_UL16preVFP=-158971.77207,
                 NEVT_UL16postVFP=-168691.582527,
                 NEVT_UL17=-270072.27317,
                 NEVT_UL18=-296149.69274,
@@ -6463,7 +6463,7 @@ class MCSampleValuesHelper():
                 kFac_13TeV=1.74916, kFacSource_13TeV="Provided by DESY group (Alexander Grohsjean)",
             ),
             "NEvents" : NEventsValues(
-                NEVT_UL16preVFP=-2444.5225328,
+                NEVT_UL16preVFP=-3449.2540378,
                 NEVT_UL16postVFP=-4074.59180793,
                 NEVT_UL17=-7511.3588611,
                 NEVT_UL18=-6124.662187,

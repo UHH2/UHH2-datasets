@@ -1,6 +1,7 @@
 from collections import namedtuple,Mapping
 import os
 
+
 def namedtuple_with_defaults(typename, field_names, default_values=()):
     T = namedtuple(typename, field_names)
     T.__new__.__defaults__ = (None,) * len(T._fields)
@@ -431,7 +432,7 @@ class MCSampleValuesHelper():
 
         "DoubleMuon_RunA": {
             "NEvents" : NEventsValues(
-                NEVT_UL18=75499908,
+                NEVT_UL18=75443368,  # DAS value: 75499908
             ),
             "XMLname" : XMLValues(
                 Xml_UL18="RunII_106X_v2/data/UL18/DoubleMuon_Run2018A-UL2018_MiniAODv2_GT36-v1.xml", XmlSource_UL18="/DoubleMuon/Run2018A-UL2018_MiniAODv2_GT36-v1/MINIAOD",
@@ -468,7 +469,7 @@ class MCSampleValuesHelper():
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=33861745,
                 NEVT_UL17=23075733,
-                NEVT_UL18=168594745,
+                NEVT_UL18=168594745,  # DAS value: 168620231
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/DoubleMuon_Run2016D-HIPM_UL2016_MiniAODv2-v1.xml", XmlSource_UL16preVFP="/DoubleMuon/Run2016D-HIPM_UL2016_MiniAODv2-v1/MINIAOD",
@@ -567,7 +568,7 @@ class MCSampleValuesHelper():
             "NEvents" : NEventsValues(
                 NEVT_UL16preVFP=30216940,
                 NEVT_UL16postVFP=4360689,
-                NEVT_UL17=74265012
+                NEVT_UL17=74173882  # DAS value: 74265012
             ),
             "XMLname" : XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/DoubleEG_Run2016F-HIPM_UL2016_MiniAODv2-v1.xml", XmlSource_UL16preVFP="/DoubleEG/Run2016F-HIPM_UL2016_MiniAODv2-v1/MINIAOD",

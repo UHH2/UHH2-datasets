@@ -994,10 +994,10 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
             "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.105, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
-                NEVT_UL16preVFP=1201120348.24,
-                NEVT_UL16postVFP=1287366416.39,
-                NEVT_UL17=3042787190.9,
-                NEVT_UL18=4087216088.14,
+                NEVT_UL16preVFP=1209778279.97,
+                NEVT_UL16postVFP=1255635933.36,
+                NEVT_UL17=2963180077.1,
+                NEVT_UL18=3972564611.91,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTTo2L2Nu_CP5CR2_powheg-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TTTo2L2Nu_TuneCP5CR2_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -1011,10 +1011,10 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
             "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.438, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
-                NEVT_UL16preVFP=16811187345.3,
-                NEVT_UL16postVFP=18662279691.8,
-                NEVT_UL17=42351325241.9,
-                NEVT_UL18=58144117327.4,
+                NEVT_UL16preVFP=16948358553.1,
+                NEVT_UL16postVFP=18382760775.3,
+                NEVT_UL17=40933451783.8,
+                NEVT_UL18=56497445197.3,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTToSemiLeptonic_CP5CR2_powheg-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TTToSemiLeptonic_TuneCP5CR2_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -1028,10 +1028,10 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
             "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.457, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
-                NEVT_UL16preVFP=12402704586.9,
-                NEVT_UL16postVFP=13030115527.9,
-                NEVT_UL17=31123011139.2,
-                NEVT_UL18=39742477949.7,
+                NEVT_UL16preVFP=12523219904.4,
+                NEVT_UL16postVFP=12838937782.3,
+                NEVT_UL17=30384752917.0,
+                NEVT_UL18=38597247611.8,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/TTToHadronic_CP5CR2_powheg-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TTToHadronic_TuneCP5CR2_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",

@@ -19,22 +19,8 @@ def namedtuple_with_defaults(typename, field_names, default_values=()):
 
 
 class MCSampleValuesHelperPrototype():
-    """Stores the cross sections and k-factors associated to a given physics process.
-
-    The lists of years and energies used to identify a given cross section are also stored within this class.
-    Given a process name, and year the appropriate cross section will be returned.
-
-    Args:
-        extra_dicts (:obj:`dict` of :obj:`dict` of :obj:`namedtuple_with_defaults`): Extra cross sections and k-factors to add to the __values_dict.
-
-    Example:
-        from CrossSectionHelper import *
-        helper = MCSampleValuesHelper()
-        helper.get_lumi("TTbarTo2L2Nu","13TeV","2018")
-        helper.get_xs("TTbarTo2L2Nu","13TeV","2018")
-        helper.get_nevt("TTbarTo2L2Nu","13TeV","2018")
-        helper.get_br("TTbarTo2L2Nu","13TeV","2018")
-        helper.get_xml("TTbar","13TeV","2016")
+    """
+    Prototype class for MCSampleValuesHelper
     """
 
     __years = ["UL16preVFP","UL16postVFP","UL17","UL18"]
@@ -593,7 +579,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=30216940,
                 NEVT_UL16postVFP=4360689,
-                NEVT_UL17=74173882  # DAS value: 74265012
+                NEVT_UL17=74265012
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/DoubleEG_Run2016F-HIPM_UL2016_MiniAODv2-v1.xml", XmlSource_UL16preVFP="/DoubleEG/Run2016F-HIPM_UL2016_MiniAODv2-v1/MINIAOD",

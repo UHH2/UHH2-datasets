@@ -1834,7 +1834,7 @@ class MCSignalValuesHelper(P):
                 NEVT_UL16preVFP=27000,
                 NEVT_UL16postVFP=23000,
                 NEVT_UL17=50000,
-                NEVT_UL18=49000,
+                NEVT_UL18=50000,
             ),
             "XMLname" : P.XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/AToZHToLLTTbar_MA-1600_MH-350_CP5_amcatnlo-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/AToZHToLLTTbar_MA-1600_MH-350_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",

@@ -443,7 +443,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
 
         "DoubleMuon_RunA": {
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
-                NEVT_UL18=75443368,  # DAS value: 75499908
+                NEVT_UL18=75499908,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
                 Xml_UL18="RunII_106X_v2/data/UL18/DoubleMuon_Run2018A-UL2018_MiniAODv2_GT36-v1.xml", XmlSource_UL18="/DoubleMuon/Run2018A-UL2018_MiniAODv2_GT36-v1/MINIAOD",
@@ -480,7 +480,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=33861745,
                 NEVT_UL17=23075733,
-                NEVT_UL18=168594745,  # DAS value: 168620231
+                NEVT_UL18=168618482,  # DAS value: 168620231
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/DoubleMuon_Run2016D-HIPM_UL2016_MiniAODv2-v1.xml", XmlSource_UL16preVFP="/DoubleMuon/Run2016D-HIPM_UL2016_MiniAODv2-v1/MINIAOD",

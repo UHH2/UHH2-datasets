@@ -195,7 +195,7 @@ class MCSignalValuesHelper(P):
             "NEvents" : P.NEventsValues(
                 NEVT_UL16preVFP=27000,
                 NEVT_UL16postVFP=23000,
-                NEVT_UL17=98000,
+                NEVT_UL17=49000,
                 NEVT_UL18=50000,
             ),
             "XMLname" : P.XMLValues(
@@ -3183,7 +3183,7 @@ class MCSignalValuesHelper(P):
             "NEvents" : P.NEventsValues(
                 NEVT_UL16preVFP=27000,
                 NEVT_UL16postVFP=23000,
-                NEVT_UL17=98000,
+                NEVT_UL17=49000,
                 NEVT_UL18=0.0,
             ),
             "XMLname" : P.XMLValues(
@@ -4849,5 +4849,4 @@ class MCSignalValuesHelper(P):
                 Xml_UL18="RunII_106X_v2/BSM/UL18/AToZHToLLTTbar_MA-950_MH-850_CP5_amcatnlo-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/AToZHToLLTTbar_MA-950_MH-850_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM",
             ),
         },
-
     }

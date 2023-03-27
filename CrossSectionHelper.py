@@ -6740,10 +6740,16 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=108000.0,
                 NEVT_UL16postVFP=92000.0,
+                NEVT_UL17=200000.0,
+                NEVT_UL18=200000.0,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgammaTgamma_M-700_CP5_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgammaTgamma_M-700_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
                 Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-700_CP5_madgraph-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-700_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgammaTgamma_M-700_CP5_madgraph-pythia8_Summer20UL17_v1.xml", XmlSource_UL17="/TstarTstarToTgammaTgamma_M-700_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgammaTgamma_M-700_CP5_madgraph-pythia8_Summer20UL18_v3.xml", XmlSource_UL18="/TstarTstarToTgammaTgamma_M-700_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v3/MINIAODSIM"
             ),
         },
 
@@ -6770,10 +6776,16 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=108000.0,
                 NEVT_UL16postVFP=92000.0,
+                NEVT_UL17=197000.0,
+                NEVT_UL18=200000.0,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgammaTgamma_M-900_CP5_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgammaTgamma_M-900_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
                 Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-900_CP5_madgraph-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-900_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgammaTgamma_M-900_CP5_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgammaTgamma_M-900_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgammaTgamma_M-900_CP5_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgammaTgamma_M-900_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM",
             ),
         },
 
@@ -6782,10 +6794,16 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=108000.0,
                 NEVT_UL16postVFP=92000.0,
+                NEVT_UL17=200000.0,
+                NEVT_UL18=191000.0,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgammaTgamma_M-1000_CP5_madgraph-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TstarTstarToTgammaTgamma_M-1000_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
                 Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-1000_CP5_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-1000_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgammaTgamma_M-1000_CP5_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgammaTgamma_M-1000_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgammaTgamma_M-1000_CP5_madgraph-pythia8_Summer20UL18_v3.xml", XmlSource_UL18="/TstarTstarToTgammaTgamma_M-1000_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v3/MINIAODSIM",
             ),
         },
 
@@ -6794,10 +6812,16 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=108000.0,
                 NEVT_UL16postVFP=68000.0,
+                NEVT_UL17=200000.0,
+                NEVT_UL18=200000.0,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgammaTgamma_M-1100_CP5_madgraph-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TstarTstarToTgammaTgamma_M-1100_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
                 Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-1100_CP5_madgraph-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-1100_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgammaTgamma_M-1100_CP5_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgammaTgamma_M-1100_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgammaTgamma_M-1100_CP5_madgraph-pythia8_Summer20UL18_v3.xml", XmlSource_UL18="/TstarTstarToTgammaTgamma_M-1100_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v3/MINIAODSIM",
             ),
         },
 
@@ -6806,10 +6830,16 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=96000.0,
                 NEVT_UL16postVFP=92000.0,
+                NEVT_UL17=200000.0,
+                NEVT_UL18=200000.0,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgammaTgamma_M-1200_CP5_madgraph-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TstarTstarToTgammaTgamma_M-1200_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
                 Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-1200_CP5_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-1200_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgammaTgamma_M-1200_CP5_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgammaTgamma_M-1200_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgammaTgamma_M-1200_CP5_madgraph-pythia8_Summer20UL18_v3.xml", XmlSource_UL18="/TstarTstarToTgammaTgamma_M-1200_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v3/MINIAODSIM",
             ),
         },
 
@@ -6818,10 +6848,16 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=108000.0,
                 NEVT_UL16postVFP=92000.0,
+                NEVT_UL17=200000.0,
+                NEVT_UL18=200000.0,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgammaTgamma_M-1300_CP5_madgraph-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TstarTstarToTgammaTgamma_M-1300_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
                 Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-1300_CP5_madgraph-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-1300_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgammaTgamma_M-1300_CP5_madgraph-pythia8_Summer20UL17_v3.xml", XmlSource_UL17="/TstarTstarToTgammaTgamma_M-1300_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v3/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgammaTgamma_M-1300_CP5_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgammaTgamma_M-1300_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM",
             ),
         },
 
@@ -6830,10 +6866,16 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=108000.0,
                 NEVT_UL16postVFP=92000.0,
+                NEVT_UL17=200000.0,
+                NEVT_UL18=197000.0,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgammaTgamma_M-1400_CP5_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgammaTgamma_M-1400_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
                 Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-1400_CP5_madgraph-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-1400_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgammaTgamma_M-1400_CP5_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgammaTgamma_M-1400_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgammaTgamma_M-1400_CP5_madgraph-pythia8_Summer20UL18_v3.xml", XmlSource_UL18="/TstarTstarToTgammaTgamma_M-1400_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v3/MINIAODSIM",
             ),
         },
 
@@ -6842,10 +6884,16 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=108000.0,
                 NEVT_UL16postVFP=92000.0,
+                NEVT_UL17=200000.0,
+                NEVT_UL18=200000.0,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgammaTgamma_M-1500_CP5_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgammaTgamma_M-1500_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
                 Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-1500_CP5_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-1500_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgammaTgamma_M-1500_CP5_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgammaTgamma_M-1500_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgammaTgamma_M-1500_CP5_madgraph-pythia8_Summer20UL18_v3.xml", XmlSource_UL18="/TstarTstarToTgammaTgamma_M-1500_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v3/MINIAODSIM",
             ),
         },
 
@@ -6872,10 +6920,16 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=162000,
                 NEVT_UL16postVFP=138000,
+                NEVT_UL17=297000,
+                NEVT_UL18=297000,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgammaTgamma_M-1700_CP5_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgammaTgamma_M-1700_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
                 Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-1700_CP5_madgraph-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-1700_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgammaTgamma_M-1700_CP5_madgraph-pythia8_Summer20UL17_v3.xml", XmlSource_UL17="/TstarTstarToTgammaTgamma_M-1700_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v3/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgammaTgamma_M-1700_CP5_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgammaTgamma_M-1700_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM",
             ),
         },
 
@@ -6902,10 +6956,16 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=158000,
                 NEVT_UL16postVFP=138000,
+                NEVT_UL17=300000,
+                NEVT_UL18=300000,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgammaTgamma_M-1900_CP5_madgraph-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TstarTstarToTgammaTgamma_M-1900_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
                 Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-1900_CP5_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-1900_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgammaTgamma_M-1900_CP5_madgraph-pythia8_Summer20UL17_v1.xml", XmlSource_UL17="/TstarTstarToTgammaTgamma_M-1900_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgammaTgamma_M-1900_CP5_madgraph-pythia8_Summer20UL18_v3.xml", XmlSource_UL18="/TstarTstarToTgammaTgamma_M-1900_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v3/MINIAODSIM",
             ),
         },
 
@@ -6914,10 +6974,16 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=216000,
                 NEVT_UL16postVFP=184000,
+                NEVT_UL17=376000,
+                NEVT_UL18=391000,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgammaTgamma_M-2000_CP5_madgraph-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TstarTstarToTgammaTgamma_M-2000_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
                 Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-2000_CP5_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-2000_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgammaTgamma_M-2000_CP5_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgammaTgamma_M-2000_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgammaTgamma_M-2000_CP5_madgraph-pythia8_Summer20UL18_v3.xml", XmlSource_UL18="/TstarTstarToTgammaTgamma_M-2000_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v3/MINIAODSIM",
             ),
         },
 
@@ -6926,10 +6992,16 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=216000,
                 NEVT_UL16postVFP=184000,
+                NEVT_UL17=400000,
+                NEVT_UL18=400000,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgammaTgamma_M-2250_CP5_madgraph-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TstarTstarToTgammaTgamma_M-2250_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
                 Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-2250_CP5_madgraph-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-2250_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgammaTgamma_M-2250_CP5_madgraph-pythia8_Summer20UL17_v1.xml", XmlSource_UL17="/TstarTstarToTgammaTgamma_M-2250_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgammaTgamma_M-2250_CP5_madgraph-pythia8_Summer20UL18_v1.xml", XmlSource_UL18="/TstarTstarToTgammaTgamma_M-2250_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM",
             ),
         },
 
@@ -6940,8 +7012,8 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=212000,
                 NEVT_UL16postVFP=184000,
-                NEVT_UL17=349000,
-                NEVT_UL18=346000,
+                NEVT_UL17=373000,
+                NEVT_UL18=364000,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgammaTgamma_M-2500_CP5_madgraph-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/TstarTstarToTgammaTgamma_M-2500_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
@@ -6956,10 +7028,16 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=214000,
                 NEVT_UL16postVFP=184000,
+                NEVT_UL17=391000,
+                NEVT_UL18=379000,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgammaTgamma_M-2750_CP5_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgammaTgamma_M-2750_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
                 Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-2750_CP5_madgraph-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-2750_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgammaTgamma_M-2750_CP5_madgraph-pythia8_Summer20UL17_v3.xml", XmlSource_UL17="/TstarTstarToTgammaTgamma_M-2750_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v3/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgammaTgamma_M-2750_CP5_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgammaTgamma_M-2750_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM",
             ),
         },
 
@@ -6968,10 +7046,16 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=212000,
                 NEVT_UL16postVFP=184000,
+                NEVT_UL17=364000,
+                NEVT_UL18=391000,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgammaTgamma_M-3000_CP5_madgraph-pythia8_Summer20UL16APV_v3.xml", XmlSource_UL16preVFP="/TstarTstarToTgammaTgamma_M-3000_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v3/MINIAODSIM",
                 Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-3000_CP5_madgraph-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-3000_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgammaTgamma_M-3000_CP5_madgraph-pythia8_Summer20UL17_v1.xml", XmlSource_UL17="/TstarTstarToTgammaTgamma_M-3000_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgammaTgamma_M-3000_CP5_madgraph-pythia8_Summer20UL18_v1.xml", XmlSource_UL18="/TstarTstarToTgammaTgamma_M-3000_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM",
             ),
         },
 

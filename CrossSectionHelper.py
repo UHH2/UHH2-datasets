@@ -1783,6 +1783,23 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
             ),
         },
 
+        "DYJetsToLL_M-50_CP5_amcatnloFXFX" : {
+            "CrossSection"
+            : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=6404.0, XSecSource_13TeV="XSDB"),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=1.54570797104e+12,
+                NEVT_UL16postVFP=1.25525271565e+12,
+                NEVT_UL17=3.32781860238e+12,
+                NEVT_UL18=3.34241063605e+12,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/DYJetsToLL_M-50_CP5_amcatnloFXFX-pythia8_Summer20UL16APV_v1.xml", XmlSource_UL16preVFP="/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/SM/UL16postVFP/DYJetsToLL_M-50_CP5_amcatnloFXFX-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/SM/UL17/DYJetsToLL_M-50_CP5_amcatnloFXFX-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/SM/UL18/DYJetsToLL_M-50_CP5_amcatnloFXFX-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM",
+            ),
+        },
+
         "DYJetsToLL_M-50_HT-70to100" : {
             "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=140.1, XSecSource_13TeV="GenXSecAnalyzer"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(

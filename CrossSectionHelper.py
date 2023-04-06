@@ -3068,7 +3068,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         "ZprimeToZHToZlepHinc-800": {
                 "CrossSection" : MCSampleValuesHelperPrototype.XSValues( XSec_13TeV=1, XSecSource_13TeV="XSDB (LO)"),
                 "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
-                    NEVT_UL16preVFP=-54000,
+                    NEVT_UL16preVFP=54000,
                     NEVT_UL16postVFP=46000,
                     NEVT_UL17=100000,
                     NEVT_UL18=100000,

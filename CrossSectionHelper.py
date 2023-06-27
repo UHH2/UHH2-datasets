@@ -406,7 +406,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/MuonEG_Run2016E-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/MuonEG/Run2016E-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
-                Xml_UL17="RunII_106X_v2/data/UL17/MuonEG_Run2017E-UL2017_MiniAODv2-v1.xml", XmlSource_UL18="/MuonEG/Run2017E-UL2017_MiniAODv2-v1/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data/UL17/MuonEG_Run2017E-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/MuonEG/Run2017E-UL2017_MiniAODv2-v1/MINIAOD",
             ),
         },
 
@@ -418,8 +418,8 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/MuonEG_Run2016F-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/MuonEG/Run2016F-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
-                Xml_UL16postVFP="RunII_106X_v2/data/UL16postVFP/MuonEG_Run2016F-UL2016_MiniAODv2-v2.xml", XmlSource_UL16postVFP="/MuonEG/Run2016H-UL2016_MiniAODv2-v2/MINIAOD",
-                Xml_UL17="RunII_106X_v2/data/UL17/MuonEG_Run2017F-UL2017_MiniAODv2-v1.xml", XmlSource_UL18="/MuonEG/Run2017F-UL2017_MiniAODv2-v1/MINIAOD",
+                Xml_UL16postVFP="RunII_106X_v2/data/UL16postVFP/MuonEG_Run2016F-UL2016_MiniAODv2-v2.xml", XmlSource_UL16postVFP="/MuonEG/Run2016F-UL2016_MiniAODv2-v2/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data/UL17/MuonEG_Run2017F-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/MuonEG/Run2017F-UL2017_MiniAODv2-v1/MINIAOD",
             ),
         },
 

@@ -6867,7 +6867,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
             ),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=108000.0,
-                NEVT_UL16postVFP=68000.0,
+                NEVT_UL16postVFP=92000.0,
                 NEVT_UL17=200000.0,
                 NEVT_UL18=200000.0,
             ),
@@ -6958,7 +6958,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=162000,
                 NEVT_UL16postVFP=138000.0,
-                NEVT_UL17=294000,
+                NEVT_UL17=276000,
                 NEVT_UL18=300000,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
@@ -6992,9 +6992,9 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
-                NEVT_UL16preVFP=162000,
+                NEVT_UL16preVFP=138000,
                 NEVT_UL16postVFP=127000,
-                NEVT_UL17=300000,
+                NEVT_UL17=281000,
                 NEVT_UL18=300000,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(

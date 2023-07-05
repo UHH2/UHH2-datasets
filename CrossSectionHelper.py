@@ -406,7 +406,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/MuonEG_Run2016E-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/MuonEG/Run2016E-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
-                Xml_UL17="RunII_106X_v2/data/UL17/MuonEG_Run2017E-UL2017_MiniAODv2-v1.xml", XmlSource_UL18="/MuonEG/Run2017E-UL2017_MiniAODv2-v1/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data/UL17/MuonEG_Run2017E-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/MuonEG/Run2017E-UL2017_MiniAODv2-v1/MINIAOD",
             ),
         },
 
@@ -418,8 +418,8 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/data/UL16preVFP/MuonEG_Run2016F-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/MuonEG/Run2016F-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
-                Xml_UL16postVFP="RunII_106X_v2/data/UL16postVFP/MuonEG_Run2016F-UL2016_MiniAODv2-v2.xml", XmlSource_UL16postVFP="/MuonEG/Run2016H-UL2016_MiniAODv2-v2/MINIAOD",
-                Xml_UL17="RunII_106X_v2/data/UL17/MuonEG_Run2017F-UL2017_MiniAODv2-v1.xml", XmlSource_UL18="/MuonEG/Run2017F-UL2017_MiniAODv2-v1/MINIAOD",
+                Xml_UL16postVFP="RunII_106X_v2/data/UL16postVFP/MuonEG_Run2016F-UL2016_MiniAODv2-v2.xml", XmlSource_UL16postVFP="/MuonEG/Run2016F-UL2016_MiniAODv2-v2/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data/UL17/MuonEG_Run2017F-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/MuonEG/Run2017F-UL2017_MiniAODv2-v1/MINIAOD",
             ),
         },
 
@@ -6884,7 +6884,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
             ),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=108000.0,
-                NEVT_UL16postVFP=68000.0,
+                NEVT_UL16postVFP=92000.0,
                 NEVT_UL17=200000.0,
                 NEVT_UL18=200000.0,
             ),
@@ -6975,7 +6975,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=162000,
                 NEVT_UL16postVFP=138000.0,
-                NEVT_UL17=294000,
+                NEVT_UL17=276000,
                 NEVT_UL18=300000,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
@@ -7009,9 +7009,9 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
             ),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
-                NEVT_UL16preVFP=162000,
+                NEVT_UL16preVFP=138000,
                 NEVT_UL16postVFP=127000,
-                NEVT_UL17=300000,
+                NEVT_UL17=281000,
                 NEVT_UL18=300000,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(

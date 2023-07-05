@@ -166,6 +166,96 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
             ),
         },
 
+        "SingleMuon_Recount_RunA": {
+            "NEvents" : NEventsValues(
+                NEVT_UL18=238999079,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL18="RunII_106X_v2/data-recount/UL18/SingleMuon_Run2018A-UL2018_MiniAODv2_GT36-v1.xml", XmlSource_UL18="/SingleMuon/Run2018A-UL2018_MiniAODv2_GT36-v1/MINIAOD",
+            ),
+        },
+
+        "SingleMuon_Recount_RunB": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=160735593,
+                NEVT_UL17=134661714,
+                NEVT_UL18=119877871,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/data-recount/UL16preVFP/SingleMuon_Run2016B-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/SingleMuon/Run2016B-{ver1,ver2}_HIPM_UL2016_MiniAODv2-v2/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data-recount/UL17/SingleMuon_Run2017B-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/SingleMuon/Run2017B-UL2017_MiniAODv2-v1/MINIAOD",
+                Xml_UL18="RunII_106X_v2/data-recount/UL18/SingleMuon_Run2018B-UL2018_MiniAODv2_GT36-v1.xml", XmlSource_UL18="/SingleMuon/Run2018B-UL2018_MiniAODv2_GT36-v1/MINIAOD",
+            ),
+        },
+
+        "SingleMuon_Recount_RunC": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=67369994,
+                NEVT_UL17=164383789,
+                NEVT_UL18=109741163,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/data-recount/UL16preVFP/SingleMuon_Run2016C-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/SingleMuon/Run2016C-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data-recount/UL17/SingleMuon_Run2017C-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/SingleMuon/Run2017C-UL2017_MiniAODv2-v1/MINIAOD",
+                Xml_UL18="RunII_106X_v2/data-recount/UL18/SingleMuon_Run2018C-UL2018_MiniAODv2_GT36-v2.xml", XmlSource_UL18="/SingleMuon/Run2018C-UL2018_MiniAODv2_GT36-v2/MINIAOD",
+            ),
+        },
+
+        "SingleMuon_Recount_RunD": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=97977441,
+                NEVT_UL17=69722390,
+                NEVT_UL18=513724019,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/data-recount/UL16preVFP/SingleMuon_Run2016D-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/SingleMuon/Run2016D-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data-recount/UL17/SingleMuon_Run2017D-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/SingleMuon/Run2017D-UL2017_MiniAODv2-v1/MINIAOD",
+                Xml_UL18="RunII_106X_v2/data-recount/UL18/SingleMuon_Run2018D-UL2018_MiniAODv2_GT36-v1.xml", XmlSource_UL18="/SingleMuon/Run2018D-UL2018_MiniAODv2_GT36-v1/MINIAOD",
+            ),
+        },
+
+        "SingleMuon_Recount_RunE": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=90961745,
+                NEVT_UL17=152020221,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/data-recount/UL16preVFP/SingleMuon_Run2016E-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/SingleMuon/Run2016E-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data-recount/UL17/SingleMuon_Run2017E-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/SingleMuon/Run2017E-UL2017_MiniAODv2-v1/MINIAOD",
+            ),
+        },
+
+        "SingleMuon_Recount_RunF": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=57213127,
+                NEVT_UL16postVFP=8024195,
+                NEVT_UL17=238755357,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/data-recount/UL16preVFP/SingleMuon_Run2016F-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/SingleMuon/Run2016F-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
+                Xml_UL16postVFP="RunII_106X_v2/data-recount/UL16postVFP/SingleMuon_Run2016F-UL2016_MiniAODv2-v2.xml", XmlSource_UL16postVFP="/SingleMuon/Run2016F-UL2016_MiniAODv2-v2/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data-recount/UL17/SingleMuon_Run2017F-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/SingleMuon/Run2017F-UL2017_MiniAODv2-v1/MINIAOD",
+            ),
+        },
+
+        "SingleMuon_Recount_RunG": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16postVFP=147188777,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16postVFP="RunII_106X_v2/data-recount/UL16postVFP/SingleMuon_Run2016G-UL2016_MiniAODv2-v2.xml", XmlSource_UL16postVFP="/SingleMuon/Run2016G-UL2016_MiniAODv2-v2/MINIAOD",
+            ),
+        },
+
+        "SingleMuon_Recount_RunH": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16postVFP=172247673,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16postVFP="RunII_106X_v2/data-recount/UL16postVFP/SingleMuon_Run2016H-UL2016_MiniAODv2-v2.xml", XmlSource_UL16postVFP="/SingleMuon/Run2016H-UL2016_MiniAODv2-v2/MINIAOD",
+            ),
+        },
+        
         "SingleElectron_RunB": {
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=1422819+246433497,
@@ -693,6 +783,96 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
                 Xml_UL16postVFP="RunII_106X_v2/data/UL16postVFP/JetHT_Run2016H-UL2016_MiniAODv2-v2.xml", XmlSource_UL16postVFP="/JetHT/JetHT_Run2016H-UL2016_MiniAODv2-v2/MINIAOD",
+            ),
+        },
+
+        "JetHT_Recount_RunA": {
+            "NEvents" : NEventsValues(
+                NEVT_UL18=171484635,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL18="RunII_106X_v2/data-recount/UL18/JetHT_Run2018A-UL2018_MiniAODv2_GT36-v1.xml", XmlSource_UL18="/JetHT/Run2018A-UL2018_MiniAODv2_GT36-v1/MINIAOD",
+            ),
+        },
+
+        "JetHT_Recount_RunB": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=9726665+133752091,
+                NEVT_UL17=61999044,
+                NEVT_UL18=78255208,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/data-recount/UL16preVFP/JetHT_Run2016B-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/JetHT/Run2016B-{ver1,ver2}_HIPM_UL2016_MiniAODv2-v2/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data-recount/UL17/JetHT_Run2017B-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/JetHT/JetHT_Run2017B-UL2017_MiniAODv2-v1/MINIAOD",
+                Xml_UL18="RunII_106X_v2/data-recount/UL18/JetHT_Run2018B-UL2018_MiniAODv2_GT36-v1.xml", XmlSource_UL18="/JetHT/Run2018B-UL2018_MiniAODv2_GT36-v1/MINIAOD",
+            ),
+        },
+
+        "JetHT_Recount_RunC": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=46335578,
+                NEVT_UL17=95387879,
+                NEVT_UL18=69805746,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/data-recount/UL16preVFP/JetHT_Run2016C-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/JetHT/Run2016C-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data-recount/UL17/JetHT_Run2017C-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/JetHT/JetHT_Run2017C-UL2017_MiniAODv2-v1/MINIAOD",
+                Xml_UL18="RunII_106X_v2/data-recount/UL18/JetHT_Run2018C-UL2018_MiniAODv2_GT36-v1.xml", XmlSource_UL18="/JetHT/Run2018C-UL2018_MiniAODv2_GT36-v1/MINIAOD",
+            ),
+        },
+
+        "JetHT_Recount_RunD": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=72910640,
+                NEVT_UL17=45884861,
+                NEVT_UL18=353299566,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/data-recount/UL16preVFP/JetHT_Run2016D-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/JetHT/Run2016D-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data-recount/UL17/JetHT_Run2017D-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/JetHT/JetHT_Run2017D-UL2017_MiniAODv2-v1/MINIAOD",
+                Xml_UL18="RunII_106X_v2/data-recount/UL18/JetHT_Run2018D-UL2018_MiniAODv2-v2.xml", XmlSource_UL18="/JetHT/Run2018D-UL2018_MiniAODv2-v2/MINIAOD",
+            ),
+        },
+
+        "JetHT_Recount_RunE": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=68137485,
+                NEVT_UL17=88766313,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/data-recount/UL16preVFP/JetHT_Run2016E-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/JetHT/Run2016E-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data-recount/UL17/JetHT_Run2017E-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/JetHT/JetHT_Run2017E-UL2017_MiniAODv2-v1/MINIAOD",
+            ),
+        },
+
+        "JetHT_Recount_RunF": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16preVFP=41448546,
+                NEVT_UL16postVFP=6542357,
+                NEVT_UL17=114132344,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/data-recount/UL16preVFP/JetHT_Run2016F-HIPM_UL2016_MiniAODv2-v2.xml", XmlSource_UL16preVFP="/JetHT/Run2016F-HIPM_UL2016_MiniAODv2-v2/MINIAOD",
+                Xml_UL16postVFP="RunII_106X_v2/data-recount/UL16postVFP/JetHT_Run2016F-UL2016_MiniAODv2-v2.xml", XmlSource_UL16postVFP="/JetHT/JetHT_Run2016F-UL2016_MiniAODv2-v2/MINIAOD",
+                Xml_UL17="RunII_106X_v2/data-recount/UL17/JetHT_Run2017F-UL2017_MiniAODv2-v1.xml", XmlSource_UL17="/JetHT/JetHT_Run2017F-UL2017_MiniAODv2-v1/MINIAOD",
+            ),
+        },
+
+        "JetHT_Recount_RunG": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16postVFP=119175632,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16postVFP="RunII_106X_v2/data-recount/UL16postVFP/JetHT_Run2016G-UL2016_MiniAODv2-v2.xml", XmlSource_UL16postVFP="/JetHT/JetHT_Run2016G-UL2016_MiniAODv2-v2/MINIAOD",
+            ),
+        },
+
+        "JetHT_Recount_RunH": {
+            "NEvents" : NEventsValues(
+                NEVT_UL16postVFP=123206820,
+            ),
+            "XMLname" : XMLValues(
+                Xml_UL16postVFP="RunII_106X_v2/data-recount/UL16postVFP/JetHT_Run2016H-UL2016_MiniAODv2-v2.xml", XmlSource_UL16postVFP="/JetHT/JetHT_Run2016H-UL2016_MiniAODv2-v2/MINIAOD",
             ),
         },
 

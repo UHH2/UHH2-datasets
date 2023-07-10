@@ -1725,6 +1725,12 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
                 XSec_UL17=75.92,
                 XSec_UL18=75.91,
             ),
+            "kFactor" : MCSampleValuesHelperPrototype.kFactorValues(
+                kFac_UL16preVFP=1.5626645603, kFacSource_UL16preVFP="NNLO/LO (https://arxiv.org/abs/1408.5243)",
+                kFac_UL16postVFP=1.563693848, kFacSource_UL16postVFP="NNLO/LO (https://arxiv.org/abs/1408.5243)",
+                kFac_UL17=1.563487882, kFacSource_UL17="NNLO/LO (https://arxiv.org/abs/1408.5243)",
+                kFac_UL18=1.563693848, kFacSource_UL18="NNLO/LO (https://arxiv.org/abs/1408.5243)",
+            ),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=15739128.5188,
                 NEVT_UL16postVFP=15796137.099,
@@ -1747,6 +1753,12 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
                 XSec_UL17=27.54,
                 XSec_UL18=27.58,
             ),
+            "kFactor" : MCSampleValuesHelperPrototype.kFactorValues(
+                kFac_UL16preVFP=1.6965517241, kFacSource_UL16preVFP="NLO/LO (https://arxiv.org/abs/1105.0020)",
+                kFac_UL16postVFP=1.6959361393, kFacSource_UL16postVFP="NLO/LO (https://arxiv.org/abs/1105.0020)",
+                kFac_UL17=1.697167756, kFacSource_UL17="NLO/LO (https://arxiv.org/abs/1105.0020)",
+                kFac_UL18=1.6947063089, kFacSource_UL18="NLO/LO (https://arxiv.org/abs/1105.0020)",
+            ),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=7910000.0,
                 NEVT_UL16postVFP=7536000.0,
@@ -1768,6 +1780,12 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
                 XSec_UL16postVFP=12.13,
                 XSec_UL17=12.14,
                 XSec_UL18=12.13,
+            ),
+            "kFactor" : MCSampleValuesHelperPrototype.kFactorValues(
+                kFac_UL16preVFP=1.3952145215, kFacSource_UL16preVFP="NNLO/LO (https://arxiv.org/abs/1405.2219)",
+                kFac_UL16postVFP=1.3940643034, kFacSource_UL16postVFP="NNLO/LO (https://arxiv.org/abs/1405.2219)",
+                kFac_UL17=1.3929159802, kFacSource_UL17="NNLO/LO (https://arxiv.org/abs/1405.2219)",
+                kFac_UL18=1.3940643034, kFacSource_UL18="NNLO/LO (https://arxiv.org/abs/1405.2219)",
             ),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=1282000.0,

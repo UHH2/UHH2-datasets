@@ -7131,6 +7131,330 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
             ),
         },
 
+        "TstarTstarToTgluonTgluon_Spin32_M-700" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=108000.0,
+                NEVT_UL16postVFP=92000.0,
+                NEVT_UL17=200000.0,
+                NEVT_UL18=200000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-700_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-700_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-700_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-700_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-700_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-700_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-700_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-700_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-800" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=108000.0,
+                NEVT_UL16postVFP=92000.0,
+                NEVT_UL17=198000.0,
+                NEVT_UL18=200000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-800_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-800_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-800_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-800_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-800_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-800_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-800_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-800_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-900" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=108000.0,
+                NEVT_UL16postVFP=92000.0,
+                NEVT_UL17=200000.0,
+                NEVT_UL18=199000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-900_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-900_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-900_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-900_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-900_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-900_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-900_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-900_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-1000" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=107998.0,
+                NEVT_UL16postVFP=91061.0,
+                NEVT_UL17=200000.0,
+                NEVT_UL18=200000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-1000_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-1000_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-1000_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-1000_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-1000_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-1000_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-1000_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-1000_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-1100" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=108000.0,
+                NEVT_UL16postVFP=90130.0,
+                NEVT_UL17=200000.0,
+                NEVT_UL18=200000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-1100_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-1100_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-1100_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-1100_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-1100_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-1100_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-1100_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-1100_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-1200" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=108000.0,
+                NEVT_UL16postVFP=89201.0,
+                NEVT_UL17=200000.0,
+                NEVT_UL18=200000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-1200_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-1200_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-1200_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-1200_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-1200_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-1200_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-1200_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-1200_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-1300" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=106144.0,
+                NEVT_UL16postVFP=91056.0,
+                NEVT_UL17=200000.0,
+                NEVT_UL18=200000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-1300_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-1300_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-1300_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-1300_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-1300_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-1300_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-1300_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-1300_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-1400" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=108000.0,
+                NEVT_UL16postVFP=90112.0,
+                NEVT_UL17=200000.0,
+                NEVT_UL18=198000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-1400_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-1400_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-1400_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-1400_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-1400_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-1400_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-1400_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-1400_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-1500" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=108000.0,
+                NEVT_UL16postVFP=92000.0,
+                NEVT_UL17=200000.0,
+                NEVT_UL18=200000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-1500_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-1500_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-1500_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-1500_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-1500_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-1500_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-1500_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-1500_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-1600" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=162000.0,
+                NEVT_UL16postVFP=137058.0,
+                NEVT_UL17=300000.0,
+                NEVT_UL18=298000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-1600_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-1600_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-1600_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-1600_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-1600_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-1600_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-1600_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-1600_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-1700" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=160398.0,
+                NEVT_UL16postVFP=138000.0,
+                NEVT_UL17=298998.0,
+                NEVT_UL18=297000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-1700_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-1700_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-1700_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-1700_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-1700_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-1700_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-1700_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-1700_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-1800" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=162000.0,
+                NEVT_UL16postVFP=138000.0,
+                NEVT_UL17=292000.0,
+                NEVT_UL18=300000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-1800_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-1800_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-1800_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-1800_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-1800_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-1800_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-1800_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-1800_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-1900" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=160136.0,
+                NEVT_UL16postVFP=138000.0,
+                NEVT_UL17=293000.0,
+                NEVT_UL18=300000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-1900_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-1900_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-1900_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-1900_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-1900_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-1900_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-1900_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-1900_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-2000" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=213189.0,
+                NEVT_UL16postVFP=182116.0,
+                NEVT_UL17=400000.0,
+                NEVT_UL18=399000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-2000_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-2000_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-2000_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-2000_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-2000_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-2000_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-2000_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-2000_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-2250" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=216000.0,
+                NEVT_UL16postVFP=184000.0,
+                NEVT_UL17=400000.0,
+                NEVT_UL18=383000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-2250_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-2250_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-2250_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-2250_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-2250_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-2250_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-2250_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-2250_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-2500" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=204732.0,
+                NEVT_UL16postVFP=184000.0,
+                NEVT_UL17=399000.0,
+                NEVT_UL18=392000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-2500_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-2500_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-2500_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-2500_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-2500_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-2500_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-2500_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-2500_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-2750" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=208472.0,
+                NEVT_UL16postVFP=184000.0,
+                NEVT_UL17=400000.0,
+                NEVT_UL18=397000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-2750_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-2750_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-2750_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-2750_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-2750_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-2750_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-2750_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-2750_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-3000" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=216000.0,
+                NEVT_UL16postVFP=184000.0,
+                NEVT_UL17=400000.0,
+                NEVT_UL18=399000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-3000_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-3000_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-3000_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-3000_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-3000_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-3000_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-3000_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-3000_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
         "ZprimeDMToTTbarResoIncl_MZp1000_Mchi10_V1" : {
             "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
                 XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb (values available in XSDB)",

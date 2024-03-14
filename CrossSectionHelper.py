@@ -787,7 +787,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTTo2L2Nu" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.105, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=2680294258.52,
@@ -804,7 +804,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTToSemiLeptonic" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.438, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=39046225860.2,
@@ -821,7 +821,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTToHadronic" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.457, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=30289246641.2,
@@ -838,7 +838,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTTo2L2Nu_hdampDOWN" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.105, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=1197862430.31,
@@ -855,7 +855,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTToSemiLeptonic_hdampDOWN" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.438, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=13961893555.7,
@@ -872,7 +872,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTToHadronic_hdampDOWN" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.457, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=11446167870.6,
@@ -889,7 +889,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTTo2L2Nu_hdampUP" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.105, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=1061555213.51,
@@ -906,7 +906,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTToSemiLeptonic_hdampUP" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.438, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=16817574381.2,
@@ -923,7 +923,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTToHadronic_hdampUP" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.457, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=9358050857.84,
@@ -940,7 +940,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTTo2L2Nu_CR1" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.105, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=1023859348.4,
@@ -957,7 +957,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTToSemiLeptonic_CR1" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.438, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=15563564465.2,
@@ -974,7 +974,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTToHadronic_CR1" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.457, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=11268884747.0,
@@ -991,7 +991,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTTo2L2Nu_CR2" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.105, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=1209778279.97,
@@ -1008,7 +1008,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTToSemiLeptonic_CR2" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.438, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=16948358553.1,
@@ -1025,7 +1025,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTToHadronic_CR2" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.457, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=12523219904.4,
@@ -1042,7 +1042,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTTo2L2Nu_erdON" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.105, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=1166883518.38,
@@ -1059,7 +1059,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTToSemiLeptonic_erdON" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.438, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=16726593539.7,
@@ -1076,7 +1076,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTToHadronic_erdON" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.457, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=11871224618.2,
@@ -1093,7 +1093,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTTo2L2Nu_TuneCP5down" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.105, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=1200799748.55,
@@ -1110,7 +1110,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTToSemiLeptonic_TuneCP5down" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.438, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=16533387862.2,
@@ -1127,7 +1127,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTToHadronic_TuneCP5down" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.457, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=11678002502.4,
@@ -1144,7 +1144,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTTo2L2Nu_TuneCP5up" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.105, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=734714642.148,
@@ -1161,7 +1161,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTToSemiLeptonic_TuneCP5up" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.438, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=13853464424.1,
@@ -1178,7 +1178,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTToHadronic_TuneCP5up" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.457, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=8903470364.36,
@@ -1195,7 +1195,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTTo2L2Nu_mtop171p5" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.105, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=1225860665.17,
@@ -1212,7 +1212,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTToSemiLeptonic_mtop171p5" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.438, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=16178279103.6,
@@ -1229,7 +1229,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTToHadronic_mtop171p5" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.457, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=10181482920.6,
@@ -1246,7 +1246,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTTo2L2Nu_mtop173p5" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.105, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=1159308909.57,
@@ -1263,7 +1263,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTToSemiLeptonic_mtop173p5" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.438, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=15587693502.1,
@@ -1280,7 +1280,7 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
         },
 
         "TTToHadronic_mtop173p5" : {
-            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=831.76, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=833.9, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO"),
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.457, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=11586470023.2,
@@ -7145,6 +7145,330 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
                 Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgammaTgamma_M-3000_CP5_madgraph-pythia8_Summer20UL16_v1.xml", XmlSource_UL16postVFP="/TstarTstarToTgammaTgamma_M-3000_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
                 Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgammaTgamma_M-3000_CP5_madgraph-pythia8_Summer20UL17_v1.xml", XmlSource_UL17="/TstarTstarToTgammaTgamma_M-3000_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM",
                 Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgammaTgamma_M-3000_CP5_madgraph-pythia8_Summer20UL18_v1.xml", XmlSource_UL18="/TstarTstarToTgammaTgamma_M-3000_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM",
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-700" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=108000.0,
+                NEVT_UL16postVFP=92000.0,
+                NEVT_UL17=200000.0,
+                NEVT_UL18=200000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-700_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-700_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-700_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-700_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-700_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-700_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-700_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-700_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-800" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=108000.0,
+                NEVT_UL16postVFP=92000.0,
+                NEVT_UL17=198000.0,
+                NEVT_UL18=200000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-800_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-800_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-800_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-800_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-800_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-800_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-800_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-800_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-900" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=108000.0,
+                NEVT_UL16postVFP=92000.0,
+                NEVT_UL17=200000.0,
+                NEVT_UL18=199000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-900_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-900_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-900_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-900_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-900_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-900_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-900_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-900_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-1000" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=107998.0,
+                NEVT_UL16postVFP=91061.0,
+                NEVT_UL17=200000.0,
+                NEVT_UL18=200000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-1000_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-1000_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-1000_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-1000_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-1000_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-1000_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-1000_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-1000_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-1100" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=108000.0,
+                NEVT_UL16postVFP=90130.0,
+                NEVT_UL17=200000.0,
+                NEVT_UL18=200000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-1100_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-1100_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-1100_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-1100_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-1100_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-1100_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-1100_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-1100_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-1200" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=108000.0,
+                NEVT_UL16postVFP=89201.0,
+                NEVT_UL17=200000.0,
+                NEVT_UL18=200000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-1200_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-1200_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-1200_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-1200_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-1200_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-1200_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-1200_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-1200_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-1300" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=106144.0,
+                NEVT_UL16postVFP=91056.0,
+                NEVT_UL17=200000.0,
+                NEVT_UL18=200000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-1300_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-1300_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-1300_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-1300_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-1300_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-1300_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-1300_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-1300_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-1400" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=108000.0,
+                NEVT_UL16postVFP=90112.0,
+                NEVT_UL17=200000.0,
+                NEVT_UL18=198000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-1400_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-1400_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-1400_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-1400_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-1400_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-1400_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-1400_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-1400_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-1500" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=108000.0,
+                NEVT_UL16postVFP=92000.0,
+                NEVT_UL17=200000.0,
+                NEVT_UL18=200000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-1500_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-1500_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-1500_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-1500_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-1500_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-1500_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-1500_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-1500_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-1600" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=162000.0,
+                NEVT_UL16postVFP=137058.0,
+                NEVT_UL17=300000.0,
+                NEVT_UL18=298000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-1600_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-1600_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-1600_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-1600_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-1600_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-1600_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-1600_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-1600_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-1700" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=160398.0,
+                NEVT_UL16postVFP=138000.0,
+                NEVT_UL17=298998.0,
+                NEVT_UL18=297000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-1700_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-1700_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-1700_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-1700_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-1700_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-1700_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-1700_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-1700_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-1800" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=162000.0,
+                NEVT_UL16postVFP=138000.0,
+                NEVT_UL17=292000.0,
+                NEVT_UL18=300000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-1800_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-1800_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-1800_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-1800_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-1800_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-1800_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-1800_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-1800_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-1900" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=160136.0,
+                NEVT_UL16postVFP=138000.0,
+                NEVT_UL17=293000.0,
+                NEVT_UL18=300000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-1900_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-1900_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-1900_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-1900_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-1900_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-1900_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-1900_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-1900_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-2000" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=213189.0,
+                NEVT_UL16postVFP=182116.0,
+                NEVT_UL17=400000.0,
+                NEVT_UL18=399000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-2000_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-2000_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-2000_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-2000_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-2000_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-2000_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-2000_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-2000_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-2250" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=216000.0,
+                NEVT_UL16postVFP=184000.0,
+                NEVT_UL17=400000.0,
+                NEVT_UL18=383000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-2250_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-2250_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-2250_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-2250_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-2250_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-2250_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-2250_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-2250_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-2500" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=204732.0,
+                NEVT_UL16postVFP=184000.0,
+                NEVT_UL17=399000.0,
+                NEVT_UL18=392000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-2500_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-2500_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-2500_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-2500_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-2500_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-2500_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-2500_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-2500_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-2750" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=208472.0,
+                NEVT_UL16postVFP=184000.0,
+                NEVT_UL17=400000.0,
+                NEVT_UL18=397000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-2750_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-2750_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-2750_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-2750_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-2750_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-2750_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-2750_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-2750_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
+            ),
+        },
+
+        "TstarTstarToTgluonTgluon_Spin32_M-3000" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(
+                XSec_13TeV=1, XSecSource_13TeV="Fixed to 1 pb",
+            ),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=216000.0,
+                NEVT_UL16postVFP=184000.0,
+                NEVT_UL17=400000.0,
+                NEVT_UL18=399000.0,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/BSM/UL16preVFP/TstarTstarToTgluonTgluon_M-3000_CP5_Spin32_madgraph-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/TstarTstarToTgluonTgluon_M-3000_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/BSM/UL16postVFP/TstarTstarToTgluonTgluon_M-3000_CP5_Spin32_madgraph-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/TstarTstarToTgluonTgluon_M-3000_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/BSM/UL17/TstarTstarToTgluonTgluon_M-3000_CP5_Spin32_madgraph-pythia8_Summer20UL17_v2.xml", XmlSource_UL17="/TstarTstarToTgluonTgluon_M-3000_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v2/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/BSM/UL18/TstarTstarToTgluonTgluon_M-3000_CP5_Spin32_madgraph-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/TstarTstarToTgluonTgluon_M-3000_TuneCP5_Spin32_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM"
             ),
         },
 

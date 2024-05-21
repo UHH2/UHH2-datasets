@@ -1,0 +1,2267 @@
+
+Attaching file /pnfs/desy.de/cms/tier2/store/group/uhh/uhh2ntuples/Run3_124X_v1/Run3/QCD-4Jets_HT-1000to1200_TuneCP5_13p6TeV_madgraphMLM-pythia8/crab_QCD-4Jets_HT-1000to1200_CP5_13p6TeV_madgraphMLM-pythia8_v2/231115_080548/0000/Ntuple_1.root as _file0...
+(TFile *) 0x27af580
+******************************************************************************
+*Tree    :AnalysisTree: AnalysisTree                                           *
+*Entries :    23698 : Total =       367425499 bytes  File  Size =  146306882 *
+*        :          : Tree compression factor =   2.51                       *
+******************************************************************************
+*Br    0 :run       : run/I                                                  *
+*Entries :    23698 : Total  Size=      95659 bytes  File Size  =       1043 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  91.26     *
+*............................................................................*
+*Br    1 :event     : event/L                                                *
+*Entries :    23698 : Total  Size=     190557 bytes  File Size  =      29270 *
+*Baskets :        6 : Basket Size=      58880 bytes  Compression=   6.49     *
+*............................................................................*
+*Br    2 :luminosityBlock : luminosityBlock/I                                *
+*Entries :    23698 : Total  Size=      95767 bytes  File Size  =       1219 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  78.13     *
+*............................................................................*
+*Br    3 :isRealData : isRealData/O                                          *
+*Entries :    23698 : Total  Size=      24622 bytes  File Size  =        922 *
+*Baskets :        5 : Basket Size=       7680 bytes  Compression=  26.16     *
+*............................................................................*
+*Br    4 :year      : string                                                 *
+*Entries :    23698 : Total  Size=     214376 bytes  File Size  =      18940 *
+*Baskets :        7 : Basket Size=     108032 bytes  Compression=  11.29     *
+*............................................................................*
+*Br    5 :rho       : rho/F                                                  *
+*Entries :    23698 : Total  Size=      95659 bytes  File Size  =      82199 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.16     *
+*............................................................................*
+*Br    6 :slimmedGenJets : Int_t slimmedGenJets_                             *
+*Entries :    23698 : Total  Size=     204480 bytes  File Size  =      29512 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   6.46     *
+*............................................................................*
+*Br    7 :slimmedGenJets.m_charge : Short_t m_charge[slimmedGenJets_]        *
+*Entries :    23698 : Total  Size=     416877 bytes  File Size  =      93196 *
+*Baskets :        8 : Basket Size=     169984 bytes  Compression=   4.47     *
+*............................................................................*
+*Br    8 :slimmedGenJets.m_pt : Float_t m_pt[slimmedGenJets_]                *
+*Entries :    23698 : Total  Size=     737635 bytes  File Size  =     597302 *
+*Baskets :       10 : Basket Size=     267776 bytes  Compression=   1.23     *
+*............................................................................*
+*Br    9 :slimmedGenJets.m_eta : Float_t m_eta[slimmedGenJets_]              *
+*Entries :    23698 : Total  Size=     737649 bytes  File Size  =     623236 *
+*Baskets :       10 : Basket Size=     267776 bytes  Compression=   1.18     *
+*............................................................................*
+*Br   10 :slimmedGenJets.m_phi : Float_t m_phi[slimmedGenJets_]              *
+*Entries :    23698 : Total  Size=     737649 bytes  File Size  =     616648 *
+*Baskets :       10 : Basket Size=     267776 bytes  Compression=   1.20     *
+*............................................................................*
+*Br   11 :slimmedGenJets.m_energy : Float_t m_energy[slimmedGenJets_]        *
+*Entries :    23698 : Total  Size=     737691 bytes  File Size  =     610054 *
+*Baskets :       10 : Basket Size=     267776 bytes  Compression=   1.21     *
+*............................................................................*
+*Br   12 :slimmedGenJets.m_pdgId : Int_t m_pdgId[slimmedGenJets_]            *
+*Entries :    23698 : Total  Size=     737677 bytes  File Size  =      26380 *
+*Baskets :       10 : Basket Size=     267776 bytes  Compression=  27.94     *
+*............................................................................*
+*Br   13 :slimmedGenJets.m_partonFlavour :                                   *
+*         | Int_t m_partonFlavour[slimmedGenJets_]                           *
+*Entries :    23698 : Total  Size=     737789 bytes  File Size  =      82188 *
+*Baskets :       10 : Basket Size=     268288 bytes  Compression=   8.97     *
+*............................................................................*
+*Br   14 :slimmedGenJets.m_hadronFlavour :                                   *
+*         | Int_t m_hadronFlavour[slimmedGenJets_]                           *
+*Entries :    23698 : Total  Size=     737789 bytes  File Size  =      46556 *
+*Baskets :       10 : Basket Size=     268288 bytes  Compression=  15.83     *
+*............................................................................*
+*Br   15 :slimmedGenJets.m_genparticles_indices :                            *
+*         | vector<unsigned int> m_genparticles_indices[slimmedGenJets_]     *
+*Entries :    23698 : Total  Size=     880215 bytes  File Size  =      53327 *
+*Baskets :       11 : Basket Size=     311808 bytes  Compression=  16.49     *
+*............................................................................*
+*Br   16 :slimmedGenJets.m_chf : Double_t m_chf[slimmedGenJets_]             *
+*Entries :    23698 : Total  Size=    1379428 bytes  File Size  =    1156036 *
+*Baskets :       15 : Basket Size=     464384 bytes  Compression=   1.19     *
+*............................................................................*
+*Br   17 :slimmedGenJets.m_cef : Double_t m_cef[slimmedGenJets_]             *
+*Entries :    23698 : Total  Size=    1379428 bytes  File Size  =     146208 *
+*Baskets :       15 : Basket Size=     464384 bytes  Compression=   9.43     *
+*............................................................................*
+*Br   18 :slimmedGenJets.m_nhf : Double_t m_nhf[slimmedGenJets_]             *
+*Entries :    23698 : Total  Size=    1379428 bytes  File Size  =     984756 *
+*Baskets :       15 : Basket Size=     464384 bytes  Compression=   1.40     *
+*............................................................................*
+*Br   19 :slimmedGenJets.m_nef : Double_t m_nef[slimmedGenJets_]             *
+*Entries :    23698 : Total  Size=    1379428 bytes  File Size  =    1173484 *
+*Baskets :       15 : Basket Size=     464384 bytes  Compression=   1.17     *
+*............................................................................*
+*Br   20 :slimmedGenJets.m_muf : Double_t m_muf[slimmedGenJets_]             *
+*Entries :    23698 : Total  Size=    1379428 bytes  File Size  =      55704 *
+*Baskets :       15 : Basket Size=     464384 bytes  Compression=  24.75     *
+*............................................................................*
+*Br   21 :slimmedGenJets.m_chargedMultiplicity :                             *
+*         | Int_t m_chargedMultiplicity[slimmedGenJets_]                     *
+*Entries :    23698 : Total  Size=     737873 bytes  File Size  =     133648 *
+*Baskets :       10 : Basket Size=     268288 bytes  Compression=   5.52     *
+*............................................................................*
+*Br   22 :slimmedGenJets.m_neutralMultiplicity :                             *
+*         | Int_t m_neutralMultiplicity[slimmedGenJets_]                     *
+*Entries :    23698 : Total  Size=     737873 bytes  File Size  =     139088 *
+*Baskets :       10 : Basket Size=     268288 bytes  Compression=   5.30     *
+*............................................................................*
+*Br   23 :slimmedGenJets.m_muonMultiplicity :                                *
+*         | Int_t m_muonMultiplicity[slimmedGenJets_]                        *
+*Entries :    23698 : Total  Size=     737831 bytes  File Size  =      33006 *
+*Baskets :       10 : Basket Size=     268288 bytes  Compression=  22.33     *
+*............................................................................*
+*Br   24 :slimmedGenJets.m_electronMultiplicity :                            *
+*         | Int_t m_electronMultiplicity[slimmedGenJets_]                    *
+*Entries :    23698 : Total  Size=     737887 bytes  File Size  =      44750 *
+*Baskets :       10 : Basket Size=     268288 bytes  Compression=  16.47     *
+*............................................................................*
+*Br   25 :slimmedGenJets.m_photonMultiplicity :                              *
+*         | Int_t m_photonMultiplicity[slimmedGenJets_]                      *
+*Entries :    23698 : Total  Size=     737859 bytes  File Size  =     135354 *
+*Baskets :       10 : Basket Size=     268288 bytes  Compression=   5.45     *
+*............................................................................*
+*Br   26 :slimmedGenJetsAK8 : Int_t slimmedGenJetsAK8_                       *
+*Entries :    23698 : Total  Size=     203976 bytes  File Size  =      20486 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   9.30     *
+*............................................................................*
+*Br   27 :slimmedGenJetsAK8.m_charge : Short_t m_charge[slimmedGenJetsAK8_]  *
+*Entries :    23698 : Total  Size=     250552 bytes  File Size  =      58978 *
+*Baskets :        7 : Basket Size=     119296 bytes  Compression=   4.24     *
+*............................................................................*
+*Br   28 :slimmedGenJetsAK8.m_pt : Float_t m_pt[slimmedGenJetsAK8_]          *
+*Entries :    23698 : Total  Size=     404937 bytes  File Size  =     293184 *
+*Baskets :        8 : Basket Size=     166400 bytes  Compression=   1.38     *
+*............................................................................*
+*Br   29 :slimmedGenJetsAK8.m_eta : Float_t m_eta[slimmedGenJetsAK8_]        *
+*Entries :    23698 : Total  Size=     404949 bytes  File Size  =     309908 *
+*Baskets :        8 : Basket Size=     166400 bytes  Compression=   1.30     *
+*............................................................................*
+*Br   30 :slimmedGenJetsAK8.m_phi : Float_t m_phi[slimmedGenJetsAK8_]        *
+*Entries :    23698 : Total  Size=     404949 bytes  File Size  =     306996 *
+*Baskets :        8 : Basket Size=     166400 bytes  Compression=   1.32     *
+*............................................................................*
+*Br   31 :slimmedGenJetsAK8.m_energy : Float_t m_energy[slimmedGenJetsAK8_]  *
+*Entries :    23698 : Total  Size=     404985 bytes  File Size  =     298604 *
+*Baskets :        8 : Basket Size=     166400 bytes  Compression=   1.35     *
+*............................................................................*
+*Br   32 :slimmedGenJetsAK8.m_pdgId : Int_t m_pdgId[slimmedGenJetsAK8_]      *
+*Entries :    23698 : Total  Size=     404973 bytes  File Size  =      22552 *
+*Baskets :        8 : Basket Size=     166400 bytes  Compression=  17.93     *
+*............................................................................*
+*Br   33 :slimmedGenJetsAK8.m_partonFlavour :                                *
+*         | Int_t m_partonFlavour[slimmedGenJetsAK8_]                        *
+*Entries :    23698 : Total  Size=     405069 bytes  File Size  =      22608 *
+*Baskets :        8 : Basket Size=     166912 bytes  Compression=  17.89     *
+*............................................................................*
+*Br   34 :slimmedGenJetsAK8.m_hadronFlavour :                                *
+*         | Int_t m_hadronFlavour[slimmedGenJetsAK8_]                        *
+*Entries :    23698 : Total  Size=     405069 bytes  File Size  =      22608 *
+*Baskets :        8 : Basket Size=     166912 bytes  Compression=  17.89     *
+*............................................................................*
+*Br   35 :slimmedGenJetsAK8.m_genparticles_indices :                         *
+*         | vector<unsigned int> m_genparticles_indices[slimmedGenJetsAK8_]  *
+*Entries :    23698 : Total  Size=     547464 bytes  File Size  =      34220 *
+*Baskets :        9 : Basket Size=     210432 bytes  Compression=  15.98     *
+*............................................................................*
+*Br   36 :slimmedGenJetsAK8.m_chf : Double_t m_chf[slimmedGenJetsAK8_]       *
+*Entries :    23698 : Total  Size=     713829 bytes  File Size  =     579058 *
+*Baskets :       10 : Basket Size=     261632 bytes  Compression=   1.23     *
+*............................................................................*
+*Br   37 :slimmedGenJetsAK8.m_cef : Double_t m_cef[slimmedGenJetsAK8_]       *
+*Entries :    23698 : Total  Size=     713829 bytes  File Size  =     137450 *
+*Baskets :       10 : Basket Size=     261632 bytes  Compression=   5.19     *
+*............................................................................*
+*Br   38 :slimmedGenJetsAK8.m_nhf : Double_t m_nhf[slimmedGenJetsAK8_]       *
+*Entries :    23698 : Total  Size=     713829 bytes  File Size  =     563366 *
+*Baskets :       10 : Basket Size=     261632 bytes  Compression=   1.27     *
+*............................................................................*
+*Br   39 :slimmedGenJetsAK8.m_nef : Double_t m_nef[slimmedGenJetsAK8_]       *
+*Entries :    23698 : Total  Size=     713829 bytes  File Size  =     586678 *
+*Baskets :       10 : Basket Size=     261632 bytes  Compression=   1.22     *
+*............................................................................*
+*Br   40 :slimmedGenJetsAK8.m_muf : Double_t m_muf[slimmedGenJetsAK8_]       *
+*Entries :    23698 : Total  Size=     713829 bytes  File Size  =      48338 *
+*Baskets :       10 : Basket Size=     261632 bytes  Compression=  14.75     *
+*............................................................................*
+*Br   41 :slimmedGenJetsAK8.m_chargedMultiplicity :                          *
+*         | Int_t m_chargedMultiplicity[slimmedGenJetsAK8_]                  *
+*Entries :    23698 : Total  Size=     405141 bytes  File Size  =      83236 *
+*Baskets :        8 : Basket Size=     166912 bytes  Compression=   4.86     *
+*............................................................................*
+*Br   42 :slimmedGenJetsAK8.m_neutralMultiplicity :                          *
+*         | Int_t m_neutralMultiplicity[slimmedGenJetsAK8_]                  *
+*Entries :    23698 : Total  Size=     405141 bytes  File Size  =      85956 *
+*Baskets :        8 : Basket Size=     166912 bytes  Compression=   4.70     *
+*............................................................................*
+*Br   43 :slimmedGenJetsAK8.m_muonMultiplicity :                             *
+*         | Int_t m_muonMultiplicity[slimmedGenJetsAK8_]                     *
+*Entries :    23698 : Total  Size=     405105 bytes  File Size  =      27716 *
+*Baskets :        8 : Basket Size=     166912 bytes  Compression=  14.59     *
+*............................................................................*
+*Br   44 :slimmedGenJetsAK8.m_electronMultiplicity :                         *
+*         | Int_t m_electronMultiplicity[slimmedGenJetsAK8_]                 *
+*Entries :    23698 : Total  Size=     405153 bytes  File Size  =      36240 *
+*Baskets :        8 : Basket Size=     166912 bytes  Compression=  11.16     *
+*............................................................................*
+*Br   45 :slimmedGenJetsAK8.m_photonMultiplicity :                           *
+*         | Int_t m_photonMultiplicity[slimmedGenJetsAK8_]                   *
+*Entries :    23698 : Total  Size=     405129 bytes  File Size  =      83948 *
+*Baskets :        8 : Basket Size=     166912 bytes  Compression=   4.82     *
+*............................................................................*
+*Branch  :slimmedMETs                                                        *
+*Entries :    23698 : BranchElement (see below)                              *
+*............................................................................*
+*Br   46 :m_pt      : Float_t                                                *
+*Entries :    23698 : Total  Size=      95672 bytes  File Size  =      83824 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.14     *
+*............................................................................*
+*Br   47 :m_phi     : Float_t                                                *
+*Entries :    23698 : Total  Size=      95681 bytes  File Size  =      88561 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.07     *
+*............................................................................*
+*Br   48 :m_sumEt   : Float_t                                                *
+*Entries :    23698 : Total  Size=      95699 bytes  File Size  =      74771 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.27     *
+*............................................................................*
+*Br   49 :m_mEtSignificance : Float_t                                        *
+*Entries :    23698 : Total  Size=      95789 bytes  File Size  =      87433 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.09     *
+*............................................................................*
+*Br   50 :m_shiftedPx_JetEnUp : Float_t                                      *
+*Entries :    23698 : Total  Size=      95807 bytes  File Size  =      89507 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   51 :m_shiftedPx_JetEnDown : Float_t                                    *
+*Entries :    23698 : Total  Size=      95825 bytes  File Size  =      89573 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   52 :m_shiftedPx_JetResUp : Float_t                                     *
+*Entries :    23698 : Total  Size=      95816 bytes  File Size  =      89480 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   53 :m_shiftedPx_JetResDown : Float_t                                   *
+*Entries :    23698 : Total  Size=      95834 bytes  File Size  =      89558 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   54 :m_shiftedPx_UnclusteredEnUp : Float_t                              *
+*Entries :    23698 : Total  Size=      95879 bytes  File Size  =      89523 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   55 :m_shiftedPx_UnclusteredEnDown : Float_t                            *
+*Entries :    23698 : Total  Size=      95897 bytes  File Size  =      89621 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   56 :m_shiftedPx_ElectronEnUp : Float_t                                 *
+*Entries :    23698 : Total  Size=      95852 bytes  File Size  =      89440 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.07     *
+*............................................................................*
+*Br   57 :m_shiftedPx_ElectronEnDown : Float_t                               *
+*Entries :    23698 : Total  Size=      95870 bytes  File Size  =      89390 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.07     *
+*............................................................................*
+*Br   58 :m_shiftedPx_TauEnUp : Float_t                                      *
+*Entries :    23698 : Total  Size=      95807 bytes  File Size  =      89547 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   59 :m_shiftedPx_TauEnDown : Float_t                                    *
+*Entries :    23698 : Total  Size=      95825 bytes  File Size  =      89389 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.07     *
+*............................................................................*
+*Br   60 :m_shiftedPx_MuonEnDown : Float_t                                   *
+*Entries :    23698 : Total  Size=      95834 bytes  File Size  =      89394 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.07     *
+*............................................................................*
+*Br   61 :m_shiftedPx_MuonEnUp : Float_t                                     *
+*Entries :    23698 : Total  Size=      95816 bytes  File Size  =      89460 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   62 :m_shiftedPy_JetEnUp : Float_t                                      *
+*Entries :    23698 : Total  Size=      95807 bytes  File Size  =      89503 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   63 :m_shiftedPy_JetEnDown : Float_t                                    *
+*Entries :    23698 : Total  Size=      95825 bytes  File Size  =      89481 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   64 :m_shiftedPy_JetResUp : Float_t                                     *
+*Entries :    23698 : Total  Size=      95816 bytes  File Size  =      89536 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   65 :m_shiftedPy_JetResDown : Float_t                                   *
+*Entries :    23698 : Total  Size=      95834 bytes  File Size  =      89682 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   66 :m_shiftedPy_UnclusteredEnUp : Float_t                              *
+*Entries :    23698 : Total  Size=      95879 bytes  File Size  =      89475 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.07     *
+*............................................................................*
+*Br   67 :m_shiftedPy_UnclusteredEnDown : Float_t                            *
+*Entries :    23698 : Total  Size=      95897 bytes  File Size  =      89597 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   68 :m_shiftedPy_ElectronEnUp : Float_t                                 *
+*Entries :    23698 : Total  Size=      95852 bytes  File Size  =      89464 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.07     *
+*............................................................................*
+*Br   69 :m_shiftedPy_ElectronEnDown : Float_t                               *
+*Entries :    23698 : Total  Size=      95870 bytes  File Size  =      89558 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   70 :m_shiftedPy_TauEnUp : Float_t                                      *
+*Entries :    23698 : Total  Size=      95807 bytes  File Size  =      89467 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   71 :m_shiftedPy_TauEnDown : Float_t                                    *
+*Entries :    23698 : Total  Size=      95825 bytes  File Size  =      89493 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   72 :m_shiftedPy_MuonEnDown : Float_t                                   *
+*Entries :    23698 : Total  Size=      95834 bytes  File Size  =      89418 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.07     *
+*............................................................................*
+*Br   73 :m_shiftedPy_MuonEnUp : Float_t                                     *
+*Entries :    23698 : Total  Size=      95816 bytes  File Size  =      89496 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   74 :m_rawCHS_px : Float_t                                              *
+*Entries :    23698 : Total  Size=      95735 bytes  File Size  =      89479 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   75 :m_rawCHS_py : Float_t                                              *
+*Entries :    23698 : Total  Size=      95735 bytes  File Size  =      89339 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.07     *
+*............................................................................*
+*Br   76 :m_uncorr_pt : Float_t                                              *
+*Entries :    23698 : Total  Size=      95735 bytes  File Size  =      84387 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.13     *
+*............................................................................*
+*Br   77 :m_uncorr_phi : Float_t                                             *
+*Entries :    23698 : Total  Size=      95744 bytes  File Size  =      88700 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.07     *
+*............................................................................*
+*Br   78 :m_minDeltaRToL1MET : Double_t                                      *
+*Entries :    23698 : Total  Size=     190683 bytes  File Size  =       1448 *
+*Baskets :        6 : Basket Size=      58880 bytes  Compression= 131.31     *
+*............................................................................*
+*Branch  :slimmedMETsPuppi                                                   *
+*Entries :    23698 : BranchElement (see below)                              *
+*............................................................................*
+*Br   79 :m_pt      : Float_t                                                *
+*Entries :    23698 : Total  Size=      95672 bytes  File Size  =      83864 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.14     *
+*............................................................................*
+*Br   80 :m_phi     : Float_t                                                *
+*Entries :    23698 : Total  Size=      95681 bytes  File Size  =      88529 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.08     *
+*............................................................................*
+*Br   81 :m_sumEt   : Float_t                                                *
+*Entries :    23698 : Total  Size=      95699 bytes  File Size  =      67243 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.42     *
+*............................................................................*
+*Br   82 :m_mEtSignificance : Float_t                                        *
+*Entries :    23698 : Total  Size=      95789 bytes  File Size  =      87497 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.09     *
+*............................................................................*
+*Br   83 :m_shiftedPx_JetEnUp : Float_t                                      *
+*Entries :    23698 : Total  Size=      95807 bytes  File Size  =      89635 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   84 :m_shiftedPx_JetEnDown : Float_t                                    *
+*Entries :    23698 : Total  Size=      95825 bytes  File Size  =      89621 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   85 :m_shiftedPx_JetResUp : Float_t                                     *
+*Entries :    23698 : Total  Size=      95816 bytes  File Size  =      89516 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   86 :m_shiftedPx_JetResDown : Float_t                                   *
+*Entries :    23698 : Total  Size=      95834 bytes  File Size  =      89662 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   87 :m_shiftedPx_UnclusteredEnUp : Float_t                              *
+*Entries :    23698 : Total  Size=      95879 bytes  File Size  =      89723 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   88 :m_shiftedPx_UnclusteredEnDown : Float_t                            *
+*Entries :    23698 : Total  Size=      95897 bytes  File Size  =      89685 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   89 :m_shiftedPx_ElectronEnUp : Float_t                                 *
+*Entries :    23698 : Total  Size=      95852 bytes  File Size  =      89576 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   90 :m_shiftedPx_ElectronEnDown : Float_t                               *
+*Entries :    23698 : Total  Size=      95870 bytes  File Size  =      89610 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   91 :m_shiftedPx_TauEnUp : Float_t                                      *
+*Entries :    23698 : Total  Size=      95807 bytes  File Size  =      89511 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   92 :m_shiftedPx_TauEnDown : Float_t                                    *
+*Entries :    23698 : Total  Size=      95825 bytes  File Size  =      89617 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   93 :m_shiftedPx_MuonEnDown : Float_t                                   *
+*Entries :    23698 : Total  Size=      95834 bytes  File Size  =      89538 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   94 :m_shiftedPx_MuonEnUp : Float_t                                     *
+*Entries :    23698 : Total  Size=      95816 bytes  File Size  =      89516 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   95 :m_shiftedPy_JetEnUp : Float_t                                      *
+*Entries :    23698 : Total  Size=      95807 bytes  File Size  =      89551 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   96 :m_shiftedPy_JetEnDown : Float_t                                    *
+*Entries :    23698 : Total  Size=      95825 bytes  File Size  =      89649 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   97 :m_shiftedPy_JetResUp : Float_t                                     *
+*Entries :    23698 : Total  Size=      95816 bytes  File Size  =      89628 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   98 :m_shiftedPy_JetResDown : Float_t                                   *
+*Entries :    23698 : Total  Size=      95834 bytes  File Size  =      89506 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   99 :m_shiftedPy_UnclusteredEnUp : Float_t                              *
+*Entries :    23698 : Total  Size=      95879 bytes  File Size  =      89723 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br  100 :m_shiftedPy_UnclusteredEnDown : Float_t                            *
+*Entries :    23698 : Total  Size=      95897 bytes  File Size  =      89621 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br  101 :m_shiftedPy_ElectronEnUp : Float_t                                 *
+*Entries :    23698 : Total  Size=      95852 bytes  File Size  =      89684 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br  102 :m_shiftedPy_ElectronEnDown : Float_t                               *
+*Entries :    23698 : Total  Size=      95870 bytes  File Size  =      89574 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br  103 :m_shiftedPy_TauEnUp : Float_t                                      *
+*Entries :    23698 : Total  Size=      95807 bytes  File Size  =      89627 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br  104 :m_shiftedPy_TauEnDown : Float_t                                    *
+*Entries :    23698 : Total  Size=      95825 bytes  File Size  =      89573 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br  105 :m_shiftedPy_MuonEnDown : Float_t                                   *
+*Entries :    23698 : Total  Size=      95834 bytes  File Size  =      89634 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br  106 :m_shiftedPy_MuonEnUp : Float_t                                     *
+*Entries :    23698 : Total  Size=      95816 bytes  File Size  =      89624 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br  107 :m_rawCHS_px : Float_t                                              *
+*Entries :    23698 : Total  Size=      95735 bytes  File Size  =      89431 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br  108 :m_rawCHS_py : Float_t                                              *
+*Entries :    23698 : Total  Size=      95735 bytes  File Size  =      89279 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.07     *
+*............................................................................*
+*Br  109 :m_uncorr_pt : Float_t                                              *
+*Entries :    23698 : Total  Size=      95735 bytes  File Size  =      84547 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.13     *
+*............................................................................*
+*Br  110 :m_uncorr_phi : Float_t                                             *
+*Entries :    23698 : Total  Size=      95744 bytes  File Size  =      88600 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.07     *
+*............................................................................*
+*Br  111 :m_minDeltaRToL1MET : Double_t                                      *
+*Entries :    23698 : Total  Size=     190683 bytes  File Size  =       1436 *
+*Baskets :        6 : Basket Size=      58880 bytes  Compression= 132.41     *
+*............................................................................*
+*Branch  :slimmedMETs_GenMET                                                 *
+*Entries :    23698 : BranchElement (see below)                              *
+*............................................................................*
+*Br  112 :m_pt      : Float_t                                                *
+*Entries :    23698 : Total  Size=      95672 bytes  File Size  =      89632 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br  113 :m_phi     : Float_t                                                *
+*Entries :    23698 : Total  Size=      95681 bytes  File Size  =      88749 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.07     *
+*............................................................................*
+*Br  114 :m_sumEt   : Float_t                                                *
+*Entries :    23698 : Total  Size=      95699 bytes  File Size  =      67635 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.41     *
+*............................................................................*
+*Br  115 :m_mEtSignificance : Float_t                                        *
+*Entries :    23698 : Total  Size=      95789 bytes  File Size  =      90841 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.05     *
+*............................................................................*
+*Br  116 :m_shiftedPx_JetEnUp : Float_t                                      *
+*Entries :    23698 : Total  Size=      95807 bytes  File Size  =       1103 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  86.37     *
+*............................................................................*
+*Br  117 :m_shiftedPx_JetEnDown : Float_t                                    *
+*Entries :    23698 : Total  Size=      95825 bytes  File Size  =       1113 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  85.60     *
+*............................................................................*
+*Br  118 :m_shiftedPx_JetResUp : Float_t                                     *
+*Entries :    23698 : Total  Size=      95816 bytes  File Size  =       1108 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  85.98     *
+*............................................................................*
+*Br  119 :m_shiftedPx_JetResDown : Float_t                                   *
+*Entries :    23698 : Total  Size=      95834 bytes  File Size  =       1118 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  85.22     *
+*............................................................................*
+*Br  120 :m_shiftedPx_UnclusteredEnUp : Float_t                              *
+*Entries :    23698 : Total  Size=      95879 bytes  File Size  =       1143 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  83.38     *
+*............................................................................*
+*Br  121 :m_shiftedPx_UnclusteredEnDown : Float_t                            *
+*Entries :    23698 : Total  Size=      95897 bytes  File Size  =       1153 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  82.66     *
+*............................................................................*
+*Br  122 :m_shiftedPx_ElectronEnUp : Float_t                                 *
+*Entries :    23698 : Total  Size=      95852 bytes  File Size  =       1128 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  84.47     *
+*............................................................................*
+*Br  123 :m_shiftedPx_ElectronEnDown : Float_t                               *
+*Entries :    23698 : Total  Size=      95870 bytes  File Size  =       1138 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  83.74     *
+*............................................................................*
+*Br  124 :m_shiftedPx_TauEnUp : Float_t                                      *
+*Entries :    23698 : Total  Size=      95807 bytes  File Size  =       1103 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  86.37     *
+*............................................................................*
+*Br  125 :m_shiftedPx_TauEnDown : Float_t                                    *
+*Entries :    23698 : Total  Size=      95825 bytes  File Size  =       1113 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  85.60     *
+*............................................................................*
+*Br  126 :m_shiftedPx_MuonEnDown : Float_t                                   *
+*Entries :    23698 : Total  Size=      95834 bytes  File Size  =       1118 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  85.22     *
+*............................................................................*
+*Br  127 :m_shiftedPx_MuonEnUp : Float_t                                     *
+*Entries :    23698 : Total  Size=      95816 bytes  File Size  =       1108 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  85.98     *
+*............................................................................*
+*Br  128 :m_shiftedPy_JetEnUp : Float_t                                      *
+*Entries :    23698 : Total  Size=      95807 bytes  File Size  =       1103 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  86.37     *
+*............................................................................*
+*Br  129 :m_shiftedPy_JetEnDown : Float_t                                    *
+*Entries :    23698 : Total  Size=      95825 bytes  File Size  =       1113 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  85.60     *
+*............................................................................*
+*Br  130 :m_shiftedPy_JetResUp : Float_t                                     *
+*Entries :    23698 : Total  Size=      95816 bytes  File Size  =       1108 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  85.98     *
+*............................................................................*
+*Br  131 :m_shiftedPy_JetResDown : Float_t                                   *
+*Entries :    23698 : Total  Size=      95834 bytes  File Size  =       1118 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  85.22     *
+*............................................................................*
+*Br  132 :m_shiftedPy_UnclusteredEnUp : Float_t                              *
+*Entries :    23698 : Total  Size=      95879 bytes  File Size  =       1143 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  83.38     *
+*............................................................................*
+*Br  133 :m_shiftedPy_UnclusteredEnDown : Float_t                            *
+*Entries :    23698 : Total  Size=      95897 bytes  File Size  =       1153 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  82.66     *
+*............................................................................*
+*Br  134 :m_shiftedPy_ElectronEnUp : Float_t                                 *
+*Entries :    23698 : Total  Size=      95852 bytes  File Size  =       1128 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  84.47     *
+*............................................................................*
+*Br  135 :m_shiftedPy_ElectronEnDown : Float_t                               *
+*Entries :    23698 : Total  Size=      95870 bytes  File Size  =       1138 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  83.74     *
+*............................................................................*
+*Br  136 :m_shiftedPy_TauEnUp : Float_t                                      *
+*Entries :    23698 : Total  Size=      95807 bytes  File Size  =       1103 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  86.37     *
+*............................................................................*
+*Br  137 :m_shiftedPy_TauEnDown : Float_t                                    *
+*Entries :    23698 : Total  Size=      95825 bytes  File Size  =       1113 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  85.60     *
+*............................................................................*
+*Br  138 :m_shiftedPy_MuonEnDown : Float_t                                   *
+*Entries :    23698 : Total  Size=      95834 bytes  File Size  =       1118 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  85.22     *
+*............................................................................*
+*Br  139 :m_shiftedPy_MuonEnUp : Float_t                                     *
+*Entries :    23698 : Total  Size=      95816 bytes  File Size  =       1108 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  85.98     *
+*............................................................................*
+*Br  140 :m_rawCHS_px : Float_t                                              *
+*Entries :    23698 : Total  Size=      95735 bytes  File Size  =       1063 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  89.58     *
+*............................................................................*
+*Br  141 :m_rawCHS_py : Float_t                                              *
+*Entries :    23698 : Total  Size=      95735 bytes  File Size  =       1063 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  89.58     *
+*............................................................................*
+*Br  142 :m_uncorr_pt : Float_t                                              *
+*Entries :    23698 : Total  Size=      95735 bytes  File Size  =      89667 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.06     *
+*............................................................................*
+*Br  143 :m_uncorr_phi : Float_t                                             *
+*Entries :    23698 : Total  Size=      95744 bytes  File Size  =      88784 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.07     *
+*............................................................................*
+*Br  144 :m_minDeltaRToL1MET : Double_t                                      *
+*Entries :    23698 : Total  Size=     190683 bytes  File Size  =       1384 *
+*Baskets :        6 : Basket Size=      58880 bytes  Compression= 137.39     *
+*............................................................................*
+*Br  145 :offlineSlimmedPrimaryVertices :                                    *
+*         | Int_t offlineSlimmedPrimaryVertices_                             *
+*Entries :    23698 : Total  Size=     197981 bytes  File Size  =      35986 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   5.30     *
+*............................................................................*
+*Br  146 :offlineSlimmedPrimaryVertices.m_x :                                *
+*         | Float_t m_x[offlineSlimmedPrimaryVertices_]                      *
+*Entries :    23698 : Total  Size=    2989845 bytes  File Size  =    2034826 *
+*Baskets :       26 : Basket Size=     962560 bytes  Compression=   1.47     *
+*............................................................................*
+*Br  147 :offlineSlimmedPrimaryVertices.m_y :                                *
+*         | Float_t m_y[offlineSlimmedPrimaryVertices_]                      *
+*Entries :    23698 : Total  Size=    2989845 bytes  File Size  =    2404406 *
+*Baskets :       26 : Basket Size=     962560 bytes  Compression=   1.24     *
+*............................................................................*
+*Br  148 :offlineSlimmedPrimaryVertices.m_z :                                *
+*         | Float_t m_z[offlineSlimmedPrimaryVertices_]                      *
+*Entries :    23698 : Total  Size=    2989845 bytes  File Size  =    2716050 *
+*Baskets :       26 : Basket Size=     962560 bytes  Compression=   1.10     *
+*............................................................................*
+*Br  149 :offlineSlimmedPrimaryVertices.m_nTracks :                          *
+*         | UInt_t m_nTracks[offlineSlimmedPrimaryVertices_]                 *
+*Entries :    23698 : Total  Size=    2990025 bytes  File Size  =      40714 *
+*Baskets :       26 : Basket Size=     962560 bytes  Compression=  73.41     *
+*............................................................................*
+*Br  150 :offlineSlimmedPrimaryVertices.m_chi2 :                             *
+*         | Float_t m_chi2[offlineSlimmedPrimaryVertices_]                   *
+*Entries :    23698 : Total  Size=    2989935 bytes  File Size  =    2630804 *
+*Baskets :       26 : Basket Size=     962560 bytes  Compression=   1.14     *
+*............................................................................*
+*Br  151 :offlineSlimmedPrimaryVertices.m_ndof :                             *
+*         | Float_t m_ndof[offlineSlimmedPrimaryVertices_]                   *
+*Entries :    23698 : Total  Size=    2989935 bytes  File Size  =    2627312 *
+*Baskets :       26 : Basket Size=     962560 bytes  Compression=   1.14     *
+*............................................................................*
+*Br  152 :beamspot_x0 : beamspot_x0/F                                        *
+*Entries :    23698 : Total  Size=      95731 bytes  File Size  =       1083 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  87.92     *
+*............................................................................*
+*Br  153 :beamspot_y0 : beamspot_y0/F                                        *
+*Entries :    23698 : Total  Size=      95731 bytes  File Size  =       1083 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  87.92     *
+*............................................................................*
+*Br  154 :beamspot_z0 : beamspot_z0/F                                        *
+*Entries :    23698 : Total  Size=      95731 bytes  File Size  =       1083 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  87.92     *
+*............................................................................*
+*Branch  :genInfo                                                            *
+*Entries :    23698 : BranchElement (see below)                              *
+*............................................................................*
+*Br  155 :m_binningValues : vector<float>                                    *
+*Entries :    23698 : Total  Size=     332987 bytes  File Size  =      21773 *
+*Baskets :        7 : Basket Size=     144384 bytes  Compression=  15.27     *
+*............................................................................*
+*Br  156 :m_weights : vector<float>                                          *
+*Entries :    23698 : Total  Size=    4696785 bytes  File Size  =    2653550 *
+*Baskets :       38 : Basket Size=    1489408 bytes  Compression=   1.77     *
+*............................................................................*
+*Br  157 :m_systweights : vector<float>                                      *
+*Entries :    23698 : Total  Size=   88284801 bytes  File Size  =   56744090 *
+*Baskets :      694 : Basket Size=    1812480 bytes  Compression=   1.56     *
+*............................................................................*
+*Br  158 :m_originalXWGTUP : Float_t                                         *
+*Entries :    23698 : Total  Size=      95780 bytes  File Size  =       2000 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  47.62     *
+*............................................................................*
+*Br  159 :m_alphaQCD : Float_t                                               *
+*Entries :    23698 : Total  Size=      95726 bytes  File Size  =      62490 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.52     *
+*............................................................................*
+*Br  160 :m_alphaQED : Float_t                                               *
+*Entries :    23698 : Total  Size=      95726 bytes  File Size  =       1078 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  88.33     *
+*............................................................................*
+*Br  161 :m_qScale  : Float_t                                                *
+*Entries :    23698 : Total  Size=      95708 bytes  File Size  =      79244 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.20     *
+*............................................................................*
+*Br  162 :m_pdf_id1 : Int_t                                                  *
+*Entries :    23698 : Total  Size=      95717 bytes  File Size  =       9781 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   9.73     *
+*............................................................................*
+*Br  163 :m_pdf_id2 : Int_t                                                  *
+*Entries :    23698 : Total  Size=      95717 bytes  File Size  =       9817 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   9.70     *
+*............................................................................*
+*Br  164 :m_pdf_x1  : Float_t                                                *
+*Entries :    23698 : Total  Size=      95708 bytes  File Size  =      85084 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.12     *
+*............................................................................*
+*Br  165 :m_pdf_x2  : Float_t                                                *
+*Entries :    23698 : Total  Size=      95708 bytes  File Size  =      85576 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.11     *
+*............................................................................*
+*Br  166 :m_pdf_xPDF1 : Float_t                                              *
+*Entries :    23698 : Total  Size=      95735 bytes  File Size  =       1063 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  89.58     *
+*............................................................................*
+*Br  167 :m_pdf_xPDF2 : Float_t                                              *
+*Entries :    23698 : Total  Size=      95735 bytes  File Size  =       1063 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  89.58     *
+*............................................................................*
+*Br  168 :m_pdf_scalePDF : Float_t                                           *
+*Entries :    23698 : Total  Size=      95762 bytes  File Size  =      79274 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.20     *
+*............................................................................*
+*Br  169 :m_pileup_NumInteractions_intime : Int_t                            *
+*Entries :    23698 : Total  Size=      95915 bytes  File Size  =      21079 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   4.52     *
+*............................................................................*
+*Br  170 :m_pileup_NumInteractions_ootbefore : Int_t                         *
+*Entries :    23698 : Total  Size=      95942 bytes  File Size  =      21074 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   4.52     *
+*............................................................................*
+*Br  171 :m_pileup_NumInteractions_ootafter : Int_t                          *
+*Entries :    23698 : Total  Size=      95933 bytes  File Size  =      21053 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   4.53     *
+*............................................................................*
+*Br  172 :m_pileup_TrueNumInteractions : Float_t                             *
+*Entries :    23698 : Total  Size=      95888 bytes  File Size  =      80104 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.19     *
+*............................................................................*
+*Br  173 :m_PU_pT_hat_max : Float_t                                          *
+*Entries :    23698 : Total  Size=      95771 bytes  File Size  =      78787 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=   1.21     *
+*............................................................................*
+*Br  174 :GenParticles : Int_t GenParticles_                                 *
+*Entries :    23698 : Total  Size=     200884 bytes  File Size  =      16248 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  11.73     *
+*............................................................................*
+*Br  175 :GenParticles.m_charge : Short_t m_charge[GenParticles_]            *
+*Entries :    23698 : Total  Size=      96059 bytes  File Size  =       1354 *
+*Baskets :        6 : Basket Size=      71680 bytes  Compression=  70.47     *
+*............................................................................*
+*Br  176 :GenParticles.m_pt : Float_t m_pt[GenParticles_]                    *
+*Entries :    23698 : Total  Size=      96019 bytes  File Size  =       1330 *
+*Baskets :        6 : Basket Size=      71680 bytes  Compression=  71.72     *
+*............................................................................*
+*Br  177 :GenParticles.m_eta : Float_t m_eta[GenParticles_]                  *
+*Entries :    23698 : Total  Size=      96029 bytes  File Size  =       1336 *
+*Baskets :        6 : Basket Size=      71680 bytes  Compression=  71.41     *
+*............................................................................*
+*Br  178 :GenParticles.m_phi : Float_t m_phi[GenParticles_]                  *
+*Entries :    23698 : Total  Size=      96029 bytes  File Size  =       1336 *
+*Baskets :        6 : Basket Size=      71680 bytes  Compression=  71.41     *
+*............................................................................*
+*Br  179 :GenParticles.m_energy : Float_t m_energy[GenParticles_]            *
+*Entries :    23698 : Total  Size=      96059 bytes  File Size  =       1354 *
+*Baskets :        6 : Basket Size=      71680 bytes  Compression=  70.47     *
+*............................................................................*
+*Br  180 :GenParticles.m_pdgId : Int_t m_pdgId[GenParticles_]                *
+*Entries :    23698 : Total  Size=      96049 bytes  File Size  =       1348 *
+*Baskets :        6 : Basket Size=      71680 bytes  Compression=  70.78     *
+*............................................................................*
+*Br  181 :GenParticles.m_partonFlavour : Int_t m_partonFlavour[GenParticles_]*
+*Entries :    23698 : Total  Size=      96129 bytes  File Size  =       1396 *
+*Baskets :        6 : Basket Size=      71680 bytes  Compression=  68.38     *
+*............................................................................*
+*Br  182 :GenParticles.m_hadronFlavour : Int_t m_hadronFlavour[GenParticles_]*
+*Entries :    23698 : Total  Size=      96129 bytes  File Size  =       1396 *
+*Baskets :        6 : Basket Size=      71680 bytes  Compression=  68.38     *
+*............................................................................*
+*Br  183 :GenParticles.m_status : Short_t m_status[GenParticles_]            *
+*Entries :    23698 : Total  Size=      96059 bytes  File Size  =       1354 *
+*Baskets :        6 : Basket Size=      71680 bytes  Compression=  70.47     *
+*............................................................................*
+*Br  184 :GenParticles.m_index : UShort_t m_index[GenParticles_]             *
+*Entries :    23698 : Total  Size=      96049 bytes  File Size  =       1348 *
+*Baskets :        6 : Basket Size=      71680 bytes  Compression=  70.78     *
+*............................................................................*
+*Br  185 :GenParticles.m_mother1 : UShort_t m_mother1[GenParticles_]         *
+*Entries :    23698 : Total  Size=      96069 bytes  File Size  =       1360 *
+*Baskets :        6 : Basket Size=      71680 bytes  Compression=  70.16     *
+*............................................................................*
+*Br  186 :GenParticles.m_mother2 : UShort_t m_mother2[GenParticles_]         *
+*Entries :    23698 : Total  Size=      96069 bytes  File Size  =       1360 *
+*Baskets :        6 : Basket Size=      71680 bytes  Compression=  70.16     *
+*............................................................................*
+*Br  187 :GenParticles.m_daughter1 : UShort_t m_daughter1[GenParticles_]     *
+*Entries :    23698 : Total  Size=      96089 bytes  File Size  =       1372 *
+*Baskets :        6 : Basket Size=      71680 bytes  Compression=  69.56     *
+*............................................................................*
+*Br  188 :GenParticles.m_daughter2 : UShort_t m_daughter2[GenParticles_]     *
+*Entries :    23698 : Total  Size=      96089 bytes  File Size  =       1372 *
+*Baskets :        6 : Basket Size=      71680 bytes  Compression=  69.56     *
+*............................................................................*
+*Br  189 :GenParticles.m_spin : Short_t m_spin[GenParticles_]                *
+*Entries :    23698 : Total  Size=      96039 bytes  File Size  =       1342 *
+*Baskets :        6 : Basket Size=      71680 bytes  Compression=  71.09     *
+*............................................................................*
+*Br  190 :PFParticles : Int_t PFParticles_                                   *
+*Entries :    23698 : Total  Size=     196511 bytes  File Size  =      16202 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  11.76     *
+*............................................................................*
+*Br  191 :PFParticles.m_charge : Short_t m_charge[PFParticles_]              *
+*Entries :    23698 : Total  Size=      96047 bytes  File Size  =       1348 *
+*Baskets :        6 : Basket Size=      71680 bytes  Compression=  70.78     *
+*............................................................................*
+*Br  192 :PFParticles.m_pt : Float_t m_pt[PFParticles_]                      *
+*Entries :    23698 : Total  Size=      96007 bytes  File Size  =       1324 *
+*Baskets :        6 : Basket Size=      71680 bytes  Compression=  72.04     *
+*............................................................................*
+*Br  193 :PFParticles.m_eta : Float_t m_eta[PFParticles_]                    *
+*Entries :    23698 : Total  Size=      96017 bytes  File Size  =       1330 *
+*Baskets :        6 : Basket Size=      71680 bytes  Compression=  71.72     *
+*............................................................................*
+*Br  194 :PFParticles.m_phi : Float_t m_phi[PFParticles_]                    *
+*Entries :    23698 : Total  Size=      96017 bytes  File Size  =       1330 *
+*Baskets :        6 : Basket Size=      71680 bytes  Compression=  71.72     *
+*............................................................................*
+*Br  195 :PFParticles.m_energy : Float_t m_energy[PFParticles_]              *
+*Entries :    23698 : Total  Size=      96047 bytes  File Size  =       1348 *
+*Baskets :        6 : Basket Size=      71680 bytes  Compression=  70.78     *
+*............................................................................*
+*Br  196 :PFParticles.m_particleID : Int_t m_particleID[PFParticles_]        *
+*Entries :    23698 : Total  Size=      96087 bytes  File Size  =       1372 *
+*Baskets :        6 : Basket Size=      71680 bytes  Compression=  69.56     *
+*............................................................................*
+*Br  197 :PFParticles.m_puppi_weight : Float_t m_puppi_weight[PFParticles_]  *
+*Entries :    23698 : Total  Size=      96107 bytes  File Size  =       1384 *
+*Baskets :        6 : Basket Size=      71680 bytes  Compression=  68.96     *
+*............................................................................*
+*Br  198 :PFParticles.m_puppi_weight_nolep :                                 *
+*         | Float_t m_puppi_weight_nolep[PFParticles_]                       *
+*Entries :    23698 : Total  Size=      96167 bytes  File Size  =       1420 *
+*Baskets :        6 : Basket Size=      71680 bytes  Compression=  67.24     *
+*............................................................................*
+*Br  199 :triggerNames : vector<string>                                      *
+*Entries :    23698 : Total  Size=     359985 bytes  File Size  =      27140 *
+*Baskets :        8 : Basket Size=     182272 bytes  Compression=  13.24     *
+*............................................................................*
+*Br  200 :triggerResults : vector<bool>                                      *
+*Entries :    23698 : Total  Size=   18216672 bytes  File Size  =     540166 *
+*Baskets :      139 : Basket Size=    1812480 bytes  Compression=  33.72     *
+*............................................................................*
+*Br  201 :triggerPrescales : vector<double>                                  *
+*Entries :    23698 : Total  Size=     332998 bytes  File Size  =      21808 *
+*Baskets :        7 : Basket Size=     144384 bytes  Compression=  15.25     *
+*............................................................................*
+*Br  202 :triggerPrescalesL1min : vector<double>                             *
+*Entries :    23698 : Total  Size=     333053 bytes  File Size  =      21819 *
+*Baskets :        7 : Basket Size=     144384 bytes  Compression=  15.24     *
+*............................................................................*
+*Br  203 :triggerPrescalesL1max : vector<double>                             *
+*Entries :    23698 : Total  Size=     333053 bytes  File Size  =      21819 *
+*Baskets :        7 : Basket Size=     144384 bytes  Compression=  15.24     *
+*............................................................................*
+*Br  204 :passEcalBadCalib : passEcalBadCalib/O                              *
+*Entries :    23698 : Total  Size=      24676 bytes  File Size  =        952 *
+*Baskets :        5 : Basket Size=       7680 bytes  Compression=  25.37     *
+*............................................................................*
+*Br  205 :prefiringWeight : prefiringWeight/F                                *
+*Entries :    23698 : Total  Size=      95767 bytes  File Size  =       1103 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  86.35     *
+*............................................................................*
+*Br  206 :prefiringWeightUp : prefiringWeightUp/F                            *
+*Entries :    23698 : Total  Size=      95785 bytes  File Size  =       1113 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  85.58     *
+*............................................................................*
+*Br  207 :prefiringWeightDown : prefiringWeightDown/F                        *
+*Entries :    23698 : Total  Size=      95803 bytes  File Size  =       1123 *
+*Baskets :        5 : Basket Size=      29696 bytes  Compression=  84.83     *
+*............................................................................*
+*Br  208 :slimmedElectrons : Int_t slimmedElectrons_                         *
+*Entries :    23698 : Total  Size=     240219 bytes  File Size  =      19420 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   9.81     *
+*............................................................................*
+*Br  209 :slimmedElectrons.m_charge : Short_t m_charge[slimmedElectrons_]    *
+*Entries :    23698 : Total  Size=     161225 bytes  File Size  =      20898 *
+*Baskets :        6 : Basket Size=      92160 bytes  Compression=   7.68     *
+*............................................................................*
+*Br  210 :slimmedElectrons.m_pt : Float_t m_pt[slimmedElectrons_]            *
+*Entries :    23698 : Total  Size=     226407 bytes  File Size  =     135635 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.66     *
+*............................................................................*
+*Br  211 :slimmedElectrons.m_eta : Float_t m_eta[slimmedElectrons_]          *
+*Entries :    23698 : Total  Size=     226418 bytes  File Size  =     138270 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.63     *
+*............................................................................*
+*Br  212 :slimmedElectrons.m_phi : Float_t m_phi[slimmedElectrons_]          *
+*Entries :    23698 : Total  Size=     226418 bytes  File Size  =     137994 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.64     *
+*............................................................................*
+*Br  213 :slimmedElectrons.m_energy : Float_t m_energy[slimmedElectrons_]    *
+*Entries :    23698 : Total  Size=     226451 bytes  File Size  =     136715 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.65     *
+*............................................................................*
+*Br  214 :slimmedElectrons.m_ptError : Float_t m_ptError[slimmedElectrons_]  *
+*Entries :    23698 : Total  Size=     226462 bytes  File Size  =     136570 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.65     *
+*............................................................................*
+*Br  215 :slimmedElectrons.m_etaError : Float_t m_etaError[slimmedElectrons_]*
+*Entries :    23698 : Total  Size=     226473 bytes  File Size  =     133629 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.69     *
+*............................................................................*
+*Br  216 :slimmedElectrons.m_phiError : Float_t m_phiError[slimmedElectrons_]*
+*Entries :    23698 : Total  Size=     226473 bytes  File Size  =     135173 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.67     *
+*............................................................................*
+*Br  217 :slimmedElectrons.m_supercluster_eta :                              *
+*         | Float_t m_supercluster_eta[slimmedElectrons_]                    *
+*Entries :    23698 : Total  Size=     226561 bytes  File Size  =     137993 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.64     *
+*............................................................................*
+*Br  218 :slimmedElectrons.m_supercluster_phi :                              *
+*         | Float_t m_supercluster_phi[slimmedElectrons_]                    *
+*Entries :    23698 : Total  Size=     226561 bytes  File Size  =     138073 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.64     *
+*............................................................................*
+*Br  219 :slimmedElectrons.m_dB : Float_t m_dB[slimmedElectrons_]            *
+*Entries :    23698 : Total  Size=     226407 bytes  File Size  =     137871 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.64     *
+*............................................................................*
+*Br  220 :slimmedElectrons.m_neutralHadronIso :                              *
+*         | Float_t m_neutralHadronIso[slimmedElectrons_]                    *
+*Entries :    23698 : Total  Size=     226561 bytes  File Size  =     109377 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   2.06     *
+*............................................................................*
+*Br  221 :slimmedElectrons.m_chargedHadronIso :                              *
+*         | Float_t m_chargedHadronIso[slimmedElectrons_]                    *
+*Entries :    23698 : Total  Size=     226561 bytes  File Size  =     127621 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.77     *
+*............................................................................*
+*Br  222 :slimmedElectrons.m_photonIso :                                     *
+*         | Float_t m_photonIso[slimmedElectrons_]                           *
+*Entries :    23698 : Total  Size=     226484 bytes  File Size  =     128736 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.75     *
+*............................................................................*
+*Br  223 :slimmedElectrons.m_trackIso : Float_t m_trackIso[slimmedElectrons_]*
+*Entries :    23698 : Total  Size=     226473 bytes  File Size  =      17333 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=  13.03     *
+*............................................................................*
+*Br  224 :slimmedElectrons.m_puChargedHadronIso :                            *
+*         | Float_t m_puChargedHadronIso[slimmedElectrons_]                  *
+*Entries :    23698 : Total  Size=     226583 bytes  File Size  =     133147 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.70     *
+*............................................................................*
+*Br  225 :slimmedElectrons.m_gsfTrack_trackerExpectedHitsInner_numberOfLostHits : *
+*         | Int_t m_gsfTrack_trackerExpectedHitsInner_numberOfLostHits[slimmedElectrons_]*
+*Entries :    23698 : Total  Size=     226935 bytes  File Size  =      24887 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   9.08     *
+*............................................................................*
+*Br  226 :slimmedElectrons.m_gsfTrack_px :                                   *
+*         | Float_t m_gsfTrack_px[slimmedElectrons_]                         *
+*Entries :    23698 : Total  Size=     226506 bytes  File Size  =     140370 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.61     *
+*............................................................................*
+*Br  227 :slimmedElectrons.m_gsfTrack_py :                                   *
+*         | Float_t m_gsfTrack_py[slimmedElectrons_]                         *
+*Entries :    23698 : Total  Size=     226506 bytes  File Size  =     140406 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.61     *
+*............................................................................*
+*Br  228 :slimmedElectrons.m_gsfTrack_pz :                                   *
+*         | Float_t m_gsfTrack_pz[slimmedElectrons_]                         *
+*Entries :    23698 : Total  Size=     226506 bytes  File Size  =     140938 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.60     *
+*............................................................................*
+*Br  229 :slimmedElectrons.m_gsfTrack_vx :                                   *
+*         | Float_t m_gsfTrack_vx[slimmedElectrons_]                         *
+*Entries :    23698 : Total  Size=     226506 bytes  File Size  =     118094 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.91     *
+*............................................................................*
+*Br  230 :slimmedElectrons.m_gsfTrack_vy :                                   *
+*         | Float_t m_gsfTrack_vy[slimmedElectrons_]                         *
+*Entries :    23698 : Total  Size=     226506 bytes  File Size  =     130074 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.74     *
+*............................................................................*
+*Br  231 :slimmedElectrons.m_gsfTrack_vz :                                   *
+*         | Float_t m_gsfTrack_vz[slimmedElectrons_]                         *
+*Entries :    23698 : Total  Size=     226506 bytes  File Size  =     131638 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.72     *
+*............................................................................*
+*Br  232 :slimmedElectrons.m_passconversionveto :                            *
+*         | Bool_t m_passconversionveto[slimmedElectrons_]                   *
+*Entries :    23698 : Total  Size=     128786 bytes  File Size  =      15810 *
+*Baskets :        6 : Basket Size=      81920 bytes  Compression=   8.10     *
+*............................................................................*
+*Br  233 :slimmedElectrons.m_dEtaIn : Float_t m_dEtaIn[slimmedElectrons_]    *
+*Entries :    23698 : Total  Size=     226451 bytes  File Size  =     119951 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.88     *
+*............................................................................*
+*Br  234 :slimmedElectrons.m_dPhiIn : Float_t m_dPhiIn[slimmedElectrons_]    *
+*Entries :    23698 : Total  Size=     226451 bytes  File Size  =     129803 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.74     *
+*............................................................................*
+*Br  235 :slimmedElectrons.m_sigmaIEtaIEta :                                 *
+*         | Float_t m_sigmaIEtaIEta[slimmedElectrons_]                       *
+*Entries :    23698 : Total  Size=     226528 bytes  File Size  =     126936 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.78     *
+*............................................................................*
+*Br  236 :slimmedElectrons.m_HoverE : Float_t m_HoverE[slimmedElectrons_]    *
+*Entries :    23698 : Total  Size=     226451 bytes  File Size  =     132203 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.71     *
+*............................................................................*
+*Br  237 :slimmedElectrons.m_fbrem : Float_t m_fbrem[slimmedElectrons_]      *
+*Entries :    23698 : Total  Size=     226440 bytes  File Size  =     137264 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.64     *
+*............................................................................*
+*Br  238 :slimmedElectrons.m_EoverPIn : Float_t m_EoverPIn[slimmedElectrons_]*
+*Entries :    23698 : Total  Size=     226473 bytes  File Size  =     134901 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.67     *
+*............................................................................*
+*Br  239 :slimmedElectrons.m_EcalEnergy :                                    *
+*         | Float_t m_EcalEnergy[slimmedElectrons_]                          *
+*Entries :    23698 : Total  Size=     226495 bytes  File Size  =     137275 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.64     *
+*............................................................................*
+*Br  240 :slimmedElectrons.m_hcalOverEcal :                                  *
+*         | Float_t m_hcalOverEcal[slimmedElectrons_]                        *
+*Entries :    23698 : Total  Size=     226517 bytes  File Size  =     132201 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.71     *
+*............................................................................*
+*Br  241 :slimmedElectrons.m_ecalPFClusterIso :                              *
+*         | Float_t m_ecalPFClusterIso[slimmedElectrons_]                    *
+*Entries :    23698 : Total  Size=     226561 bytes  File Size  =     132581 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.70     *
+*............................................................................*
+*Br  242 :slimmedElectrons.m_hcalPFClusterIso :                              *
+*         | Float_t m_hcalPFClusterIso[slimmedElectrons_]                    *
+*Entries :    23698 : Total  Size=     226561 bytes  File Size  =     135281 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.67     *
+*............................................................................*
+*Br  243 :slimmedElectrons.m_dr03TkSumPt :                                   *
+*         | Float_t m_dr03TkSumPt[slimmedElectrons_]                         *
+*Entries :    23698 : Total  Size=     226506 bytes  File Size  =     122310 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.85     *
+*............................................................................*
+*Br  244 :slimmedElectrons.m_mvaGeneralPurpose :                             *
+*         | Float_t m_mvaGeneralPurpose[slimmedElectrons_]                   *
+*Entries :    23698 : Total  Size=     226572 bytes  File Size  =     112836 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   2.00     *
+*............................................................................*
+*Br  245 :slimmedElectrons.m_mvaHZZ : Float_t m_mvaHZZ[slimmedElectrons_]    *
+*Entries :    23698 : Total  Size=     226451 bytes  File Size  =     113467 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.99     *
+*............................................................................*
+*Br  246 :slimmedElectrons.m_mvaIso : Float_t m_mvaIso[slimmedElectrons_]    *
+*Entries :    23698 : Total  Size=     226451 bytes  File Size  =      97287 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   2.32     *
+*............................................................................*
+*Br  247 :slimmedElectrons.m_mvaNoIso : Float_t m_mvaNoIso[slimmedElectrons_]*
+*Entries :    23698 : Total  Size=     226473 bytes  File Size  =      97801 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   2.31     *
+*............................................................................*
+*Br  248 :slimmedElectrons.m_AEff : Float_t m_AEff[slimmedElectrons_]        *
+*Entries :    23698 : Total  Size=     226429 bytes  File Size  =      17341 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=  13.02     *
+*............................................................................*
+*Br  249 :slimmedElectrons.m_pfMINIIso_CH :                                  *
+*         | Float_t m_pfMINIIso_CH[slimmedElectrons_]                        *
+*Entries :    23698 : Total  Size=     226517 bytes  File Size  =      17393 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=  12.98     *
+*............................................................................*
+*Br  250 :slimmedElectrons.m_pfMINIIso_NH :                                  *
+*         | Float_t m_pfMINIIso_NH[slimmedElectrons_]                        *
+*Entries :    23698 : Total  Size=     226517 bytes  File Size  =      17393 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=  12.98     *
+*............................................................................*
+*Br  251 :slimmedElectrons.m_pfMINIIso_Ph :                                  *
+*         | Float_t m_pfMINIIso_Ph[slimmedElectrons_]                        *
+*Entries :    23698 : Total  Size=     226517 bytes  File Size  =      17393 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=  12.98     *
+*............................................................................*
+*Br  252 :slimmedElectrons.m_pfMINIIso_PU :                                  *
+*         | Float_t m_pfMINIIso_PU[slimmedElectrons_]                        *
+*Entries :    23698 : Total  Size=     226517 bytes  File Size  =      17393 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=  12.98     *
+*............................................................................*
+*Br  253 :slimmedElectrons.m_pfMINIIso_NH_pfwgt :                            *
+*         | Float_t m_pfMINIIso_NH_pfwgt[slimmedElectrons_]                  *
+*Entries :    23698 : Total  Size=     226583 bytes  File Size  =      17419 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=  12.97     *
+*............................................................................*
+*Br  254 :slimmedElectrons.m_pfMINIIso_Ph_pfwgt :                            *
+*         | Float_t m_pfMINIIso_Ph_pfwgt[slimmedElectrons_]                  *
+*Entries :    23698 : Total  Size=     226583 bytes  File Size  =      17419 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=  12.97     *
+*............................................................................*
+*Br  255 :slimmedElectrons.m_minDeltaRToL1EGamma :                           *
+*         | Double_t m_minDeltaRToL1EGamma[slimmedElectrons_]                *
+*Entries :    23698 : Total  Size=     356951 bytes  File Size  =     260732 *
+*Baskets :        8 : Basket Size=     153600 bytes  Compression=   1.37     *
+*............................................................................*
+*Br  256 :slimmedElectrons.m_source_candidates :                             *
+*         | vector<source_candidate> m_source_candidates[slimmedElectrons_]  *
+*Entries :    23698 : Total  Size=     511186 bytes  File Size  =      37764 *
+*Baskets :        9 : Basket Size=     200704 bytes  Compression=  13.52     *
+*............................................................................*
+*Br  257 :slimmedElectrons.tags.tagdata :                                    *
+*         | map<int,float> tagdata[slimmedElectrons_]                        *
+*Entries :    23698 : Total  Size=    7550429 bytes  File Size  =      95519 *
+*Baskets :       59 : Basket Size=    1812480 bytes  Compression=  79.03     *
+*............................................................................*
+*Br  258 :slimmedElectrons.m_Nclusters : Int_t m_Nclusters[slimmedElectrons_]*
+*Entries :    23698 : Total  Size=     226484 bytes  File Size  =      31032 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   7.28     *
+*............................................................................*
+*Br  259 :slimmedElectrons.m_Class : Int_t m_Class[slimmedElectrons_]        *
+*Entries :    23698 : Total  Size=     226440 bytes  File Size  =      28988 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   7.79     *
+*............................................................................*
+*Br  260 :slimmedElectrons.m_isEcalDriven :                                  *
+*         | Bool_t m_isEcalDriven[slimmedElectrons_]                         *
+*Entries :    23698 : Total  Size=     128726 bytes  File Size  =      18074 *
+*Baskets :        6 : Basket Size=      81920 bytes  Compression=   7.08     *
+*............................................................................*
+*Br  261 :slimmedElectrons.m_dxy : Float_t m_dxy[slimmedElectrons_]          *
+*Entries :    23698 : Total  Size=     226418 bytes  File Size  =     141462 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.60     *
+*............................................................................*
+*Br  262 :slimmedElectrons.m_dEtaInSeed :                                    *
+*         | Float_t m_dEtaInSeed[slimmedElectrons_]                          *
+*Entries :    23698 : Total  Size=     226495 bytes  File Size  =     134491 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.68     *
+*............................................................................*
+*Br  263 :slimmedElectrons.m_full5x5_e1x5 :                                  *
+*         | Float_t m_full5x5_e1x5[slimmedElectrons_]                        *
+*Entries :    23698 : Total  Size=     226517 bytes  File Size  =     136945 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.65     *
+*............................................................................*
+*Br  264 :slimmedElectrons.m_full5x5_e2x5Max :                               *
+*         | Float_t m_full5x5_e2x5Max[slimmedElectrons_]                     *
+*Entries :    23698 : Total  Size=     226550 bytes  File Size  =     137234 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.65     *
+*............................................................................*
+*Br  265 :slimmedElectrons.m_full5x5_e5x5 :                                  *
+*         | Float_t m_full5x5_e5x5[slimmedElectrons_]                        *
+*Entries :    23698 : Total  Size=     226517 bytes  File Size  =     137081 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.65     *
+*............................................................................*
+*Br  266 :slimmedElectrons.m_dxylog : Float_t m_dxylog[slimmedElectrons_]    *
+*Entries :    23698 : Total  Size=     226451 bytes  File Size  =     125827 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.79     *
+*............................................................................*
+*Br  267 :slimmedElectrons.m_miniIsoCharged :                                *
+*         | Float_t m_miniIsoCharged[slimmedElectrons_]                      *
+*Entries :    23698 : Total  Size=     226539 bytes  File Size  =      17391 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=  12.99     *
+*............................................................................*
+*Br  268 :slimmedElectrons.m_miniIsoNeutral :                                *
+*         | Float_t m_miniIsoNeutral[slimmedElectrons_]                      *
+*Entries :    23698 : Total  Size=     226539 bytes  File Size  =      17391 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=  12.99     *
+*............................................................................*
+*Br  269 :slimmedElectrons.m_sip3d : Float_t m_sip3d[slimmedElectrons_]      *
+*Entries :    23698 : Total  Size=     226440 bytes  File Size  =     137580 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.64     *
+*............................................................................*
+*Br  270 :slimmedElectrons.m_dzlog : Float_t m_dzlog[slimmedElectrons_]      *
+*Entries :    23698 : Total  Size=     226440 bytes  File Size  =     131760 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.71     *
+*............................................................................*
+*Br  271 :slimmedElectrons.m_jetNDauChargedMVASel :                          *
+*         | Float_t m_jetNDauChargedMVASel[slimmedElectrons_]                *
+*Entries :    23698 : Total  Size=     226605 bytes  File Size  =      17437 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=  12.95     *
+*............................................................................*
+*Br  272 :slimmedElectrons.m_pTRel : Float_t m_pTRel[slimmedElectrons_]      *
+*Entries :    23698 : Total  Size=     226440 bytes  File Size  =      17368 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=  13.00     *
+*............................................................................*
+*Br  273 :slimmedElectrons.m_ptRatio : Float_t m_ptRatio[slimmedElectrons_]  *
+*Entries :    23698 : Total  Size=     226462 bytes  File Size  =      17358 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=  13.01     *
+*............................................................................*
+*Br  274 :slimmedElectrons.m_bTagDeepJetClosestJet :                         *
+*         | Float_t m_bTagDeepJetClosestJet[slimmedElectrons_]               *
+*Entries :    23698 : Total  Size=     226616 bytes  File Size  =      17468 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=  12.93     *
+*............................................................................*
+*Br  275 :slimmedElectrons.m_puppiChargedHadronIso :                         *
+*         | Float_t m_puppiChargedHadronIso[slimmedElectrons_]               *
+*Entries :    23698 : Total  Size=     226616 bytes  File Size  =     119980 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.88     *
+*............................................................................*
+*Br  276 :slimmedElectrons.m_puppiNeutralHadronIso :                         *
+*         | Float_t m_puppiNeutralHadronIso[slimmedElectrons_]               *
+*Entries :    23698 : Total  Size=     226616 bytes  File Size  =      91520 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   2.47     *
+*............................................................................*
+*Br  277 :slimmedElectrons.m_puppiPhotonIso :                                *
+*         | Float_t m_puppiPhotonIso[slimmedElectrons_]                      *
+*Entries :    23698 : Total  Size=     226539 bytes  File Size  =     115031 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.96     *
+*............................................................................*
+*Br  278 :slimmedElectrons.m_puppiNoLeptonsChargedHadronIso :                *
+*         | Float_t m_puppiNoLeptonsChargedHadronIso[slimmedElectrons_]      *
+*Entries :    23698 : Total  Size=     226715 bytes  File Size  =     119591 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.89     *
+*............................................................................*
+*Br  279 :slimmedElectrons.m_puppiNoLeptonsNeutralHadronIso :                *
+*         | Float_t m_puppiNoLeptonsNeutralHadronIso[slimmedElectrons_]      *
+*Entries :    23698 : Total  Size=     226715 bytes  File Size  =      91735 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   2.46     *
+*............................................................................*
+*Br  280 :slimmedElectrons.m_puppiNoLeptonsPhotonIso :                       *
+*         | Float_t m_puppiNoLeptonsPhotonIso[slimmedElectrons_]             *
+*Entries :    23698 : Total  Size=     226638 bytes  File Size  =     115226 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=   1.96     *
+*............................................................................*
+*Br  281 :slimmedElectrons.m_electronMVATOP :                                *
+*         | Float_t m_electronMVATOP[slimmedElectrons_]                      *
+*Entries :    23698 : Total  Size=     226539 bytes  File Size  =      17391 *
+*Baskets :        7 : Basket Size=     112640 bytes  Compression=  12.99     *
+*............................................................................*
+*Br  282 :slimmedPhotons : Int_t slimmedPhotons_                             *
+*Entries :    23698 : Total  Size=     210478 bytes  File Size  =      17052 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  11.17     *
+*............................................................................*
+*Br  283 :slimmedPhotons.m_charge : Short_t m_charge[slimmedPhotons_]        *
+*Entries :    23698 : Total  Size=     142337 bytes  File Size  =      13590 *
+*Baskets :        6 : Basket Size=      86016 bytes  Compression=  10.43     *
+*............................................................................*
+*Br  284 :slimmedPhotons.m_pt : Float_t m_pt[slimmedPhotons_]                *
+*Entries :    23698 : Total  Size=     188551 bytes  File Size  =      98074 *
+*Baskets :        6 : Basket Size=     100352 bytes  Compression=   1.92     *
+*............................................................................*
+*Br  285 :slimmedPhotons.m_eta : Float_t m_eta[slimmedPhotons_]              *
+*Entries :    23698 : Total  Size=     188561 bytes  File Size  =     100420 *
+*Baskets :        6 : Basket Size=     100352 bytes  Compression=   1.87     *
+*............................................................................*
+*Br  286 :slimmedPhotons.m_phi : Float_t m_phi[slimmedPhotons_]              *
+*Entries :    23698 : Total  Size=     188561 bytes  File Size  =     100452 *
+*Baskets :        6 : Basket Size=     100352 bytes  Compression=   1.87     *
+*............................................................................*
+*Br  287 :slimmedPhotons.m_energy : Float_t m_energy[slimmedPhotons_]        *
+*Entries :    23698 : Total  Size=     188591 bytes  File Size  =      99114 *
+*Baskets :        6 : Basket Size=     100352 bytes  Compression=   1.90     *
+*............................................................................*
+*Br  288 :slimmedPhotons.m_ptError : Float_t m_ptError[slimmedPhotons_]      *
+*Entries :    23698 : Total  Size=     188601 bytes  File Size  =      14876 *
+*Baskets :        6 : Basket Size=     100352 bytes  Compression=  12.63     *
+*............................................................................*
+*Br  289 :slimmedPhotons.m_etaError : Float_t m_etaError[slimmedPhotons_]    *
+*Entries :    23698 : Total  Size=     188611 bytes  File Size  =      14862 *
+*Baskets :        6 : Basket Size=     100352 bytes  Compression=  12.65     *
+*............................................................................*
+*Br  290 :slimmedPhotons.m_phiError : Float_t m_phiError[slimmedPhotons_]    *
+*Entries :    23698 : Total  Size=     188611 bytes  File Size  =      14862 *
+*Baskets :        6 : Basket Size=     100352 bytes  Compression=  12.65     *
+*............................................................................*
+*Br  291 :slimmedPhotons.m_vertex_x : Float_t m_vertex_x[slimmedPhotons_]    *
+*Entries :    23698 : Total  Size=     188611 bytes  File Size  =      53122 *
+*Baskets :        6 : Basket Size=     100352 bytes  Compression=   3.54     *
+*............................................................................*
+*Br  292 :slimmedPhotons.m_vertex_y : Float_t m_vertex_y[slimmedPhotons_]    *
+*Entries :    23698 : Total  Size=     188611 bytes  File Size  =      58270 *
+*Baskets :        6 : Basket Size=     100352 bytes  Compression=   3.23     *
+*............................................................................*
+*Br  293 :slimmedPhotons.m_vertex_z : Float_t m_vertex_z[slimmedPhotons_]    *
+*Entries :    23698 : Total  Size=     188611 bytes  File Size  =      71802 *
+*Baskets :        6 : Basket Size=     100352 bytes  Compression=   2.62     *
+*............................................................................*
+*Br  294 :slimmedPhotons.m_supercluster_eta :                                *
+*         | Float_t m_supercluster_eta[slimmedPhotons_]                      *
+*Entries :    23698 : Total  Size=     188691 bytes  File Size  =     100566 *
+*Baskets :        6 : Basket Size=     100352 bytes  Compression=   1.87     *
+*............................................................................*
+*Br  295 :slimmedPhotons.m_supercluster_phi :                                *
+*         | Float_t m_supercluster_phi[slimmedPhotons_]                      *
+*Entries :    23698 : Total  Size=     188691 bytes  File Size  =     100274 *
+*Baskets :        6 : Basket Size=     100352 bytes  Compression=   1.87     *
+*............................................................................*
+*Br  296 :slimmedPhotons.m_puppiChargedHadronIso :                           *
+*         | Float_t m_puppiChargedHadronIso[slimmedPhotons_]                 *
+*Entries :    23698 : Total  Size=     188741 bytes  File Size  =      96880 *
+*Baskets :        6 : Basket Size=     100352 bytes  Compression=   1.94     *
+*............................................................................*
+*Br  297 :slimmedPhotons.m_puppiNeutralHadronIso :                           *
+*         | Float_t m_puppiNeutralHadronIso[slimmedPhotons_]                 *
+*Entries :    23698 : Total  Size=     188741 bytes  File Size  =      72264 *
+*Baskets :        6 : Basket Size=     100352 bytes  Compression=   2.60     *
+*............................................................................*
+*Br  298 :slimmedPhotons.m_puppiPhotonIso :                                  *
+*         | Float_t m_puppiPhotonIso[slimmedPhotons_]                        *
+*Entries :    23698 : Total  Size=     188671 bytes  File Size  =      91626 *
+*Baskets :        6 : Basket Size=     100352 bytes  Compression=   2.05     *
+*............................................................................*
+*Br  299 :slimmedPhotons.m_trackIso : Float_t m_trackIso[slimmedPhotons_]    *
+*Entries :    23698 : Total  Size=     188611 bytes  File Size  =      97710 *
+*Baskets :        6 : Basket Size=     100352 bytes  Compression=   1.92     *
+*............................................................................*
+*Br  300 :slimmedPhotons.m_ecalIso : Float_t m_ecalIso[slimmedPhotons_]      *
+*Entries :    23698 : Total  Size=     188601 bytes  File Size  =      97972 *
+*Baskets :        6 : Basket Size=     100352 bytes  Compression=   1.92     *
+*............................................................................*
+*Br  301 :slimmedPhotons.m_hcalIso : Float_t m_hcalIso[slimmedPhotons_]      *
+*Entries :    23698 : Total  Size=     188601 bytes  File Size  =      97956 *
+*Baskets :        6 : Basket Size=     100352 bytes  Compression=   1.92     *
+*............................................................................*
+*Br  302 :slimmedPhotons.m_caloIso : Float_t m_caloIso[slimmedPhotons_]      *
+*Entries :    23698 : Total  Size=     188601 bytes  File Size  =      97568 *
+*Baskets :        6 : Basket Size=     100352 bytes  Compression=   1.93     *
+*............................................................................*
+*Br  303 :slimmedPhotons.m_patParticleIso :                                  *
+*         | Float_t m_patParticleIso[slimmedPhotons_]                        *
+*Entries :    23698 : Total  Size=     188671 bytes  File Size  =      14938 *
+*Baskets :        6 : Basket Size=     100352 bytes  Compression=  12.58     *
+*............................................................................*
+*Br  304 :slimmedPhotons.m_chargedHadronIso :                                *
+*         | Float_t m_chargedHadronIso[slimmedPhotons_]                      *
+*Entries :    23698 : Total  Size=     188691 bytes  File Size  =      97066 *
+*Baskets :        6 : Basket Size=     100352 bytes  Compression=   1.94     *
+*............................................................................*
+*Br  305 :slimmedPhotons.m_neutralHadronIso :                                *
+*         | Float_t m_neutralHadronIso[slimmedPhotons_]                      *
+*Entries :    23698 : Total  Size=     188691 bytes  File Size  =      80338 *
+*Baskets :        6 : Basket Size=     100352 bytes  Compression=   2.34     *
+*............................................................................*
+*Br  306 :slimmedPhotons.m_photonIso : Float_t m_photonIso[slimmedPhotons_]  *
+*Entries :    23698 : Total  Size=     188621 bytes  File Size  =      95700 *
+*Baskets :        6 : Basket Size=     100352 bytes  Compression=   1.96     *
+*............................................................................*
+*Br  307 :slimmedPhotons.m_puChargedHadronIso :                              *
+*         | Float_t m_puChargedHadronIso[slimmedPhotons_]                    *
+*Entries :    23698 : Total  Size=     188711 bytes  File Size  =      95098 *
+*Baskets :        6 : Basket Size=     100352 bytes  Compression=   1.98     *
+*............................................................................*
+*Br  308 :slimmedPhotons.m_minDeltaRToL1EGamma :                             *
+*         | Double_t m_minDeltaRToL1EGamma[slimmedPhotons_]                  *
+*Entries :    23698 : Total  Size=     281348 bytes  File Size  =     186668 *
+*Baskets :        7 : Basket Size=     129536 bytes  Compression=   1.50     *
+*............................................................................*
+*Br  309 :slimmedPhotons.m_source_candidates :                               *
+*         | vector<source_candidate> m_source_candidates[slimmedPhotons_]    *
+*Entries :    23698 : Total  Size=    3288111 bytes  File Size  =    2061904 *
+*Baskets :       28 : Basket Size=    1066496 bytes  Compression=   1.59     *
+*............................................................................*
+*Br  310 :slimmedPhotons.tags.tagdata :                                      *
+*         | map<int,float> tagdata[slimmedPhotons_]                          *
+*Entries :    23698 : Total  Size=    5473309 bytes  File Size  =      80956 *
+*Baskets :       44 : Basket Size=    1751552 bytes  Compression=  67.59     *
+*............................................................................*
+*Br  311 :slimmedMuons : Int_t slimmedMuons_                                 *
+*Entries :    23698 : Total  Size=     228054 bytes  File Size  =      21880 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   8.71     *
+*............................................................................*
+*Br  312 :slimmedMuons.m_charge : Short_t m_charge[slimmedMuons_]            *
+*Entries :    23698 : Total  Size=     248341 bytes  File Size  =      32147 *
+*Baskets :        7 : Basket Size=     118272 bytes  Compression=   7.71     *
+*............................................................................*
+*Br  313 :slimmedMuons.m_pt : Float_t m_pt[slimmedMuons_]                    *
+*Entries :    23698 : Total  Size=     400575 bytes  File Size  =     293804 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   1.36     *
+*............................................................................*
+*Br  314 :slimmedMuons.m_eta : Float_t m_eta[slimmedMuons_]                  *
+*Entries :    23698 : Total  Size=     400587 bytes  File Size  =     293628 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   1.36     *
+*............................................................................*
+*Br  315 :slimmedMuons.m_phi : Float_t m_phi[slimmedMuons_]                  *
+*Entries :    23698 : Total  Size=     400587 bytes  File Size  =     299392 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   1.34     *
+*............................................................................*
+*Br  316 :slimmedMuons.m_energy : Float_t m_energy[slimmedMuons_]            *
+*Entries :    23698 : Total  Size=     400623 bytes  File Size  =     292004 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   1.37     *
+*............................................................................*
+*Br  317 :slimmedMuons.sel_bits : ULong_t sel_bits[slimmedMuons_]            *
+*Entries :    23698 : Total  Size=     705207 bytes  File Size  =     114978 *
+*Baskets :       10 : Basket Size=     258048 bytes  Compression=   6.13     *
+*............................................................................*
+*Br  318 :slimmedMuons.m_dxy : Float_t m_dxy[slimmedMuons_]                  *
+*Entries :    23698 : Total  Size=     400587 bytes  File Size  =     313164 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   1.28     *
+*............................................................................*
+*Br  319 :slimmedMuons.m_dxy_error : Float_t m_dxy_error[slimmedMuons_]      *
+*Entries :    23698 : Total  Size=     400659 bytes  File Size  =     296176 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   1.35     *
+*............................................................................*
+*Br  320 :slimmedMuons.m_dz : Float_t m_dz[slimmedMuons_]                    *
+*Entries :    23698 : Total  Size=     400575 bytes  File Size  =     314704 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   1.27     *
+*............................................................................*
+*Br  321 :slimmedMuons.m_dz_error : Float_t m_dz_error[slimmedMuons_]        *
+*Entries :    23698 : Total  Size=     400647 bytes  File Size  =     301112 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   1.33     *
+*............................................................................*
+*Br  322 :slimmedMuons.m_globalTrack_normalizedChi2 :                        *
+*         | Float_t m_globalTrack_normalizedChi2[slimmedMuons_]              *
+*Entries :    23698 : Total  Size=     400863 bytes  File Size  =      91652 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   4.37     *
+*............................................................................*
+*Br  323 :slimmedMuons.m_globalTrack_numberOfValidMuonHits :                 *
+*         | Int_t m_globalTrack_numberOfValidMuonHits[slimmedMuons_]         *
+*Entries :    23698 : Total  Size=     400947 bytes  File Size  =      47220 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   8.48     *
+*............................................................................*
+*Br  324 :slimmedMuons.m_numberOfMatchedStations :                           *
+*         | Int_t m_numberOfMatchedStations[slimmedMuons_]                   *
+*Entries :    23698 : Total  Size=     400827 bytes  File Size  =      41412 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   9.66     *
+*............................................................................*
+*Br  325 :slimmedMuons.m_innerTrack_trackerLayersWithMeasurement :           *
+*         | Int_t m_innerTrack_trackerLayersWithMeasurement[slimmedMuons_]   *
+*Entries :    23698 : Total  Size=     401019 bytes  File Size  =      64748 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   6.18     *
+*............................................................................*
+*Br  326 :slimmedMuons.m_innerTrack_numberOfValidPixelHits :                 *
+*         | Int_t m_innerTrack_numberOfValidPixelHits[slimmedMuons_]         *
+*Entries :    23698 : Total  Size=     400947 bytes  File Size  =      56928 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   7.03     *
+*............................................................................*
+*Br  327 :slimmedMuons.m_innerTrack_validFraction :                          *
+*         | Float_t m_innerTrack_validFraction[slimmedMuons_]                *
+*Entries :    23698 : Total  Size=     400839 bytes  File Size  =      79664 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   5.02     *
+*............................................................................*
+*Br  328 :slimmedMuons.m_combinedQuality_chi2LocalPosition :                 *
+*         | Float_t m_combinedQuality_chi2LocalPosition[slimmedMuons_]       *
+*Entries :    23698 : Total  Size=     400947 bytes  File Size  =      92972 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   4.30     *
+*............................................................................*
+*Br  329 :slimmedMuons.m_combinedQuality_trkKink :                           *
+*         | Float_t m_combinedQuality_trkKink[slimmedMuons_]                 *
+*Entries :    23698 : Total  Size=     400827 bytes  File Size  =     277808 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   1.44     *
+*............................................................................*
+*Br  330 :slimmedMuons.m_segmentCompatibility :                              *
+*         | Float_t m_segmentCompatibility[slimmedMuons_]                    *
+*Entries :    23698 : Total  Size=     400791 bytes  File Size  =     232256 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   1.72     *
+*............................................................................*
+*Br  331 :slimmedMuons.m_sumChargedHadronPt :                                *
+*         | Float_t m_sumChargedHadronPt[slimmedMuons_]                      *
+*Entries :    23698 : Total  Size=     400767 bytes  File Size  =     251076 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   1.59     *
+*............................................................................*
+*Br  332 :slimmedMuons.m_sumNeutralHadronEt :                                *
+*         | Float_t m_sumNeutralHadronEt[slimmedMuons_]                      *
+*Entries :    23698 : Total  Size=     400767 bytes  File Size  =     200736 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   1.99     *
+*............................................................................*
+*Br  333 :slimmedMuons.m_sumPhotonEt : Float_t m_sumPhotonEt[slimmedMuons_]  *
+*Entries :    23698 : Total  Size=     400683 bytes  File Size  =     194972 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   2.05     *
+*............................................................................*
+*Br  334 :slimmedMuons.m_sumPUPt : Float_t m_sumPUPt[slimmedMuons_]          *
+*Entries :    23698 : Total  Size=     400635 bytes  File Size  =     276976 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   1.44     *
+*............................................................................*
+*Br  335 :slimmedMuons.m_pfMINIIso_CH : Float_t m_pfMINIIso_CH[slimmedMuons_]*
+*Entries :    23698 : Total  Size=     400695 bytes  File Size  =      22632 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=  17.68     *
+*............................................................................*
+*Br  336 :slimmedMuons.m_pfMINIIso_NH : Float_t m_pfMINIIso_NH[slimmedMuons_]*
+*Entries :    23698 : Total  Size=     400695 bytes  File Size  =      22632 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=  17.68     *
+*............................................................................*
+*Br  337 :slimmedMuons.m_pfMINIIso_Ph : Float_t m_pfMINIIso_Ph[slimmedMuons_]*
+*Entries :    23698 : Total  Size=     400695 bytes  File Size  =      22632 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=  17.68     *
+*............................................................................*
+*Br  338 :slimmedMuons.m_pfMINIIso_PU : Float_t m_pfMINIIso_PU[slimmedMuons_]*
+*Entries :    23698 : Total  Size=     400695 bytes  File Size  =      22632 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=  17.68     *
+*............................................................................*
+*Br  339 :slimmedMuons.m_pfMINIIso_NH_pfwgt :                                *
+*         | Float_t m_pfMINIIso_NH_pfwgt[slimmedMuons_]                      *
+*Entries :    23698 : Total  Size=     400767 bytes  File Size  =      22656 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=  17.66     *
+*............................................................................*
+*Br  340 :slimmedMuons.m_pfMINIIso_Ph_pfwgt :                                *
+*         | Float_t m_pfMINIIso_Ph_pfwgt[slimmedMuons_]                      *
+*Entries :    23698 : Total  Size=     400767 bytes  File Size  =      22656 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=  17.66     *
+*............................................................................*
+*Br  341 :slimmedMuons.m_simType : Int_t m_simType[slimmedMuons_]            *
+*Entries :    23698 : Total  Size=     400635 bytes  File Size  =      42020 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   9.52     *
+*............................................................................*
+*Br  342 :slimmedMuons.m_simFlavor : Int_t m_simFlavor[slimmedMuons_]        *
+*Entries :    23698 : Total  Size=     400659 bytes  File Size  =      33348 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=  11.99     *
+*............................................................................*
+*Br  343 :slimmedMuons.m_simPdgId : Int_t m_simPdgId[slimmedMuons_]          *
+*Entries :    23698 : Total  Size=     400647 bytes  File Size  =      44052 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   9.08     *
+*............................................................................*
+*Br  344 :slimmedMuons.m_simMotherPdgId :                                    *
+*         | Int_t m_simMotherPdgId[slimmedMuons_]                            *
+*Entries :    23698 : Total  Size=     400719 bytes  File Size  =      37984 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=  10.53     *
+*............................................................................*
+*Br  345 :slimmedMuons.m_simHeaviestMotherFlavor :                           *
+*         | Int_t m_simHeaviestMotherFlavor[slimmedMuons_]                   *
+*Entries :    23698 : Total  Size=     400827 bytes  File Size  =      27512 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=  14.54     *
+*............................................................................*
+*Br  346 :slimmedMuons.m_tunePTrackPt : Float_t m_tunePTrackPt[slimmedMuons_]*
+*Entries :    23698 : Total  Size=     400695 bytes  File Size  =     293388 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   1.36     *
+*............................................................................*
+*Br  347 :slimmedMuons.m_tunePTrackEta :                                     *
+*         | Float_t m_tunePTrackEta[slimmedMuons_]                           *
+*Entries :    23698 : Total  Size=     400707 bytes  File Size  =     293544 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   1.36     *
+*............................................................................*
+*Br  348 :slimmedMuons.m_tunePTrackPhi :                                     *
+*         | Float_t m_tunePTrackPhi[slimmedMuons_]                           *
+*Entries :    23698 : Total  Size=     400707 bytes  File Size  =     298868 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   1.34     *
+*............................................................................*
+*Br  349 :slimmedMuons.m_tunePTrackType :                                    *
+*         | Int_t m_tunePTrackType[slimmedMuons_]                            *
+*Entries :    23698 : Total  Size=     400719 bytes  File Size  =      28588 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=  13.99     *
+*............................................................................*
+*Br  350 :slimmedMuons.m_minDeltaRToL1Muon :                                 *
+*         | Double_t m_minDeltaRToL1Muon[slimmedMuons_]                      *
+*Entries :    23698 : Total  Size=     705361 bytes  File Size  =     282716 *
+*Baskets :       10 : Basket Size=     258560 bytes  Compression=   2.49     *
+*............................................................................*
+*Br  351 :slimmedMuons.m_dxylog : Float_t m_dxylog[slimmedMuons_]            *
+*Entries :    23698 : Total  Size=     400623 bytes  File Size  =     283240 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   1.41     *
+*............................................................................*
+*Br  352 :slimmedMuons.m_miniIsoCharged :                                    *
+*         | Float_t m_miniIsoCharged[slimmedMuons_]                          *
+*Entries :    23698 : Total  Size=     400719 bytes  File Size  =      22616 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=  17.69     *
+*............................................................................*
+*Br  353 :slimmedMuons.m_miniIsoNeutral :                                    *
+*         | Float_t m_miniIsoNeutral[slimmedMuons_]                          *
+*Entries :    23698 : Total  Size=     400719 bytes  File Size  =      22616 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=  17.69     *
+*............................................................................*
+*Br  354 :slimmedMuons.m_sip3d : Float_t m_sip3d[slimmedMuons_]              *
+*Entries :    23698 : Total  Size=     400611 bytes  File Size  =     305516 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   1.31     *
+*............................................................................*
+*Br  355 :slimmedMuons.m_dzlog : Float_t m_dzlog[slimmedMuons_]              *
+*Entries :    23698 : Total  Size=     400611 bytes  File Size  =     299828 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   1.33     *
+*............................................................................*
+*Br  356 :slimmedMuons.m_jetNDauChargedMVASel :                              *
+*         | Float_t m_jetNDauChargedMVASel[slimmedMuons_]                    *
+*Entries :    23698 : Total  Size=     400791 bytes  File Size  =      22692 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=  17.63     *
+*............................................................................*
+*Br  357 :slimmedMuons.m_pTRel : Float_t m_pTRel[slimmedMuons_]              *
+*Entries :    23698 : Total  Size=     400611 bytes  File Size  =      22604 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=  17.69     *
+*............................................................................*
+*Br  358 :slimmedMuons.m_ptRatio : Float_t m_ptRatio[slimmedMuons_]          *
+*Entries :    23698 : Total  Size=     400635 bytes  File Size  =      22584 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=  17.71     *
+*............................................................................*
+*Br  359 :slimmedMuons.m_bTagDeepJetClosestJet :                             *
+*         | Float_t m_bTagDeepJetClosestJet[slimmedMuons_]                   *
+*Entries :    23698 : Total  Size=     400803 bytes  File Size  =      22740 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=  17.59     *
+*............................................................................*
+*Br  360 :slimmedMuons.m_puppiChargedHadronIso :                             *
+*         | Float_t m_puppiChargedHadronIso[slimmedMuons_]                   *
+*Entries :    23698 : Total  Size=     400803 bytes  File Size  =     208440 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   1.92     *
+*............................................................................*
+*Br  361 :slimmedMuons.m_puppiNeutralHadronIso :                             *
+*         | Float_t m_puppiNeutralHadronIso[slimmedMuons_]                   *
+*Entries :    23698 : Total  Size=     400803 bytes  File Size  =     125344 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   3.19     *
+*............................................................................*
+*Br  362 :slimmedMuons.m_puppiPhotonIso :                                    *
+*         | Float_t m_puppiPhotonIso[slimmedMuons_]                          *
+*Entries :    23698 : Total  Size=     400719 bytes  File Size  =     131084 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   3.05     *
+*............................................................................*
+*Br  363 :slimmedMuons.m_puppiNoLeptonsChargedHadronIso :                    *
+*         | Float_t m_puppiNoLeptonsChargedHadronIso[slimmedMuons_]          *
+*Entries :    23698 : Total  Size=     400911 bytes  File Size  =     207508 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   1.93     *
+*............................................................................*
+*Br  364 :slimmedMuons.m_puppiNoLeptonsNeutralHadronIso :                    *
+*         | Float_t m_puppiNoLeptonsNeutralHadronIso[slimmedMuons_]          *
+*Entries :    23698 : Total  Size=     400911 bytes  File Size  =     125220 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   3.20     *
+*............................................................................*
+*Br  365 :slimmedMuons.m_puppiNoLeptonsPhotonIso :                           *
+*         | Float_t m_puppiNoLeptonsPhotonIso[slimmedMuons_]                 *
+*Entries :    23698 : Total  Size=     400827 bytes  File Size  =     131528 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=   3.04     *
+*............................................................................*
+*Br  366 :slimmedMuons.m_muonMVATOP : Float_t m_muonMVATOP[slimmedMuons_]    *
+*Entries :    23698 : Total  Size=     400671 bytes  File Size  =      22592 *
+*Baskets :        8 : Basket Size=     164864 bytes  Compression=  17.71     *
+*............................................................................*
+*Br  367 :slimmedMuons.m_source_candidates :                                 *
+*         | vector<source_candidate> m_source_candidates[slimmedMuons_]      *
+*Entries :    23698 : Total  Size=     685381 bytes  File Size  =      47056 *
+*Baskets :       10 : Basket Size=     252928 bytes  Compression=  14.55     *
+*............................................................................*
+*Br  368 :slimmedMuons.tags.tagdata : map<int,float> tagdata[slimmedMuons_]  *
+*Entries :    23698 : Total  Size=     685273 bytes  File Size  =      46774 *
+*Baskets :       10 : Basket Size=     252928 bytes  Compression=  14.64     *
+*............................................................................*
+*Br  369 :slimmedJets : Int_t slimmedJets_                                   *
+*Entries :    23698 : Total  Size=     227181 bytes  File Size  =      31074 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   6.13     *
+*............................................................................*
+*Br  370 :slimmedJets.m_charge : Short_t m_charge[slimmedJets_]              *
+*Entries :    23698 : Total  Size=     773599 bytes  File Size  =     191104 *
+*Baskets :       10 : Basket Size=     279040 bytes  Compression=   4.04     *
+*............................................................................*
+*Br  371 :slimmedJets.m_pt : Float_t m_pt[slimmedJets_]                      *
+*Entries :    23698 : Total  Size=    1451258 bytes  File Size  =    1124376 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=   1.29     *
+*............................................................................*
+*Br  372 :slimmedJets.m_eta : Float_t m_eta[slimmedJets_]                    *
+*Entries :    23698 : Total  Size=    1451277 bytes  File Size  =    1281579 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=   1.13     *
+*............................................................................*
+*Br  373 :slimmedJets.m_phi : Float_t m_phi[slimmedJets_]                    *
+*Entries :    23698 : Total  Size=    1451277 bytes  File Size  =    1277935 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=   1.14     *
+*............................................................................*
+*Br  374 :slimmedJets.m_energy : Float_t m_energy[slimmedJets_]              *
+*Entries :    23698 : Total  Size=    1451334 bytes  File Size  =    1265344 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=   1.15     *
+*............................................................................*
+*Br  375 :slimmedJets.m_pdgId : Int_t m_pdgId[slimmedJets_]                  *
+*Entries :    23698 : Total  Size=    1451315 bytes  File Size  =      31769 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=  45.66     *
+*............................................................................*
+*Br  376 :slimmedJets.m_partonFlavour : Int_t m_partonFlavour[slimmedJets_]  *
+*Entries :    23698 : Total  Size=    1451467 bytes  File Size  =     137273 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=  10.57     *
+*............................................................................*
+*Br  377 :slimmedJets.m_hadronFlavour : Int_t m_hadronFlavour[slimmedJets_]  *
+*Entries :    23698 : Total  Size=    1451467 bytes  File Size  =      61037 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=  23.77     *
+*............................................................................*
+*Br  378 :slimmedJets.m_jetArea : Float_t m_jetArea[slimmedJets_]            *
+*Entries :    23698 : Total  Size=    1451353 bytes  File Size  =     270415 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=   5.36     *
+*............................................................................*
+*Br  379 :slimmedJets.m_numberOfDaughters :                                  *
+*         | Int_t m_numberOfDaughters[slimmedJets_]                          *
+*Entries :    23698 : Total  Size=    1451543 bytes  File Size  =     270945 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=   5.35     *
+*............................................................................*
+*Br  380 :slimmedJets.m_neutralEmEnergyFraction :                            *
+*         | Float_t m_neutralEmEnergyFraction[slimmedJets_]                  *
+*Entries :    23698 : Total  Size=    1451657 bytes  File Size  =    1101043 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=   1.32     *
+*............................................................................*
+*Br  381 :slimmedJets.m_neutralHadronEnergyFraction :                        *
+*         | Float_t m_neutralHadronEnergyFraction[slimmedJets_]              *
+*Entries :    23698 : Total  Size=    1451733 bytes  File Size  =    1136399 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=   1.28     *
+*............................................................................*
+*Br  382 :slimmedJets.m_chargedEmEnergyFraction :                            *
+*         | Float_t m_chargedEmEnergyFraction[slimmedJets_]                  *
+*Entries :    23698 : Total  Size=    1451657 bytes  File Size  =      94223 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=  15.40     *
+*............................................................................*
+*Br  383 :slimmedJets.m_chargedHadronEnergyFraction :                        *
+*         | Float_t m_chargedHadronEnergyFraction[slimmedJets_]              *
+*Entries :    23698 : Total  Size=    1451733 bytes  File Size  =    1001751 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=   1.45     *
+*............................................................................*
+*Br  384 :slimmedJets.m_muonEnergyFraction :                                 *
+*         | Float_t m_muonEnergyFraction[slimmedJets_]                       *
+*Entries :    23698 : Total  Size=    1451562 bytes  File Size  =      96040 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=  15.11     *
+*............................................................................*
+*Br  385 :slimmedJets.m_photonEnergyFraction :                               *
+*         | Float_t m_photonEnergyFraction[slimmedJets_]                     *
+*Entries :    23698 : Total  Size=    1451600 bytes  File Size  =     834834 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=   1.74     *
+*............................................................................*
+*Br  386 :slimmedJets.m_chargedMultiplicity :                                *
+*         | Int_t m_chargedMultiplicity[slimmedJets_]                        *
+*Entries :    23698 : Total  Size=    1451581 bytes  File Size  =     251547 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=   5.77     *
+*............................................................................*
+*Br  387 :slimmedJets.m_neutralMultiplicity :                                *
+*         | Int_t m_neutralMultiplicity[slimmedJets_]                        *
+*Entries :    23698 : Total  Size=    1451581 bytes  File Size  =     246447 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=   5.89     *
+*............................................................................*
+*Br  388 :slimmedJets.m_muonMultiplicity :                                   *
+*         | Int_t m_muonMultiplicity[slimmedJets_]                           *
+*Entries :    23698 : Total  Size=    1451524 bytes  File Size  =      54670 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=  26.54     *
+*............................................................................*
+*Br  389 :slimmedJets.m_electronMultiplicity :                               *
+*         | Int_t m_electronMultiplicity[slimmedJets_]                       *
+*Entries :    23698 : Total  Size=    1451600 bytes  File Size  =      53994 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=  26.87     *
+*............................................................................*
+*Br  390 :slimmedJets.m_photonMultiplicity :                                 *
+*         | Int_t m_photonMultiplicity[slimmedJets_]                         *
+*Entries :    23698 : Total  Size=    1451562 bytes  File Size  =     205344 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=   7.07     *
+*............................................................................*
+*Br  391 :slimmedJets.m_puppiMultiplicity :                                  *
+*         | Float_t m_puppiMultiplicity[slimmedJets_]                        *
+*Entries :    23698 : Total  Size=    1451543 bytes  File Size  =      31869 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=  45.52     *
+*............................................................................*
+*Br  392 :slimmedJets.m_neutralPuppiMultiplicity :                           *
+*         | Float_t m_neutralPuppiMultiplicity[slimmedJets_]                 *
+*Entries :    23698 : Total  Size=    1451676 bytes  File Size  =      31986 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=  45.36     *
+*............................................................................*
+*Br  393 :slimmedJets.m_neutralHadronPuppiMultiplicity :                     *
+*         | Float_t m_neutralHadronPuppiMultiplicity[slimmedJets_]           *
+*Entries :    23698 : Total  Size=    1451790 bytes  File Size  =      32172 *
+*Baskets :       15 : Basket Size=     487424 bytes  Compression=  45.10     *
+*............................................................................*
+*Br  394 :slimmedJets.m_photonPuppiMultiplicity :                            *
+*         | Float_t m_photonPuppiMultiplicity[slimmedJets_]                  *
+*Entries :    23698 : Total  Size=    1451657 bytes  File Size  =      31879 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=  45.51     *
+*............................................................................*
+*Br  395 :slimmedJets.m_HFHadronPuppiMultiplicity :                          *
+*         | Float_t m_HFHadronPuppiMultiplicity[slimmedJets_]                *
+*Entries :    23698 : Total  Size=    1451695 bytes  File Size  =      32005 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=  45.33     *
+*............................................................................*
+*Br  396 :slimmedJets.m_HFEMPuppiMultiplicity :                              *
+*         | Float_t m_HFEMPuppiMultiplicity[slimmedJets_]                    *
+*Entries :    23698 : Total  Size=    1451619 bytes  File Size  =      31941 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=  45.42     *
+*............................................................................*
+*Br  397 :slimmedJets.m_btag_DeepCSV_probb :                                 *
+*         | Float_t m_btag_DeepCSV_probb[slimmedJets_]                       *
+*Entries :    23698 : Total  Size=    1451562 bytes  File Size  =     742984 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=   1.95     *
+*............................................................................*
+*Br  398 :slimmedJets.m_btag_DeepCSV_probbb :                                *
+*         | Float_t m_btag_DeepCSV_probbb[slimmedJets_]                      *
+*Entries :    23698 : Total  Size=    1451581 bytes  File Size  =     752347 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=   1.93     *
+*............................................................................*
+*Br  399 :slimmedJets.m_btag_DeepCSV_probudsg :                              *
+*         | Float_t m_btag_DeepCSV_probudsg[slimmedJets_]                    *
+*Entries :    23698 : Total  Size=    1451619 bytes  File Size  =     696613 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=   2.08     *
+*............................................................................*
+*Br  400 :slimmedJets.m_btag_DeepCSV_probc :                                 *
+*         | Float_t m_btag_DeepCSV_probc[slimmedJets_]                       *
+*Entries :    23698 : Total  Size=    1451562 bytes  File Size  =     725908 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=   2.00     *
+*............................................................................*
+*Br  401 :slimmedJets.m_btag_DeepFlavour_probbb :                            *
+*         | Float_t m_btag_DeepFlavour_probbb[slimmedJets_]                  *
+*Entries :    23698 : Total  Size=    1451657 bytes  File Size  =      31947 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=  45.41     *
+*............................................................................*
+*Br  402 :slimmedJets.m_btag_DeepFlavour_probb :                             *
+*         | Float_t m_btag_DeepFlavour_probb[slimmedJets_]                   *
+*Entries :    23698 : Total  Size=    1451638 bytes  File Size  =      32120 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=  45.17     *
+*............................................................................*
+*Br  403 :slimmedJets.m_btag_DeepFlavour_problepb :                          *
+*         | Float_t m_btag_DeepFlavour_problepb[slimmedJets_]                *
+*Entries :    23698 : Total  Size=    1451695 bytes  File Size  =      32065 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=  45.25     *
+*............................................................................*
+*Br  404 :slimmedJets.m_btag_DeepFlavour_probuds :                           *
+*         | Float_t m_btag_DeepFlavour_probuds[slimmedJets_]                 *
+*Entries :    23698 : Total  Size=    1451676 bytes  File Size  =      32042 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=  45.28     *
+*............................................................................*
+*Br  405 :slimmedJets.m_btag_DeepFlavour_probc :                             *
+*         | Float_t m_btag_DeepFlavour_probc[slimmedJets_]                   *
+*Entries :    23698 : Total  Size=    1451638 bytes  File Size  =      32120 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=  45.17     *
+*............................................................................*
+*Br  406 :slimmedJets.m_btag_DeepFlavour_probg :                             *
+*         | Float_t m_btag_DeepFlavour_probg[slimmedJets_]                   *
+*Entries :    23698 : Total  Size=    1451638 bytes  File Size  =      32120 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=  45.17     *
+*............................................................................*
+*Br  407 :slimmedJets.m_JEC_factor_raw :                                     *
+*         | Float_t m_JEC_factor_raw[slimmedJets_]                           *
+*Entries :    23698 : Total  Size=    1451486 bytes  File Size  =    1129232 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=   1.28     *
+*............................................................................*
+*Br  408 :slimmedJets.m_JEC_L1factor_raw :                                   *
+*         | Float_t m_JEC_L1factor_raw[slimmedJets_]                         *
+*Entries :    23698 : Total  Size=    1451524 bytes  File Size  =    1129758 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=   1.28     *
+*............................................................................*
+*Br  409 :slimmedJets.m_genjet_index : Int_t m_genjet_index[slimmedJets_]    *
+*Entries :    23698 : Total  Size=    1451448 bytes  File Size  =      31830 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=  45.58     *
+*............................................................................*
+*Br  410 :slimmedJets.m_pileupID : Float_t m_pileupID[slimmedJets_]          *
+*Entries :    23698 : Total  Size=    1451372 bytes  File Size  =    1184966 *
+*Baskets :       15 : Basket Size=     486912 bytes  Compression=   1.22     *
+*............................................................................*
+*Br  411 :slimmedJets.m_minDeltaRToL1Jet :                                   *
+*         | Double_t m_minDeltaRToL1Jet[slimmedJets_]                        *
+*Entries :    23698 : Total  Size=    2806961 bytes  File Size  =    2573552 *
+*Baskets :       24 : Basket Size=     902144 bytes  Compression=   1.09     *
+*............................................................................*
+*Br  412 :slimmedJets.m_lepton_keys :                                        *
+*         | vector<long> m_lepton_keys[slimmedJets_]                         *
+*Entries :    23698 : Total  Size=    1593745 bytes  File Size  =      71244 *
+*Baskets :       16 : Basket Size=     530944 bytes  Compression=  22.36     *
+*............................................................................*
+*Br  413 :slimmedJets.m_pfcand_indexs :                                      *
+*         | vector<long> m_pfcand_indexs[slimmedJets_]                       *
+*Entries :    23698 : Total  Size=    1593785 bytes  File Size  =      71276 *
+*Baskets :       16 : Basket Size=     530944 bytes  Compression=  22.35     *
+*............................................................................*
+*Br  414 :slimmedJets.tags.tagdata : map<int,float> tagdata[slimmedJets_]    *
+*Entries :    23698 : Total  Size=    9868963 bytes  File Size  =     272152 *
+*Baskets :       76 : Basket Size=    1812480 bytes  Compression=  36.26     *
+*............................................................................*
+*Br  415 :slimmedJetsPuppi : Int_t slimmedJetsPuppi_                         *
+*Entries :    23698 : Total  Size=     223361 bytes  File Size  =      29556 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   6.45     *
+*............................................................................*
+*Br  416 :slimmedJetsPuppi.m_charge : Short_t m_charge[slimmedJetsPuppi_]    *
+*Entries :    23698 : Total  Size=     479399 bytes  File Size  =      99236 *
+*Baskets :        8 : Basket Size=     188928 bytes  Compression=   4.82     *
+*............................................................................*
+*Br  417 :slimmedJetsPuppi.m_pt : Float_t m_pt[slimmedJetsPuppi_]            *
+*Entries :    23698 : Total  Size=     862779 bytes  File Size  =     699771 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=   1.23     *
+*............................................................................*
+*Br  418 :slimmedJetsPuppi.m_eta : Float_t m_eta[slimmedJetsPuppi_]          *
+*Entries :    23698 : Total  Size=     862794 bytes  File Size  =     739162 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=   1.17     *
+*............................................................................*
+*Br  419 :slimmedJetsPuppi.m_phi : Float_t m_phi[slimmedJetsPuppi_]          *
+*Entries :    23698 : Total  Size=     862794 bytes  File Size  =     732398 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=   1.18     *
+*............................................................................*
+*Br  420 :slimmedJetsPuppi.m_energy : Float_t m_energy[slimmedJetsPuppi_]    *
+*Entries :    23698 : Total  Size=     862839 bytes  File Size  =     723519 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=   1.19     *
+*............................................................................*
+*Br  421 :slimmedJetsPuppi.m_pdgId : Int_t m_pdgId[slimmedJetsPuppi_]        *
+*Entries :    23698 : Total  Size=     862824 bytes  File Size  =      27600 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=  31.24     *
+*............................................................................*
+*Br  422 :slimmedJetsPuppi.m_partonFlavour :                                 *
+*         | Int_t m_partonFlavour[slimmedJetsPuppi_]                         *
+*Entries :    23698 : Total  Size=     862944 bytes  File Size  =      89628 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=   9.62     *
+*............................................................................*
+*Br  423 :slimmedJetsPuppi.m_hadronFlavour :                                 *
+*         | Int_t m_hadronFlavour[slimmedJetsPuppi_]                         *
+*Entries :    23698 : Total  Size=     862944 bytes  File Size  =      48956 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=  17.61     *
+*............................................................................*
+*Br  424 :slimmedJetsPuppi.m_jetArea : Float_t m_jetArea[slimmedJetsPuppi_]  *
+*Entries :    23698 : Total  Size=     862854 bytes  File Size  =     160482 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=   5.37     *
+*............................................................................*
+*Br  425 :slimmedJetsPuppi.m_numberOfDaughters :                             *
+*         | Int_t m_numberOfDaughters[slimmedJetsPuppi_]                     *
+*Entries :    23698 : Total  Size=     863004 bytes  File Size  =     170992 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=   5.04     *
+*............................................................................*
+*Br  426 :slimmedJetsPuppi.m_neutralEmEnergyFraction :                       *
+*         | Float_t m_neutralEmEnergyFraction[slimmedJetsPuppi_]             *
+*Entries :    23698 : Total  Size=     863094 bytes  File Size  =     528762 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=   1.63     *
+*............................................................................*
+*Br  427 :slimmedJetsPuppi.m_neutralHadronEnergyFraction :                   *
+*         | Float_t m_neutralHadronEnergyFraction[slimmedJetsPuppi_]         *
+*Entries :    23698 : Total  Size=     863154 bytes  File Size  =     554674 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=   1.55     *
+*............................................................................*
+*Br  428 :slimmedJetsPuppi.m_chargedEmEnergyFraction :                       *
+*         | Float_t m_chargedEmEnergyFraction[slimmedJetsPuppi_]             *
+*Entries :    23698 : Total  Size=     863094 bytes  File Size  =      78402 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=  11.00     *
+*............................................................................*
+*Br  429 :slimmedJetsPuppi.m_chargedHadronEnergyFraction :                   *
+*         | Float_t m_chargedHadronEnergyFraction[slimmedJetsPuppi_]         *
+*Entries :    23698 : Total  Size=     863154 bytes  File Size  =     590290 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=   1.46     *
+*............................................................................*
+*Br  430 :slimmedJetsPuppi.m_muonEnergyFraction :                            *
+*         | Float_t m_muonEnergyFraction[slimmedJetsPuppi_]                  *
+*Entries :    23698 : Total  Size=     863019 bytes  File Size  =      62167 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=  13.87     *
+*............................................................................*
+*Br  431 :slimmedJetsPuppi.m_photonEnergyFraction :                          *
+*         | Float_t m_photonEnergyFraction[slimmedJetsPuppi_]                *
+*Entries :    23698 : Total  Size=     863049 bytes  File Size  =     527853 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=   1.63     *
+*............................................................................*
+*Br  432 :slimmedJetsPuppi.m_chargedMultiplicity :                           *
+*         | Int_t m_chargedMultiplicity[slimmedJetsPuppi_]                   *
+*Entries :    23698 : Total  Size=     863034 bytes  File Size  =     157142 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=   5.49     *
+*............................................................................*
+*Br  433 :slimmedJetsPuppi.m_neutralMultiplicity :                           *
+*         | Int_t m_neutralMultiplicity[slimmedJetsPuppi_]                   *
+*Entries :    23698 : Total  Size=     863034 bytes  File Size  =     136134 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=   6.33     *
+*............................................................................*
+*Br  434 :slimmedJetsPuppi.m_muonMultiplicity :                              *
+*         | Int_t m_muonMultiplicity[slimmedJetsPuppi_]                      *
+*Entries :    23698 : Total  Size=     862989 bytes  File Size  =      40281 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=  21.41     *
+*............................................................................*
+*Br  435 :slimmedJetsPuppi.m_electronMultiplicity :                          *
+*         | Int_t m_electronMultiplicity[slimmedJetsPuppi_]                  *
+*Entries :    23698 : Total  Size=     863049 bytes  File Size  =      43553 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=  19.80     *
+*............................................................................*
+*Br  436 :slimmedJetsPuppi.m_photonMultiplicity :                            *
+*         | Int_t m_photonMultiplicity[slimmedJetsPuppi_]                    *
+*Entries :    23698 : Total  Size=     863019 bytes  File Size  =     127543 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=   6.76     *
+*............................................................................*
+*Br  437 :slimmedJetsPuppi.m_puppiMultiplicity :                             *
+*         | Float_t m_puppiMultiplicity[slimmedJetsPuppi_]                   *
+*Entries :    23698 : Total  Size=     863004 bytes  File Size  =      27748 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=  31.07     *
+*............................................................................*
+*Br  438 :slimmedJetsPuppi.m_neutralPuppiMultiplicity :                      *
+*         | Float_t m_neutralPuppiMultiplicity[slimmedJetsPuppi_]            *
+*Entries :    23698 : Total  Size=     863109 bytes  File Size  =      27745 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=  31.08     *
+*............................................................................*
+*Br  439 :slimmedJetsPuppi.m_neutralHadronPuppiMultiplicity :                *
+*         | Float_t m_neutralHadronPuppiMultiplicity[slimmedJetsPuppi_]      *
+*Entries :    23698 : Total  Size=     863199 bytes  File Size  =      27767 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=  31.06     *
+*............................................................................*
+*Br  440 :slimmedJetsPuppi.m_photonPuppiMultiplicity :                       *
+*         | Float_t m_photonPuppiMultiplicity[slimmedJetsPuppi_]             *
+*Entries :    23698 : Total  Size=     863094 bytes  File Size  =      27734 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=  31.09     *
+*............................................................................*
+*Br  441 :slimmedJetsPuppi.m_HFHadronPuppiMultiplicity :                     *
+*         | Float_t m_HFHadronPuppiMultiplicity[slimmedJetsPuppi_]           *
+*Entries :    23698 : Total  Size=     863124 bytes  File Size  =      27836 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=  30.98     *
+*............................................................................*
+*Br  442 :slimmedJetsPuppi.m_HFEMPuppiMultiplicity :                         *
+*         | Float_t m_HFEMPuppiMultiplicity[slimmedJetsPuppi_]               *
+*Entries :    23698 : Total  Size=     863064 bytes  File Size  =      27796 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=  31.02     *
+*............................................................................*
+*Br  443 :slimmedJetsPuppi.m_btag_DeepCSV_probb :                            *
+*         | Float_t m_btag_DeepCSV_probb[slimmedJetsPuppi_]                  *
+*Entries :    23698 : Total  Size=     863019 bytes  File Size  =     605551 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=   1.42     *
+*............................................................................*
+*Br  444 :slimmedJetsPuppi.m_btag_DeepCSV_probbb :                           *
+*         | Float_t m_btag_DeepCSV_probbb[slimmedJetsPuppi_]                 *
+*Entries :    23698 : Total  Size=     863034 bytes  File Size  =     613926 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=   1.40     *
+*............................................................................*
+*Br  445 :slimmedJetsPuppi.m_btag_DeepCSV_probudsg :                         *
+*         | Float_t m_btag_DeepCSV_probudsg[slimmedJetsPuppi_]               *
+*Entries :    23698 : Total  Size=     863064 bytes  File Size  =     550996 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=   1.56     *
+*............................................................................*
+*Br  446 :slimmedJetsPuppi.m_btag_DeepCSV_probc :                            *
+*         | Float_t m_btag_DeepCSV_probc[slimmedJetsPuppi_]                  *
+*Entries :    23698 : Total  Size=     863019 bytes  File Size  =     589759 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=   1.46     *
+*............................................................................*
+*Br  447 :slimmedJetsPuppi.m_btag_DeepFlavour_probbb :                       *
+*         | Float_t m_btag_DeepFlavour_probbb[slimmedJetsPuppi_]             *
+*Entries :    23698 : Total  Size=     863094 bytes  File Size  =      27734 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=  31.09     *
+*............................................................................*
+*Br  448 :slimmedJetsPuppi.m_btag_DeepFlavour_probb :                        *
+*         | Float_t m_btag_DeepFlavour_probb[slimmedJetsPuppi_]              *
+*Entries :    23698 : Total  Size=     863079 bytes  File Size  =      27667 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=  31.17     *
+*............................................................................*
+*Br  449 :slimmedJetsPuppi.m_btag_DeepFlavour_problepb :                     *
+*         | Float_t m_btag_DeepFlavour_problepb[slimmedJetsPuppi_]           *
+*Entries :    23698 : Total  Size=     863124 bytes  File Size  =      27820 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=  31.00     *
+*............................................................................*
+*Br  450 :slimmedJetsPuppi.m_btag_DeepFlavour_probuds :                      *
+*         | Float_t m_btag_DeepFlavour_probuds[slimmedJetsPuppi_]            *
+*Entries :    23698 : Total  Size=     863109 bytes  File Size  =      27745 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=  31.08     *
+*............................................................................*
+*Br  451 :slimmedJetsPuppi.m_btag_DeepFlavour_probc :                        *
+*         | Float_t m_btag_DeepFlavour_probc[slimmedJetsPuppi_]              *
+*Entries :    23698 : Total  Size=     863079 bytes  File Size  =      27667 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=  31.17     *
+*............................................................................*
+*Br  452 :slimmedJetsPuppi.m_btag_DeepFlavour_probg :                        *
+*         | Float_t m_btag_DeepFlavour_probg[slimmedJetsPuppi_]              *
+*Entries :    23698 : Total  Size=     863079 bytes  File Size  =      27667 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=  31.17     *
+*............................................................................*
+*Br  453 :slimmedJetsPuppi.m_JEC_factor_raw :                                *
+*         | Float_t m_JEC_factor_raw[slimmedJetsPuppi_]                      *
+*Entries :    23698 : Total  Size=     862959 bytes  File Size  =     471175 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=   1.83     *
+*............................................................................*
+*Br  454 :slimmedJetsPuppi.m_JEC_L1factor_raw :                              *
+*         | Float_t m_JEC_L1factor_raw[slimmedJetsPuppi_]                    *
+*Entries :    23698 : Total  Size=     862989 bytes  File Size  =      27673 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=  31.16     *
+*............................................................................*
+*Br  455 :slimmedJetsPuppi.m_genjet_index :                                  *
+*         | Int_t m_genjet_index[slimmedJetsPuppi_]                          *
+*Entries :    23698 : Total  Size=     862929 bytes  File Size  =      27601 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=  31.24     *
+*............................................................................*
+*Br  456 :slimmedJetsPuppi.m_pileupID : Float_t m_pileupID[slimmedJetsPuppi_]*
+*Entries :    23698 : Total  Size=     862869 bytes  File Size  =      27553 *
+*Baskets :       11 : Basket Size=     306688 bytes  Compression=  31.29     *
+*............................................................................*
+*Br  457 :slimmedJetsPuppi.m_minDeltaRToL1Jet :                              *
+*         | Double_t m_minDeltaRToL1Jet[slimmedJetsPuppi_]                   *
+*Entries :    23698 : Total  Size=    1629831 bytes  File Size  =    1456448 *
+*Baskets :       16 : Basket Size=     541696 bytes  Compression=   1.12     *
+*............................................................................*
+*Br  458 :slimmedJetsPuppi.m_lepton_keys :                                   *
+*         | vector<long> m_lepton_keys[slimmedJetsPuppi_]                    *
+*Entries :    23698 : Total  Size=    1005235 bytes  File Size  =      57008 *
+*Baskets :       12 : Basket Size=     350208 bytes  Compression=  17.62     *
+*............................................................................*
+*Br  459 :slimmedJetsPuppi.m_pfcand_indexs :                                 *
+*         | vector<long> m_pfcand_indexs[slimmedJetsPuppi_]                  *
+*Entries :    23698 : Total  Size=    1005267 bytes  File Size  =      57032 *
+*Baskets :       12 : Basket Size=     350208 bytes  Compression=  17.61     *
+*............................................................................*
+*Br  460 :slimmedJetsPuppi.tags.tagdata :                                    *
+*         | map<int,float> tagdata[slimmedJetsPuppi_]                        *
+*Entries :    23698 : Total  Size=    1147529 bytes  File Size  =      56485 *
+*Baskets :       13 : Basket Size=     394240 bytes  Compression=  20.30     *
+*............................................................................*
+*Br  461 :slimmedJetsAK8 : Int_t slimmedJetsAK8_                             *
+*Entries :    23698 : Total  Size=     221069 bytes  File Size  =      22012 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   8.66     *
+*............................................................................*
+*Br  462 :slimmedJetsAK8.m_charge : Short_t m_charge[slimmedJetsAK8_]        *
+*Entries :    23698 : Total  Size=     232529 bytes  File Size  =      52781 *
+*Baskets :        7 : Basket Size=     113664 bytes  Compression=   4.39     *
+*............................................................................*
+*Br  463 :slimmedJetsAK8.m_pt : Float_t m_pt[slimmedJetsAK8_]                *
+*Entries :    23698 : Total  Size=     368927 bytes  File Size  =     257148 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=   1.43     *
+*............................................................................*
+*Br  464 :slimmedJetsAK8.m_eta : Float_t m_eta[slimmedJetsAK8_]              *
+*Entries :    23698 : Total  Size=     368939 bytes  File Size  =     275088 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=   1.34     *
+*............................................................................*
+*Br  465 :slimmedJetsAK8.m_phi : Float_t m_phi[slimmedJetsAK8_]              *
+*Entries :    23698 : Total  Size=     368939 bytes  File Size  =     273784 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=   1.35     *
+*............................................................................*
+*Br  466 :slimmedJetsAK8.m_energy : Float_t m_energy[slimmedJetsAK8_]        *
+*Entries :    23698 : Total  Size=     368975 bytes  File Size  =     260908 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=   1.41     *
+*............................................................................*
+*Br  467 :slimmedJetsAK8.m_pdgId : Int_t m_pdgId[slimmedJetsAK8_]            *
+*Entries :    23698 : Total  Size=     368963 bytes  File Size  =      21872 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=  16.84     *
+*............................................................................*
+*Br  468 :slimmedJetsAK8.m_partonFlavour :                                   *
+*         | Int_t m_partonFlavour[slimmedJetsAK8_]                           *
+*Entries :    23698 : Total  Size=     369059 bytes  File Size  =      49284 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=   7.47     *
+*............................................................................*
+*Br  469 :slimmedJetsAK8.m_hadronFlavour :                                   *
+*         | Int_t m_hadronFlavour[slimmedJetsAK8_]                           *
+*Entries :    23698 : Total  Size=     369059 bytes  File Size  =      33284 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=  11.07     *
+*............................................................................*
+*Br  470 :slimmedJetsAK8.m_jetArea : Float_t m_jetArea[slimmedJetsAK8_]      *
+*Entries :    23698 : Total  Size=     368987 bytes  File Size  =      77376 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=   4.76     *
+*............................................................................*
+*Br  471 :slimmedJetsAK8.m_numberOfDaughters :                               *
+*         | Int_t m_numberOfDaughters[slimmedJetsAK8_]                       *
+*Entries :    23698 : Total  Size=     369107 bytes  File Size  =      79788 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=   4.62     *
+*............................................................................*
+*Br  472 :slimmedJetsAK8.m_neutralEmEnergyFraction :                         *
+*         | Float_t m_neutralEmEnergyFraction[slimmedJetsAK8_]               *
+*Entries :    23698 : Total  Size=     369179 bytes  File Size  =     225732 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=   1.63     *
+*............................................................................*
+*Br  473 :slimmedJetsAK8.m_neutralHadronEnergyFraction :                     *
+*         | Float_t m_neutralHadronEnergyFraction[slimmedJetsAK8_]           *
+*Entries :    23698 : Total  Size=     369227 bytes  File Size  =     231816 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=   1.59     *
+*............................................................................*
+*Br  474 :slimmedJetsAK8.m_chargedEmEnergyFraction :                         *
+*         | Float_t m_chargedEmEnergyFraction[slimmedJetsAK8_]               *
+*Entries :    23698 : Total  Size=     369179 bytes  File Size  =      53084 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=   6.94     *
+*............................................................................*
+*Br  475 :slimmedJetsAK8.m_chargedHadronEnergyFraction :                     *
+*         | Float_t m_chargedHadronEnergyFraction[slimmedJetsAK8_]           *
+*Entries :    23698 : Total  Size=     369227 bytes  File Size  =     221516 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=   1.66     *
+*............................................................................*
+*Br  476 :slimmedJetsAK8.m_muonEnergyFraction :                              *
+*         | Float_t m_muonEnergyFraction[slimmedJetsAK8_]                    *
+*Entries :    23698 : Total  Size=     369119 bytes  File Size  =      45580 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=   8.08     *
+*............................................................................*
+*Br  477 :slimmedJetsAK8.m_photonEnergyFraction :                            *
+*         | Float_t m_photonEnergyFraction[slimmedJetsAK8_]                  *
+*Entries :    23698 : Total  Size=     369143 bytes  File Size  =     226144 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=   1.63     *
+*............................................................................*
+*Br  478 :slimmedJetsAK8.m_chargedMultiplicity :                             *
+*         | Int_t m_chargedMultiplicity[slimmedJetsAK8_]                     *
+*Entries :    23698 : Total  Size=     369131 bytes  File Size  =      75196 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=   4.90     *
+*............................................................................*
+*Br  479 :slimmedJetsAK8.m_neutralMultiplicity :                             *
+*         | Int_t m_neutralMultiplicity[slimmedJetsAK8_]                     *
+*Entries :    23698 : Total  Size=     369131 bytes  File Size  =      69580 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=   5.29     *
+*............................................................................*
+*Br  480 :slimmedJetsAK8.m_muonMultiplicity :                                *
+*         | Int_t m_muonMultiplicity[slimmedJetsAK8_]                        *
+*Entries :    23698 : Total  Size=     369095 bytes  File Size  =      29136 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=  12.64     *
+*............................................................................*
+*Br  481 :slimmedJetsAK8.m_electronMultiplicity :                            *
+*         | Int_t m_electronMultiplicity[slimmedJetsAK8_]                    *
+*Entries :    23698 : Total  Size=     369143 bytes  File Size  =      30292 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=  12.16     *
+*............................................................................*
+*Br  482 :slimmedJetsAK8.m_photonMultiplicity :                              *
+*         | Int_t m_photonMultiplicity[slimmedJetsAK8_]                      *
+*Entries :    23698 : Total  Size=     369119 bytes  File Size  =      67748 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=   5.44     *
+*............................................................................*
+*Br  483 :slimmedJetsAK8.m_puppiMultiplicity :                               *
+*         | Float_t m_puppiMultiplicity[slimmedJetsAK8_]                     *
+*Entries :    23698 : Total  Size=     369107 bytes  File Size  =      21924 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=  16.80     *
+*............................................................................*
+*Br  484 :slimmedJetsAK8.m_neutralPuppiMultiplicity :                        *
+*         | Float_t m_neutralPuppiMultiplicity[slimmedJetsAK8_]              *
+*Entries :    23698 : Total  Size=     369191 bytes  File Size  =      21940 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=  16.79     *
+*............................................................................*
+*Br  485 :slimmedJetsAK8.m_neutralHadronPuppiMultiplicity :                  *
+*         | Float_t m_neutralHadronPuppiMultiplicity[slimmedJetsAK8_]        *
+*Entries :    23698 : Total  Size=     369263 bytes  File Size  =      22016 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=  16.74     *
+*............................................................................*
+*Br  486 :slimmedJetsAK8.m_photonPuppiMultiplicity :                         *
+*         | Float_t m_photonPuppiMultiplicity[slimmedJetsAK8_]               *
+*Entries :    23698 : Total  Size=     369179 bytes  File Size  =      22000 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=  16.75     *
+*............................................................................*
+*Br  487 :slimmedJetsAK8.m_HFHadronPuppiMultiplicity :                       *
+*         | Float_t m_HFHadronPuppiMultiplicity[slimmedJetsAK8_]             *
+*Entries :    23698 : Total  Size=     369203 bytes  File Size  =      21980 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=  16.76     *
+*............................................................................*
+*Br  488 :slimmedJetsAK8.m_HFEMPuppiMultiplicity :                           *
+*         | Float_t m_HFEMPuppiMultiplicity[slimmedJetsAK8_]                 *
+*Entries :    23698 : Total  Size=     369155 bytes  File Size  =      21956 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=  16.78     *
+*............................................................................*
+*Br  489 :slimmedJetsAK8.m_btag_DeepCSV_probb :                              *
+*         | Float_t m_btag_DeepCSV_probb[slimmedJetsAK8_]                    *
+*Entries :    23698 : Total  Size=     369119 bytes  File Size  =     263300 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=   1.40     *
+*............................................................................*
+*Br  490 :slimmedJetsAK8.m_btag_DeepCSV_probbb :                             *
+*         | Float_t m_btag_DeepCSV_probbb[slimmedJetsAK8_]                   *
+*Entries :    23698 : Total  Size=     369131 bytes  File Size  =     268904 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=   1.37     *
+*............................................................................*
+*Br  491 :slimmedJetsAK8.m_btag_DeepCSV_probudsg :                           *
+*         | Float_t m_btag_DeepCSV_probudsg[slimmedJetsAK8_]                 *
+*Entries :    23698 : Total  Size=     369155 bytes  File Size  =     240648 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=   1.53     *
+*............................................................................*
+*Br  492 :slimmedJetsAK8.m_btag_DeepCSV_probc :                              *
+*         | Float_t m_btag_DeepCSV_probc[slimmedJetsAK8_]                    *
+*Entries :    23698 : Total  Size=     369119 bytes  File Size  =     256212 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=   1.44     *
+*............................................................................*
+*Br  493 :slimmedJetsAK8.m_btag_DeepFlavour_probbb :                         *
+*         | Float_t m_btag_DeepFlavour_probbb[slimmedJetsAK8_]               *
+*Entries :    23698 : Total  Size=     369179 bytes  File Size  =      22032 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=  16.72     *
+*............................................................................*
+*Br  494 :slimmedJetsAK8.m_btag_DeepFlavour_probb :                          *
+*         | Float_t m_btag_DeepFlavour_probb[slimmedJetsAK8_]                *
+*Entries :    23698 : Total  Size=     369167 bytes  File Size  =      21996 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=  16.75     *
+*............................................................................*
+*Br  495 :slimmedJetsAK8.m_btag_DeepFlavour_problepb :                       *
+*         | Float_t m_btag_DeepFlavour_problepb[slimmedJetsAK8_]             *
+*Entries :    23698 : Total  Size=     369203 bytes  File Size  =      22004 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=  16.75     *
+*............................................................................*
+*Br  496 :slimmedJetsAK8.m_btag_DeepFlavour_probuds :                        *
+*         | Float_t m_btag_DeepFlavour_probuds[slimmedJetsAK8_]              *
+*Entries :    23698 : Total  Size=     369191 bytes  File Size  =      21972 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=  16.77     *
+*............................................................................*
+*Br  497 :slimmedJetsAK8.m_btag_DeepFlavour_probc :                          *
+*         | Float_t m_btag_DeepFlavour_probc[slimmedJetsAK8_]                *
+*Entries :    23698 : Total  Size=     369167 bytes  File Size  =      21996 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=  16.75     *
+*............................................................................*
+*Br  498 :slimmedJetsAK8.m_btag_DeepFlavour_probg :                          *
+*         | Float_t m_btag_DeepFlavour_probg[slimmedJetsAK8_]                *
+*Entries :    23698 : Total  Size=     369167 bytes  File Size  =      21996 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=  16.75     *
+*............................................................................*
+*Br  499 :slimmedJetsAK8.m_JEC_factor_raw :                                  *
+*         | Float_t m_JEC_factor_raw[slimmedJetsAK8_]                        *
+*Entries :    23698 : Total  Size=     369071 bytes  File Size  =     200064 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=   1.84     *
+*............................................................................*
+*Br  500 :slimmedJetsAK8.m_JEC_L1factor_raw :                                *
+*         | Float_t m_JEC_L1factor_raw[slimmedJetsAK8_]                      *
+*Entries :    23698 : Total  Size=     369095 bytes  File Size  =      21920 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=  16.81     *
+*............................................................................*
+*Br  501 :slimmedJetsAK8.m_genjet_index :                                    *
+*         | Int_t m_genjet_index[slimmedJetsAK8_]                            *
+*Entries :    23698 : Total  Size=     369047 bytes  File Size  =      21852 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=  16.86     *
+*............................................................................*
+*Br  502 :slimmedJetsAK8.m_pileupID : Float_t m_pileupID[slimmedJetsAK8_]    *
+*Entries :    23698 : Total  Size=     368999 bytes  File Size  =      21856 *
+*Baskets :        8 : Basket Size=     155648 bytes  Compression=  16.85     *
+*............................................................................*
+*Br  503 :slimmedJetsAK8.m_minDeltaRToL1Jet :                                *
+*         | Double_t m_minDeltaRToL1Jet[slimmedJetsAK8_]                     *
+*Entries :    23698 : Total  Size=     642027 bytes  File Size  =     516226 *
+*Baskets :       10 : Basket Size=     240128 bytes  Compression=   1.24     *
+*............................................................................*
+*Br  504 :slimmedJetsAK8.m_lepton_keys :                                     *
+*         | vector<long> m_lepton_keys[slimmedJetsAK8_]                      *
+*Entries :    23698 : Total  Size=     511334 bytes  File Size  =      35752 *
+*Baskets :        9 : Basket Size=     199680 bytes  Compression=  14.28     *
+*............................................................................*
+*Br  505 :slimmedJetsAK8.m_pfcand_indexs :                                   *
+*         | vector<long> m_pfcand_indexs[slimmedJetsAK8_]                    *
+*Entries :    23698 : Total  Size=     511360 bytes  File Size  =      35770 *
+*Baskets :        9 : Basket Size=     199680 bytes  Compression=  14.28     *
+*............................................................................*
+*Br  506 :slimmedJetsAK8.tags.tagdata :                                      *
+*         | map<int,float> tagdata[slimmedJetsAK8_]                          *
+*Entries :    23698 : Total  Size=     653629 bytes  File Size  =      37642 *
+*Baskets :       10 : Basket Size=     243712 bytes  Compression=  17.35     *
+*............................................................................*

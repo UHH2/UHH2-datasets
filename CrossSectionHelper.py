@@ -1537,9 +1537,9 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.543, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2: dileptonic + semileptonic; tW has the same BRs as ttbar)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=45069892.8416,
-                NEVT_UL16postVFP=46832452.8296,
-                NEVT_UL17=112933709.709,
-                NEVT_UL18=152124659.855,
+                NEVT_UL16postVFP=44525424.8976,
+                NEVT_UL17=109847169.063,
+                NEVT_UL18=151283749.278,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/ST_tW_top_5f_hdampdown_NoFullyHadronicDecays_CP5_powheg-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/ST_tW_top_5f_hdampdown_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -1554,9 +1554,9 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.543, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2: dileptonic + semileptonic; tW has the same BRs as ttbar)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=44858915.6433,
-                NEVT_UL16postVFP=50345517.9472,
-                NEVT_UL17=108841119.452,
-                NEVT_UL18=152035456.84,
+                NEVT_UL16postVFP=49038389.8142,
+                NEVT_UL17=105753893.682,
+                NEVT_UL18=151297959.95,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/ST_tW_antitop_5f_hdampdown_NoFullyHadronicDecays_CP5_powheg-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/ST_tW_antitop_5f_hdampdown_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -1571,9 +1571,9 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
             "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.543, BRatSource_13TeV="https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2: dileptonic + semileptonic; tW has the same BRs as ttbar)"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=44499753.1117,
-                NEVT_UL16postVFP=48701601.1062,
-                NEVT_UL17=111075592.757,
-                NEVT_UL18=148292224.868,
+                NEVT_UL16postVFP=47934835.5502,
+                NEVT_UL17=109866638.407,
+                NEVT_UL18=144435458.687,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/ST_tW_top_5f_hdampup_NoFullyHadronicDecays_CP5_powheg-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/ST_tW_top_5f_hdampup_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
@@ -1589,8 +1589,8 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
                 NEVT_UL16preVFP=44764839.0862,
                 NEVT_UL16postVFP=48895564.3112,
-                NEVT_UL17=106200092.194,
-                NEVT_UL18=150756696.573,
+                NEVT_UL17=103890169.195,
+                NEVT_UL18=146893724.911,
             ),
             "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
                 Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/ST_tW_antitop_5f_hdampup_NoFullyHadronicDecays_CP5_powheg-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/ST_tW_antitop_5f_hdampup_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",

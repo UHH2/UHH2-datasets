@@ -1957,6 +1957,23 @@ class MCSampleValuesHelper(MCSampleValuesHelperPrototype):
             ),
         },
 
+        "ST_tW_Dilept_5f_aMCatNLO_DR2" : {
+            "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=71.7, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/SingleTopRefXsec"),
+            "BranchingRatio" : MCSampleValuesHelperPrototype.BRValues(BRat_13TeV=0.0467, BRatSource_13TeV="only e/mu decays (no tau!): dileptonic BR times (2/3)**2; https://pdg.lbl.gov/2020/reviews/rpp2020-rev-top-quark.pdf (page 2: dileptonic; tW has the same BRs as ttbar)"),
+            "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
+                NEVT_UL16preVFP=5158725.44183,
+                NEVT_UL16postVFP=5632385.91808,
+                NEVT_UL17=12329981.6743,
+                NEVT_UL18=12479643.8879,
+            ),
+            "XMLname" : MCSampleValuesHelperPrototype.XMLValues(
+                Xml_UL16preVFP="RunII_106X_v2/SM/UL16preVFP/ST_tW_Dilept_5f_DR2_CP5_amcatnlo-pythia8_Summer20UL16APV_v2.xml", XmlSource_UL16preVFP="/ST_tW_Dilept_5f_DR2_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v2/MINIAODSIM",
+                Xml_UL16postVFP="RunII_106X_v2/SM/UL16postVFP/ST_tW_Dilept_5f_DR2_CP5_amcatnlo-pythia8_Summer20UL16_v2.xml", XmlSource_UL16postVFP="/ST_tW_Dilept_5f_DR2_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2/MINIAODSIM",
+                Xml_UL17="RunII_106X_v2/SM/UL17/ST_tW_Dilept_5f_DR2_CP5_amcatnlo-pythia8_Summer20UL17_v1.xml", XmlSource_UL17="/ST_tW_Dilept_5f_DR2_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL17MiniAODv2-106X_mc2017_realistic_v9-v1/MINIAODSIM",
+                Xml_UL18="RunII_106X_v2/SM/UL18/ST_tW_Dilept_5f_DR2_CP5_amcatnlo-pythia8_Summer20UL18_v2.xml", XmlSource_UL18="/ST_tW_Dilept_5f_DR2_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM",
+            ),
+        },
+
         "ST_t-channel_top_4f_InclusiveDecays" : {
             "CrossSection" : MCSampleValuesHelperPrototype.XSValues(XSec_13TeV=136.02, XSecSource_13TeV="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/SingleTopRefXsec"),
             "NEvents" : MCSampleValuesHelperPrototype.NEventsValues(
